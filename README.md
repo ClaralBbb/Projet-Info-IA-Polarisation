@@ -58,3 +58,14 @@ Les erreurs ne sont pas masquées : des commentaires désactivés ou des échecs
 peuvent rendre le corpus partiel. Aucun fichier vidéo n’est téléchargé. Les textes
 des commentaires peuvent contenir des informations personnelles : limiter leur
 réutilisation au cadre du projet et respecter les conditions de YouTube.
+
+## Première exploration des commentaires
+
+Un [rapport HTML interactif](reports/rapport.html) et ses
+[fichiers d'analyse](reports/README.md) sont disponibles. Télécharger le HTML et
+l'ouvrir dans un navigateur pour consulter les comparaisons de fréquences et
+les extraits filtrables. Aucun serveur ni appel à l'API n'est nécessaire.
+
+Pour régénérer : `.venv/bin/python analyze.py` (JSON local ou Excel du dépôt).
+Cette exploration lexicale prépare l'étude de polarisation; elle ne mesure
+pas les opinions individuelles ni la polarisation à ce stade.

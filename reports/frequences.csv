@@ -1,0 +1,361 @@
+﻿vue,type,terme,commentaires,denominateur
+tous,words,france,19981,223151
+tous,words,macron,10197,223151
+tous,words,pays,7405,223151
+tous,words,francais,7199,223151
+tous,words,police,6827,223151
+tous,words,gens,6719,223151
+tous,words,casseurs,6416,223151
+tous,words,people,5225,223151
+tous,words,gauche,5173,223151
+tous,words,lfi,5157,223151
+tous,words,etat,4888,223151
+tous,words,gouvernement,4878,223151
+tous,words,peuple,4820,223151
+tous,words,monde,4754,223151
+tous,words,violence,4676,223151
+tous,words,ans,4265,223151
+tous,words,pouvoir,4096,223151
+tous,words,voir,4024,223151
+tous,words,cela,3772,223151
+tous,words,juste,3736,223151
+tous,words,manifestants,3735,223151
+tous,words,droite,3418,223151
+tous,words,paris,3383,223151
+tous,words,ordre,3355,223151
+tous,words,honte,3335,223151
+tous,words,like,3292,223151
+tous,words,french,3217,223151
+tous,words,extreme,3190,223151
+tous,words,temps,3060,223151
+tous,words,vie,3056,223151
+tous,words,jeunes,3045,223151
+tous,words,bravo,3003,223151
+tous,words,vont,2994,223151
+tous,words,politique,2936,223151
+tous,words,passe,2931,223151
+tous,words,guerre,2930,223151
+tous,words,font,2871,223151
+tous,words,etes,2866,223151
+tous,words,chaos,2774,223151
+tous,words,policiers,2721,223151
+tous,words,europe,2699,223151
+tous,words,fois,2696,223151
+tous,words,personne,2694,223151
+tous,words,moins,2673,223151
+tous,words,vote,2640,223151
+tous,words,casse,2613,223151
+tous,words,mal,2596,223151
+tous,words,president,2590,223151
+tous,words,beaucoup,2500,223151
+tous,words,place,2500,223151
+tous,pairs,extreme droite,1772,223151
+tous,pairs,extreme gauche,1195,223151
+tous,pairs,gilets jaunes,923,223151
+tous,pairs,guerre civile,807,223151
+tous,pairs,peuple francais,611,223151
+tous,pairs,celine dion,602,223151
+tous,pairs,ultra gauche,541,223151
+tous,pairs,quelque chose,533,223151
+tous,pairs,french people,495,223151
+tous,pairs,looks like,450,223151
+tous,pairs,pauvre france,421,223151
+tous,pairs,bieu tinh,412,223151
+tous,pairs,services publics,375,223151
+tous,pairs,nouvelle france,364,223151
+tous,pairs,france has,319,223151
+tous,pairs,monde entier,305,223151
+tous,pairs,reseaux sociaux,304,223151
+tous,pairs,courage madame,298,223151
+tous,pairs,violences policieres,289,223151
+tous,pairs,couvre feu,272,223151
+tous,pairs,far left,269,223151
+tous,pairs,mostly peaceful,267,223151
+tous,pairs,vie chere,246,223151
+tous,pairs,manifestants pacifiques,234,223151
+tous,pairs,gilet jaune,232,223151
+tous,pairs,years ago,227,223151
+tous,pairs,revolution francaise,223,223151
+tous,pairs,emmanuel macron,214,223151
+tous,pairs,peaceful protests,214,223151
+tous,pairs,french revolution,212,223151
+tous,pairs,balles reelles,210,223151
+tous,pairs,other countries,205,223151
+tous,pairs,look like,205,223151
+tous,pairs,grand chose,203,223151
+tous,pairs,jean luc,202,223151
+tous,pairs,prochaine fois,200,223151
+tous,pairs,peaceful protest,197,223151
+tous,pairs,france info,195,223151
+tous,pairs,far right,192,223151
+tous,pairs,french government,192,223151
+uniques,words,france,19150,216165
+uniques,words,macron,9761,216165
+uniques,words,pays,7164,216165
+uniques,words,francais,6937,216165
+uniques,words,gens,6566,216165
+uniques,words,police,6562,216165
+uniques,words,casseurs,6152,216165
+uniques,words,people,5049,216165
+uniques,words,gauche,5008,216165
+uniques,words,lfi,4900,216165
+uniques,words,etat,4687,216165
+uniques,words,gouvernement,4643,216165
+uniques,words,peuple,4601,216165
+uniques,words,monde,4572,216165
+uniques,words,violence,4483,216165
+uniques,words,ans,4084,216165
+uniques,words,voir,3944,216165
+uniques,words,pouvoir,3890,216165
+uniques,words,juste,3672,216165
+uniques,words,cela,3640,216165
+uniques,words,manifestants,3553,216165
+uniques,words,droite,3282,216165
+uniques,words,paris,3264,216165
+uniques,words,like,3205,216165
+uniques,words,ordre,3162,216165
+uniques,words,honte,3133,216165
+uniques,words,french,3100,216165
+uniques,words,extreme,3082,216165
+uniques,words,vont,2953,216165
+uniques,words,jeunes,2939,216165
+uniques,words,vie,2928,216165
+uniques,words,temps,2896,216165
+uniques,words,passe,2833,216165
+uniques,words,guerre,2819,216165
+uniques,words,politique,2794,216165
+uniques,words,etes,2781,216165
+uniques,words,bravo,2779,216165
+uniques,words,font,2763,216165
+uniques,words,policiers,2638,216165
+uniques,words,personne,2610,216165
+uniques,words,chaos,2604,216165
+uniques,words,moins,2594,216165
+uniques,words,fois,2584,216165
+uniques,words,casse,2550,216165
+uniques,words,mal,2547,216165
+uniques,words,vote,2540,216165
+uniques,words,europe,2535,216165
+uniques,words,president,2515,216165
+uniques,words,beaucoup,2429,216165
+uniques,words,place,2409,216165
+uniques,pairs,extreme droite,1691,216165
+uniques,pairs,extreme gauche,1170,216165
+uniques,pairs,gilets jaunes,891,216165
+uniques,pairs,guerre civile,779,216165
+uniques,pairs,peuple francais,580,216165
+uniques,pairs,celine dion,579,216165
+uniques,pairs,ultra gauche,525,216165
+uniques,pairs,quelque chose,522,216165
+uniques,pairs,french people,475,216165
+uniques,pairs,looks like,443,216165
+uniques,pairs,bieu tinh,406,216165
+uniques,pairs,pauvre france,366,216165
+uniques,pairs,nouvelle france,354,216165
+uniques,pairs,services publics,338,216165
+uniques,pairs,france has,293,216165
+uniques,pairs,monde entier,283,216165
+uniques,pairs,violences policieres,283,216165
+uniques,pairs,reseaux sociaux,280,216165
+uniques,pairs,courage madame,278,216165
+uniques,pairs,couvre feu,263,216165
+uniques,pairs,mostly peaceful,252,216165
+uniques,pairs,far left,246,216165
+uniques,pairs,vie chere,237,216165
+uniques,pairs,years ago,221,216165
+uniques,pairs,manifestants pacifiques,220,216165
+uniques,pairs,revolution francaise,213,216165
+uniques,pairs,peaceful protests,208,216165
+uniques,pairs,gilet jaune,207,216165
+uniques,pairs,emmanuel macron,205,216165
+uniques,pairs,balles reelles,204,216165
+uniques,pairs,other countries,202,216165
+uniques,pairs,grand chose,202,216165
+uniques,pairs,prochaine fois,199,216165
+uniques,pairs,french revolution,198,216165
+uniques,pairs,look like,198,216165
+uniques,pairs,france info,195,216165
+uniques,pairs,far right,192,216165
+uniques,pairs,peaceful protest,190,216165
+uniques,pairs,viet nam,189,216165
+uniques,pairs,talking about,185,216165
+principaux,words,france,14442,140087
+principaux,words,macron,7587,140087
+principaux,words,police,4797,140087
+principaux,words,francais,4792,140087
+principaux,words,pays,4792,140087
+principaux,words,casseurs,4297,140087
+principaux,words,gens,3898,140087
+principaux,words,gouvernement,3430,140087
+principaux,words,etat,3292,140087
+principaux,words,people,3260,140087
+principaux,words,peuple,3259,140087
+principaux,words,gauche,3139,140087
+principaux,words,violence,3055,140087
+principaux,words,lfi,3006,140087
+principaux,words,honte,2904,140087
+principaux,words,monde,2820,140087
+principaux,words,bravo,2656,140087
+principaux,words,paris,2606,140087
+principaux,words,pouvoir,2549,140087
+principaux,words,ans,2490,140087
+principaux,words,voir,2471,140087
+principaux,words,manifestants,2443,140087
+principaux,words,ordre,2360,140087
+principaux,words,cela,2274,140087
+principaux,words,french,2209,140087
+principaux,words,jeunes,2150,140087
+principaux,words,like,2067,140087
+principaux,words,courage,2065,140087
+principaux,words,guerre,2056,140087
+principaux,words,chaos,2030,140087
+principaux,words,president,1986,140087
+principaux,words,vont,1971,140087
+principaux,words,extreme,1942,140087
+principaux,words,temps,1924,140087
+principaux,words,droite,1902,140087
+principaux,words,juste,1882,140087
+principaux,words,policiers,1881,140087
+principaux,words,vie,1840,140087
+principaux,words,europe,1812,140087
+principaux,words,politique,1802,140087
+principaux,words,voila,1798,140087
+principaux,words,passe,1768,140087
+principaux,words,force,1744,140087
+principaux,words,doit,1704,140087
+principaux,words,font,1692,140087
+principaux,words,mal,1678,140087
+principaux,words,etes,1653,140087
+principaux,words,madame,1652,140087
+principaux,words,country,1645,140087
+principaux,words,casse,1628,140087
+principaux,pairs,extreme droite,1069,140087
+principaux,pairs,extreme gauche,733,140087
+principaux,pairs,gilets jaunes,671,140087
+principaux,pairs,guerre civile,546,140087
+principaux,pairs,peuple francais,457,140087
+principaux,pairs,celine dion,456,140087
+principaux,pairs,ultra gauche,439,140087
+principaux,pairs,pauvre france,385,140087
+principaux,pairs,looks like,378,140087
+principaux,pairs,french people,357,140087
+principaux,pairs,bieu tinh,299,140087
+principaux,pairs,courage madame,291,140087
+principaux,pairs,quelque chose,277,140087
+principaux,pairs,nouvelle france,264,140087
+principaux,pairs,services publics,224,140087
+principaux,pairs,france has,217,140087
+principaux,pairs,couvre feu,211,140087
+principaux,pairs,mostly peaceful,211,140087
+principaux,pairs,monde entier,200,140087
+principaux,pairs,violences policieres,197,140087
+principaux,pairs,reseaux sociaux,188,140087
+principaux,pairs,gilet jaune,184,140087
+principaux,pairs,bravo madame,183,140087
+principaux,pairs,emmanuel macron,180,140087
+principaux,pairs,far left,179,140087
+principaux,pairs,vie chere,177,140087
+principaux,pairs,macron demission,164,140087
+principaux,pairs,bla bla,161,140087
+principaux,pairs,france info,160,140087
+principaux,pairs,soutien total,157,140087
+principaux,pairs,manifestants pacifiques,156,140087
+principaux,pairs,years ago,154,140087
+principaux,pairs,third world,153,140087
+principaux,pairs,balles reelles,150,140087
+principaux,pairs,look like,150,140087
+principaux,pairs,peaceful protests,147,140087
+principaux,pairs,nuoc phap,146,140087
+principaux,pairs,prochaine fois,145,140087
+principaux,pairs,french government,145,140087
+principaux,pairs,peaceful protest,142,140087
+reponses,words,france,5539,83064
+reponses,words,gens,2821,83064
+reponses,words,pays,2613,83064
+reponses,words,macron,2610,83064
+reponses,words,francais,2407,83064
+reponses,words,lfi,2151,83064
+reponses,words,casseurs,2119,83064
+reponses,words,gauche,2034,83064
+reponses,words,police,2030,83064
+reponses,words,people,1965,83064
+reponses,words,monde,1934,83064
+reponses,words,juste,1854,83064
+reponses,words,ans,1775,83064
+reponses,words,violence,1621,83064
+reponses,words,etat,1596,83064
+reponses,words,peuple,1561,83064
+reponses,words,voir,1553,83064
+reponses,words,pouvoir,1547,83064
+reponses,words,droite,1516,83064
+reponses,words,cela,1498,83064
+reponses,words,gouvernement,1448,83064
+reponses,words,moins,1342,83064
+reponses,words,manifestants,1292,83064
+reponses,words,extreme,1248,83064
+reponses,words,like,1225,83064
+reponses,words,vie,1216,83064
+reponses,words,etes,1213,83064
+reponses,words,personne,1187,83064
+reponses,words,font,1179,83064
+reponses,words,passe,1163,83064
+reponses,words,temps,1136,83064
+reponses,words,politique,1134,83064
+reponses,words,surtout,1121,83064
+reponses,words,fois,1088,83064
+reponses,words,vote,1084,83064
+reponses,words,beaucoup,1069,83064
+reponses,words,about,1060,83064
+reponses,words,don,1059,83064
+reponses,words,probleme,1043,83064
+reponses,words,vont,1023,83064
+reponses,words,mieux,1019,83064
+reponses,words,chose,1016,83064
+reponses,words,french,1008,83064
+reponses,words,parle,1000,83064
+reponses,words,ordre,995,83064
+reponses,words,casse,985,83064
+reponses,words,pense,978,83064
+reponses,words,avait,977,83064
+reponses,words,cas,962,83064
+reponses,words,place,951,83064
+reponses,pairs,extreme droite,703,83064
+reponses,pairs,extreme gauche,462,83064
+reponses,pairs,guerre civile,261,83064
+reponses,pairs,quelque chose,256,83064
+reponses,pairs,gilets jaunes,252,83064
+reponses,pairs,peuple francais,154,83064
+reponses,pairs,services publics,151,83064
+reponses,pairs,celine dion,146,83064
+reponses,pairs,french people,138,83064
+reponses,pairs,talking about,121,83064
+reponses,pairs,reseaux sociaux,116,83064
+reponses,pairs,grand chose,113,83064
+reponses,pairs,bieu tinh,113,83064
+reponses,pairs,monde entier,105,83064
+reponses,pairs,ultra gauche,102,83064
+reponses,pairs,france has,102,83064
+reponses,pairs,nouvelle france,100,83064
+reponses,pairs,far right,96,83064
+reponses,pairs,violences policieres,92,83064
+reponses,pairs,assemblee nationale,91,83064
+reponses,pairs,etc etc,90,83064
+reponses,pairs,hors sujet,90,83064
+reponses,pairs,far left,90,83064
+reponses,pairs,right wing,89,83064
+reponses,pairs,jean luc,85,83064
+reponses,pairs,revolution francaise,84,83064
+reponses,pairs,manifestants pacifiques,78,83064
+reponses,pairs,premier tour,78,83064
+reponses,pairs,other countries,78,83064
+reponses,pairs,tant mieux,77,83064
+reponses,pairs,french revolution,74,83064
+reponses,pairs,dernieres annees,73,83064
+reponses,pairs,ultra riches,73,83064
+reponses,pairs,years ago,73,83064
+reponses,pairs,argent public,72,83064
+reponses,pairs,looks like,72,83064
+reponses,pairs,securite sociale,71,83064
+reponses,pairs,aides sociales,69,83064
+reponses,pairs,second tour,69,83064
+reponses,pairs,vie chere,69,83064
