@@ -38,6 +38,14 @@ class AnalysisTests(unittest.TestCase):
         self.assertNotIn('abc@example.org',text)
         self.assertNotIn('@personne',text)
 
+    def test_line_endings_have_identical_results(self):
+        videos=[{'video_id':'v','title':'test'}]
+        a=[{'comment_id':'1','video_id':'v','text':'police\r\nviolence','parent_id':''}]
+        b=[dict(a[0], text='police\nviolence')]
+        left=analyze(videos,a); right=analyze(videos,b)
+        for field in ['profiles','sample','quality']:
+            self.assertEqual(left[field],right[field])
+
     def test_csv_formula_escaping(self):
         with tempfile.TemporaryDirectory() as folder:
             path=Path(folder)/'data.csv'

@@ -75,7 +75,7 @@ def analyze(videos, comments):
     seen=set(); quality=Counter(); by_video=Counter(); theme_videos=defaultdict(set)
     sample_by_video={}; rng=random.Random(42); seen_in_video=Counter()
     for row in comments:
-        text=str(row.get('text') or '')
+        text=str(row.get('text') or '').replace('\r\n','\n').replace('\r','\n')
         key=duplicate_key(text)
         ts=set(tokens(text))
         duplicate=key in seen
