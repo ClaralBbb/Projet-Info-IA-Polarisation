@@ -25,3 +25,9 @@ Les requêtes peuvent inclure d'autres villes ou événements. Le filtre de
 publication ne prouve pas la date des événements filmés.
 Les noms et identifiants des auteurs de commentaires sont omis, mais les textes
 peuvent encore contenir des données personnelles.
+
+## Aperçu léger
+
+[Excel : 100 vidéos](apercu_100_videos.xlsx) · [CSV consultable sur GitHub](apercu_100_videos.csv).
+100 premières vidéos du corpus dans son ordre actuel, sans commentaires.
+Sélection non aléatoire; pertinence à vérifier.
