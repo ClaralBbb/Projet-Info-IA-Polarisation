@@ -73,3 +73,12 @@ exactement les 20 décisions conversationnelles. Les citations justificatives
 permettent de les contrôler, mais ne sont pas une trace des calculs internes du
 modèle. La consigne proposée est explicite et inspectable; elle ne doit pas être
 présentée comme le prompt exact d'un appel automatique déjà réalisé.
+
+## Lecture simplifiée des 20 exemples
+
+Le classeur s’ouvre directement sur **Relecture humaine** : chaque ligne réunit
+le commentaire complet, le parent, la proposition IA avec sa justification et
+les colonnes de correction. Les colonnes jaunes sont à remplir. Un commentaire
+avec plusieurs positions est répété sur plusieurs lignes. Les autres onglets
+restent disponibles. Pour un texte très long, utiliser la barre de formule Excel
+ou agrandir la ligne; aucun texte n’a été tronqué.
