@@ -3,3 +3,5 @@ __pycache__/
 .env
 .youtube-cache/
 data/*.json
+/annotation/pilote_police_violences_100.xlsx
+/annotation/selection.json
