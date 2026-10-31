@@ -14,7 +14,9 @@ from analyze import load, tokens, duplicate_key, THEMES
 SEED=20261024
 LEXICON=THEMES['Police et maintien de l’ordre'] | THEMES['Violences et dégâts'] | set('flic flics matraque matraques lbd flashball repression repressif repressifs brutalite brutalites bavure bavures tirs tir gaz affrontements tabasse tabassent tabasser violent violente violents violentes'.split())
 
-def select(comments):
+def select(comments, size=100, max_per_video=2):
+    if size<=0 or size%2: raise ValueError("La taille doit être positive et paire")
+    target=size//2
     rng=random.Random(SEED)
     order=list(comments);rng.shuffle(order)
     seen=set();buckets=defaultdict(list)
@@ -29,12 +31,12 @@ def select(comments):
         vids=[vid for kind,vid in buckets if kind==replies]
         rng.shuffle(vids)
         n=0
-        for _ in range(2):
+        for _ in range(max_per_video):
             for vid in vids:
                 bucket=buckets[(replies,vid)]
-                if n<50 and used[vid]<2 and bucket:
+                if n<target and used[vid]<max_per_video and bucket:
                     selected.append(bucket.pop());used[vid]+=1;n+=1
-        if n!=50: raise ValueError('Pas assez de candidats pour les quotas 50/50 et deux par vidéo maximum')
+        if n!=target: raise ValueError('Pas assez de candidats pour la taille et la diversité demandées')
     rng.shuffle(selected)
     return selected
 

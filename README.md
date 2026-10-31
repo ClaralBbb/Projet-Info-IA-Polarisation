@@ -69,3 +69,11 @@ les extraits filtrables. Aucun serveur ni appel à l'API n'est nécessaire.
 Pour régénérer : `.venv/bin/python analyze.py` (JSON local ou Excel du dépôt).
 Cette exploration lexicale prépare l'étude de polarisation; elle ne mesure
 pas les opinions individuelles ni la polarisation à ce stade.
+
+## Extension du pilote à 500 commentaires
+
+Le dossier [classification_v02](classification_v02/README.md) contient un nouveau
+lot de 500 commentaires, la grille 0.2 et le schéma JSON strict. Le script
+`classify_opinions.py` fonctionne en simulation par défaut. Aucune classification
+API de ce lot n'a été effectuée. Toute exécution réelle nécessite le choix d'un
+modèle, une clé séparée et un accord sur le coût.

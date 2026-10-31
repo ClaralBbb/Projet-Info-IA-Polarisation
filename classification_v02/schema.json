@@ -1,0 +1,175 @@
+{
+  "type": "object",
+  "properties": {
+    "pertinence": {
+      "type": "string",
+      "enum": [
+        "intervention_policiere",
+        "violences_plus_largement",
+        "partielle",
+        "hors_sujet",
+        "incertaine"
+      ]
+    },
+    "contexte_parent_utilise": {
+      "type": "string",
+      "enum": [
+        "oui",
+        "non",
+        "insuffisant"
+      ]
+    },
+    "positions": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "theme": {
+            "type": "string",
+            "enum": [
+              "interventions_policieres",
+              "violences_degradations",
+              "responsabilite_politique",
+              "institutions_souverainete",
+              "medias",
+              "conditions_sociales",
+              "autre"
+            ]
+          },
+          "dans_perimetre": {
+            "type": "boolean"
+          },
+          "acteur_categorie": {
+            "type": "string",
+            "enum": [
+              "police",
+              "manifestants",
+              "casseurs",
+              "gouvernement",
+              "responsable_politique",
+              "organisation",
+              "autre",
+              "indetermine"
+            ]
+          },
+          "acteur_precis": {
+            "type": "string"
+          },
+          "objet": {
+            "type": "string"
+          },
+          "proposition": {
+            "type": "string"
+          },
+          "position": {
+            "type": "string",
+            "enum": [
+              "condamne",
+              "justifie_soutient",
+              "nuance",
+              "decrit_sans_position",
+              "indeterminee"
+            ]
+          },
+          "statut_enonciation": {
+            "type": "string",
+            "enum": [
+              "auteur",
+              "position_rapportee",
+              "hypothese",
+              "indetermine"
+            ]
+          },
+          "preuves": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1
+          },
+          "arguments_utilises": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "responsabilite_attribuee": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "ironie": {
+            "type": "string",
+            "enum": [
+              "non_detectee",
+              "possible",
+              "probable",
+              "indeterminable"
+            ]
+          },
+          "incertitude": {
+            "type": "string",
+            "enum": [
+              "lecture_explicite",
+              "ambigu",
+              "contexte_insuffisant"
+            ]
+          },
+          "relation_parent": {
+            "type": "string",
+            "enum": [
+              "sans_parent",
+              "accord",
+              "contestation_partielle",
+              "contestation",
+              "precision",
+              "indeterminee"
+            ]
+          },
+          "passage_parent_vise": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "note": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "theme",
+          "dans_perimetre",
+          "acteur_categorie",
+          "acteur_precis",
+          "objet",
+          "proposition",
+          "position",
+          "statut_enonciation",
+          "preuves",
+          "arguments_utilises",
+          "responsabilite_attribuee",
+          "ironie",
+          "incertitude",
+          "relation_parent",
+          "passage_parent_vise",
+          "note"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "limites": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    }
+  },
+  "required": [
+    "pertinence",
+    "contexte_parent_utilise",
+    "positions",
+    "limites"
+  ],
+  "additionalProperties": false
+}

@@ -5,3 +5,4 @@ __pycache__/
 data/*.json
 /annotation/pilote_police_violences_100.xlsx
 /annotation/selection.json
+/classification_v02/execution/
