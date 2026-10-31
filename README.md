@@ -77,3 +77,13 @@ lot de 500 commentaires, la grille 0.2 et le schéma JSON strict. Le script
 `classify_opinions.py` fonctionne en simulation par défaut. Aucune classification
 API de ce lot n'a été effectuée. Toute exécution réelle nécessite le choix d'un
 modèle, une clé séparée et un accord sur le coût.
+
+## Tableau de bord des premières positions
+
+La [plateforme d'exploration](plateforme/README.md) affiche **60 commentaires
+classifiés et 82 positions proposées**, avec contexte, preuves, incertitudes et
+outils de relecture. Télécharger [le fichier HTML autonome](plateforme/tableau_de_bord.html)
+et l'ouvrir dans un navigateur. Les 440 commentaires restants du lot sont
+explicitement non traités. Les annotations sont conversationnelles, sans appel
+API, et restent à valider humainement. `docs/index.html` est prêt pour un
+hébergement statique; aucune adresse publique n'est encore activée.

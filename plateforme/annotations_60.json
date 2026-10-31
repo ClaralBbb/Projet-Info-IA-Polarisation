@@ -1,0 +1,2760 @@
+[
+  {
+    "ordre_lot": 1,
+    "comment_id": "UgznTrZDaTvEV6S7Ezh4AaABAg",
+    "video_id": "beVuLFdklVU",
+    "origine": "assistant_conversationnel",
+    "modele_api": null,
+    "grille": "0.2",
+    "validation_humaine": "non_effectuee",
+    "annotation": {
+      "pertinence": "partielle",
+      "contexte_parent_utilise": "non",
+      "positions": [
+        {
+          "theme": "medias",
+          "dans_perimetre": false,
+          "acteur_categorie": "organisation",
+          "acteur_precis": "média auquel le commentaire s’adresse",
+          "objet": "focalisation sur les violences au détriment des revendications",
+          "proposition": "focalisation sur les violences au détriment des revendications : condamne",
+          "position": "condamne",
+          "statut_enonciation": "auteur",
+          "preuves": [
+            "au lieu des revendications que vous ne citez jamais."
+          ],
+          "arguments_utilises": [
+            "Couverture des violences jugée permanente et revendications absentes."
+          ],
+          "responsabilite_attribuee": null,
+          "ironie": "non_detectee",
+          "incertitude": "lecture_explicite",
+          "relation_parent": "sans_parent",
+          "passage_parent_vise": null,
+          "note": ""
+        }
+      ],
+      "limites": [
+        "Vidéo non validée pour Paris le 17 octobre; texte et parent disponibles seulement."
+      ]
+    }
+  },
+  {
+    "ordre_lot": 2,
+    "comment_id": "UgzgcTdP77zVdkw4P1p4AaABAg",
+    "video_id": "rlXhRBqyP14",
+    "origine": "assistant_conversationnel",
+    "modele_api": null,
+    "grille": "0.2",
+    "validation_humaine": "non_effectuee",
+    "annotation": {
+      "pertinence": "violences_plus_largement",
+      "contexte_parent_utilise": "non",
+      "positions": [
+        {
+          "theme": "violences_degradations",
+          "dans_perimetre": true,
+          "acteur_categorie": "casseurs",
+          "acteur_precis": "casseurs",
+          "objet": "effets des dégradations sur les commerces et le commerce en ligne",
+          "proposition": "effets des dégradations sur les commerces et le commerce en ligne : condamne",
+          "position": "condamne",
+          "statut_enonciation": "auteur",
+          "preuves": [
+            "AMAZON VOUS REMERCIE"
+          ],
+          "arguments_utilises": [
+            "Bénéfice suggéré pour le commerce en ligne."
+          ],
+          "responsabilite_attribuee": null,
+          "ironie": "probable",
+          "incertitude": "ambigu",
+          "relation_parent": "sans_parent",
+          "passage_parent_vise": null,
+          "note": "Critique indirecte par remerciement ironique; mécanisme économique suggéré, pas explicitement détaillé."
+        }
+      ],
+      "limites": [
+        "Vidéo non validée pour Paris le 17 octobre; texte et parent disponibles seulement."
+      ]
+    }
+  },
+  {
+    "ordre_lot": 3,
+    "comment_id": "UgzzWuyVDT3vNtq7cVt4AaABAg",
+    "video_id": "Yqbm2ASWk1A",
+    "origine": "assistant_conversationnel",
+    "modele_api": null,
+    "grille": "0.2",
+    "validation_humaine": "non_effectuee",
+    "annotation": {
+      "pertinence": "intervention_policiere",
+      "contexte_parent_utilise": "non",
+      "positions": [
+        {
+          "theme": "interventions_policieres",
+          "dans_perimetre": true,
+          "acteur_categorie": "police",
+          "acteur_precis": "police",
+          "objet": "efficacité face aux destructions",
+          "proposition": "efficacité face aux destructions : condamne",
+          "position": "condamne",
+          "statut_enonciation": "auteur",
+          "preuves": [
+            "La police est incapable de quoi que ce soit."
+          ],
+          "arguments_utilises": [],
+          "responsabilite_attribuee": "Police accusée de responsabilité par incapacité à empêcher les dégâts.",
+          "ironie": "non_detectee",
+          "incertitude": "lecture_explicite",
+          "relation_parent": "sans_parent",
+          "passage_parent_vise": null,
+          "note": "Ne pas transformer l’accusation de responsabilité en affirmation que la police a matériellement détruit les biens."
+        }
+      ],
+      "limites": [
+        "Vidéo non validée pour Paris le 17 octobre; texte et parent disponibles seulement."
+      ]
+    }
+  },
+  {
+    "ordre_lot": 4,
+    "comment_id": "Ugys_mwviXMOsnY-qDh4AaABAg",
+    "video_id": "g_e893WW-V0",
+    "origine": "assistant_conversationnel",
+    "modele_api": null,
+    "grille": "0.2",
+    "validation_humaine": "non_effectuee",
+    "annotation": {
+      "pertinence": "intervention_policiere",
+      "contexte_parent_utilise": "non",
+      "positions": [
+        {
+          "theme": "interventions_policieres",
+          "dans_perimetre": true,
+          "acteur_categorie": "police",
+          "acteur_precis": "policiers et gendarmes",
+          "objet": "solidarité avec le peuple",
+          "proposition": "solidarité avec le peuple : condamne",
+          "position": "condamne",
+          "statut_enonciation": "auteur",
+          "preuves": [
+            "devrait aussi être avec le peuple"
+          ],
+          "arguments_utilises": [],
+          "responsabilite_attribuee": null,
+          "ironie": "non_detectee",
+          "incertitude": "lecture_explicite",
+          "relation_parent": "sans_parent",
+          "passage_parent_vise": null,
+          "note": "Reproche de distance au peuple; aucune position précise sur la force physique."
+        }
+      ],
+      "limites": [
+        "Vidéo non validée pour Paris le 17 octobre; texte et parent disponibles seulement."
+      ]
+    }
+  },
+  {
+    "ordre_lot": 5,
+    "comment_id": "UgzD9C9tVvNU0EVn0B54AaABAg",
+    "video_id": "pEP2d8m0eFE",
+    "origine": "assistant_conversationnel",
+    "modele_api": null,
+    "grille": "0.2",
+    "validation_humaine": "non_effectuee",
+    "annotation": {
+      "pertinence": "intervention_policiere",
+      "contexte_parent_utilise": "non",
+      "positions": [
+        {
+          "theme": "violences_degradations",
+          "dans_perimetre": true,
+          "acteur_categorie": "casseurs",
+          "acteur_precis": "casseurs",
+          "objet": "coût des dégâts supporté par les travailleurs",
+          "proposition": "coût des dégâts supporté par les travailleurs : condamne",
+          "position": "condamne",
+          "statut_enonciation": "auteur",
+          "preuves": [
+            "qui va payer les travailleurs de classes moyen"
+          ],
+          "arguments_utilises": [
+            "Le coût est attribué aux travailleurs."
+          ],
+          "responsabilite_attribuee": null,
+          "ironie": "non_detectee",
+          "incertitude": "lecture_explicite",
+          "relation_parent": "sans_parent",
+          "passage_parent_vise": null,
+          "note": ""
+        },
+        {
+          "theme": "interventions_policieres",
+          "dans_perimetre": true,
+          "acteur_categorie": "police",
+          "acteur_precis": "forces répressives implicitement sollicitées",
+          "objet": "réponse ferme aux casseurs",
+          "proposition": "réponse ferme aux casseurs : justifie_soutient",
+          "position": "justifie_soutient",
+          "statut_enonciation": "auteur",
+          "preuves": [
+            "comme à dit Sarkozy coup de karsher"
+          ],
+          "arguments_utilises": [],
+          "responsabilite_attribuee": null,
+          "ironie": "non_detectee",
+          "incertitude": "ambigu",
+          "relation_parent": "sans_parent",
+          "passage_parent_vise": null,
+          "note": "Allusion punitive; acteur et mesures précis non explicités, pas un soutien certain à une violence précise."
+        }
+      ],
+      "limites": [
+        "Vidéo non validée pour Paris le 17 octobre; texte et parent disponibles seulement."
+      ]
+    }
+  },
+  {
+    "ordre_lot": 6,
+    "comment_id": "Ugwgjlbt2m0joHo2wQd4AaABAg.Ac5YwK-nRt6Ac691rVlrXr",
+    "video_id": "88Cz6Bmjfzg",
+    "origine": "assistant_conversationnel",
+    "modele_api": null,
+    "grille": "0.2",
+    "validation_humaine": "non_effectuee",
+    "annotation": {
+      "pertinence": "violences_plus_largement",
+      "contexte_parent_utilise": "oui",
+      "positions": [
+        {
+          "theme": "violences_degradations",
+          "dans_perimetre": true,
+          "acteur_categorie": "autre",
+          "acteur_precis": "personnes choisissant la violence",
+          "objet": "possibilité de violence même en démocratie",
+          "proposition": "possibilité de violence même en démocratie : decrit_sans_position",
+          "position": "decrit_sans_position",
+          "statut_enonciation": "auteur",
+          "preuves": [
+            "I've seen people choosing violence instead time and time again even when peaceful resolutions exists"
+          ],
+          "arguments_utilises": [
+            "Existence alléguée de précédents malgré des voies pacifiques."
+          ],
+          "responsabilite_attribuee": null,
+          "ironie": "non_detectee",
+          "incertitude": "lecture_explicite",
+          "relation_parent": "precision",
+          "passage_parent_vise": null,
+          "note": "Observation sur démocratie et conflit, pas approbation de violences précises."
+        }
+      ],
+      "limites": [
+        "Vidéo non validée pour Paris le 17 octobre; texte et parent disponibles seulement."
+      ]
+    }
+  },
+  {
+    "ordre_lot": 7,
+    "comment_id": "UgxXK1qsx9dUxjkBfvJ4AaABAg",
+    "video_id": "BLxp88GY9l8",
+    "origine": "assistant_conversationnel",
+    "modele_api": null,
+    "grille": "0.2",
+    "validation_humaine": "non_effectuee",
+    "annotation": {
+      "pertinence": "violences_plus_largement",
+      "contexte_parent_utilise": "non",
+      "positions": [
+        {
+          "theme": "violences_degradations",
+          "dans_perimetre": true,
+          "acteur_categorie": "organisation",
+          "acteur_precis": "influenceurs d’extrême gauche évoqués",
+          "objet": "appels à la violence",
+          "proposition": "appels à la violence : condamne",
+          "position": "condamne",
+          "statut_enonciation": "auteur",
+          "preuves": [
+            "les appels à la violences relayés par des influenceurs d'extrême gauche"
+          ],
+          "arguments_utilises": [],
+          "responsabilite_attribuee": "Influenceurs accusés de relayer des appels à la violence.",
+          "ironie": "non_detectee",
+          "incertitude": "lecture_explicite",
+          "relation_parent": "sans_parent",
+          "passage_parent_vise": null,
+          "note": ""
+        },
+        {
+          "theme": "violences_degradations",
+          "dans_perimetre": true,
+          "acteur_categorie": "gouvernement",
+          "acteur_precis": "État",
+          "objet": "absence de sanctions des appels à la violence",
+          "proposition": "absence de sanctions des appels à la violence : condamne",
+          "position": "condamne",
+          "statut_enonciation": "auteur",
+          "preuves": [
+            "l'état est complice"
+          ],
+          "arguments_utilises": [],
+          "responsabilite_attribuee": "Complicité attribuée à l’État pour absence alléguée de sanctions.",
+          "ironie": "non_detectee",
+          "incertitude": "lecture_explicite",
+          "relation_parent": "sans_parent",
+          "passage_parent_vise": null,
+          "note": ""
+        },
+        {
+          "theme": "violences_degradations",
+          "dans_perimetre": true,
+          "acteur_categorie": "autre",
+          "acteur_precis": "personne désignée par il, non identifiée",
+          "objet": "agression de personnes non concernées",
+          "proposition": "agression de personnes non concernées : condamne",
+          "position": "condamne",
+          "statut_enonciation": "auteur",
+          "preuves": [
+            "pas agresser des gens qui n'ont rien à voir dans l'histoire."
+          ],
+          "arguments_utilises": [],
+          "responsabilite_attribuee": null,
+          "ironie": "non_detectee",
+          "incertitude": "contexte_insuffisant",
+          "relation_parent": "sans_parent",
+          "passage_parent_vise": null,
+          "note": "Ne pas identifier la cible à partir du seul surnom Pamplemousse."
+        }
+      ],
+      "limites": [
+        "Vidéo non validée pour Paris le 17 octobre; texte et parent disponibles seulement."
+      ]
+    }
+  },
+  {
+    "ordre_lot": 8,
+    "comment_id": "Ugxyd-cW-hP7Z3lvOBd4AaABAg.Ac8UBSw798AAc9M1_fv4VF",
+    "video_id": "IVTNGdqS3I8",
+    "origine": "assistant_conversationnel",
+    "modele_api": null,
+    "grille": "0.2",
+    "validation_humaine": "non_effectuee",
+    "annotation": {
+      "pertinence": "violences_plus_largement",
+      "contexte_parent_utilise": "oui",
+      "positions": [
+        {
+          "theme": "violences_degradations",
+          "dans_perimetre": true,
+          "acteur_categorie": "casseurs",
+          "acteur_precis": "pillards désignés par le parent",
+          "objet": "dissimulation pour éviter la police",
+          "proposition": "dissimulation pour éviter la police : decrit_sans_position",
+          "position": "decrit_sans_position",
+          "statut_enonciation": "auteur",
+          "preuves": [
+            "To avoid the police getting them"
+          ],
+          "arguments_utilises": [],
+          "responsabilite_attribuee": null,
+          "ironie": "non_detectee",
+          "incertitude": "lecture_explicite",
+          "relation_parent": "precision",
+          "passage_parent_vise": "they are covering their faces.",
+          "note": "Explication du visage couvert, pas soutien ou condamnation explicite du pillage."
+        }
+      ],
+      "limites": [
+        "Vidéo non validée pour Paris le 17 octobre; texte et parent disponibles seulement."
+      ]
+    }
+  },
+  {
+    "ordre_lot": 9,
+    "comment_id": "Ugz4VANh3_CIibdFGSN4AaABAg.Ac7FJEghBkRAc8F6zzgCUB",
+    "video_id": "Hzb2nMbZNeA",
+    "origine": "assistant_conversationnel",
+    "modele_api": null,
+    "grille": "0.2",
+    "validation_humaine": "non_effectuee",
+    "annotation": {
+      "pertinence": "hors_sujet",
+      "contexte_parent_utilise": "non",
+      "positions": [
+        {
+          "theme": "autre",
+          "dans_perimetre": false,
+          "acteur_categorie": "indetermine",
+          "acteur_precis": "auteur du pillage non identifié",
+          "objet": "pillage des ressources naturelles africaines",
+          "proposition": "pillage des ressources naturelles africaines : indeterminee",
+          "position": "indeterminee",
+          "statut_enonciation": "auteur",
+          "preuves": [
+            "ressources naturelles d'Afrique"
+          ],
+          "arguments_utilises": [],
+          "responsabilite_attribuee": null,
+          "ironie": "non_detectee",
+          "incertitude": "contexte_insuffisant",
+          "relation_parent": "indeterminee",
+          "passage_parent_vise": null,
+          "note": "Déplacement vers un autre sujet; aucun auteur, lien causal ou position policière certain."
+        }
+      ],
+      "limites": [
+        "Vidéo non validée pour Paris le 17 octobre; texte et parent disponibles seulement."
+      ]
+    }
+  },
+  {
+    "ordre_lot": 10,
+    "comment_id": "UgzjMI8cuGpw5m2BnEF4AaABAg.Ac40-kyMiMlAc4AV1fcion",
+    "video_id": "QZadXTUwe2M",
+    "origine": "assistant_conversationnel",
+    "modele_api": null,
+    "grille": "0.2",
+    "validation_humaine": "non_effectuee",
+    "annotation": {
+      "pertinence": "violences_plus_largement",
+      "contexte_parent_utilise": "oui",
+      "positions": [
+        {
+          "theme": "violences_degradations",
+          "dans_perimetre": true,
+          "acteur_categorie": "autre",
+          "acteur_precis": "interlocuteur qualifié de casseur",
+          "objet": "assimilation de l’interlocuteur à un casseur",
+          "proposition": "assimilation de l’interlocuteur à un casseur : condamne",
+          "position": "condamne",
+          "statut_enonciation": "auteur",
+          "preuves": [
+            "je me tairait casseur"
+          ],
+          "arguments_utilises": [],
+          "responsabilite_attribuee": null,
+          "ironie": "non_detectee",
+          "incertitude": "ambigu",
+          "relation_parent": "contestation",
+          "passage_parent_vise": null,
+          "note": "Attaque personnelle; ne prouve pas que l’interlocuteur a commis des dégâts."
+        }
+      ],
+      "limites": [
+        "Vidéo non validée pour Paris le 17 octobre; texte et parent disponibles seulement."
+      ]
+    }
+  },
+  {
+    "ordre_lot": 11,
+    "comment_id": "Ugz8ORGHnytHDWFPSal4AaABAg.Ac4XTaolB5IAc98MAnHwDu",
+    "video_id": "-KkxkH0-I7I",
+    "origine": "assistant_conversationnel",
+    "modele_api": null,
+    "grille": "0.2",
+    "validation_humaine": "non_effectuee",
+    "annotation": {
+      "pertinence": "partielle",
+      "contexte_parent_utilise": "oui",
+      "positions": [
+        {
+          "theme": "conditions_sociales",
+          "dans_perimetre": false,
+          "acteur_categorie": "manifestants",
+          "acteur_precis": "mouvement étudiant et de travailleurs",
+          "objet": "origines sociales du mouvement",
+          "proposition": "origines sociales du mouvement : decrit_sans_position",
+          "position": "decrit_sans_position",
+          "statut_enonciation": "auteur",
+          "preuves": [
+            "It began as a student movement over school conditions"
+          ],
+          "arguments_utilises": [
+            "Conditions scolaires, coût de la vie et logement invoqués."
+          ],
+          "responsabilite_attribuee": null,
+          "ironie": "non_detectee",
+          "incertitude": "lecture_explicite",
+          "relation_parent": "precision",
+          "passage_parent_vise": null,
+          "note": ""
+        },
+        {
+          "theme": "interventions_policieres",
+          "dans_perimetre": true,
+          "acteur_categorie": "police",
+          "acteur_precis": "police antiémeute en Espagne",
+          "objet": "expulsion d’une personne âgée",
+          "proposition": "expulsion d’une personne âgée : decrit_sans_position",
+          "position": "decrit_sans_position",
+          "statut_enonciation": "auteur",
+          "preuves": [
+            "riot police to forcibly remove her"
+          ],
+          "arguments_utilises": [],
+          "responsabilite_attribuee": null,
+          "ironie": "non_detectee",
+          "incertitude": "lecture_explicite",
+          "relation_parent": "indeterminee",
+          "passage_parent_vise": null,
+          "note": "Exemple espagnol rapporté, pas preuve sur une intervention à Paris."
+        }
+      ],
+      "limites": [
+        "Vidéo non validée pour Paris le 17 octobre; texte et parent disponibles seulement."
+      ]
+    }
+  },
+  {
+    "ordre_lot": 12,
+    "comment_id": "UgzUsaOpznaKE4JkyYt4AaABAg",
+    "video_id": "yHX5dGpbfEE",
+    "origine": "assistant_conversationnel",
+    "modele_api": null,
+    "grille": "0.2",
+    "validation_humaine": "non_effectuee",
+    "annotation": {
+      "pertinence": "intervention_policiere",
+      "contexte_parent_utilise": "non",
+      "positions": [
+        {
+          "theme": "violences_degradations",
+          "dans_perimetre": true,
+          "acteur_categorie": "manifestants",
+          "acteur_precis": "personnes désignées par ils",
+          "objet": "plaintes après des coups policiers",
+          "proposition": "plaintes après des coups policiers : condamne",
+          "position": "condamne",
+          "statut_enonciation": "auteur",
+          "preuves": [
+            "Après ça pleure qu'ils reçoivent des coups par la police."
+          ],
+          "arguments_utilises": [],
+          "responsabilite_attribuee": null,
+          "ironie": "possible",
+          "incertitude": "ambigu",
+          "relation_parent": "sans_parent",
+          "passage_parent_vise": null,
+          "note": "Délégitime les plaintes; peut suggérer une justification des coups mais ne précise pas les actes antérieurs."
+        }
+      ],
+      "limites": [
+        "Vidéo non validée pour Paris le 17 octobre; texte et parent disponibles seulement."
+      ]
+    }
+  },
+  {
+    "ordre_lot": 13,
+    "comment_id": "UgzrfGdTTFU5Y8S1trV4AaABAg",
+    "video_id": "94TVVfFoTyI",
+    "origine": "assistant_conversationnel",
+    "modele_api": null,
+    "grille": "0.2",
+    "validation_humaine": "non_effectuee",
+    "annotation": {
+      "pertinence": "intervention_policiere",
+      "contexte_parent_utilise": "non",
+      "positions": [
+        {
+          "theme": "interventions_policieres",
+          "dans_perimetre": true,
+          "acteur_categorie": "police",
+          "acteur_precis": "police, CRS, gendarmerie et BRAV-M",
+          "objet": "identification des unités par leurs casques",
+          "proposition": "identification des unités par leurs casques : decrit_sans_position",
+          "position": "decrit_sans_position",
+          "statut_enonciation": "auteur",
+          "preuves": [
+            "ce avec les casques noirs et bande jaune ce sont les CRS"
+          ],
+          "arguments_utilises": [],
+          "responsabilite_attribuee": null,
+          "ironie": "non_detectee",
+          "incertitude": "lecture_explicite",
+          "relation_parent": "sans_parent",
+          "passage_parent_vise": null,
+          "note": "Description présentée par l’auteur; identification technique non vérifiée."
+        }
+      ],
+      "limites": [
+        "Vidéo non validée pour Paris le 17 octobre; texte et parent disponibles seulement."
+      ]
+    }
+  },
+  {
+    "ordre_lot": 14,
+    "comment_id": "UgzpqYvOLlOTP56gRYl4AaABAg.Ac3fR77SlQpAc4uFzHF7T5",
+    "video_id": "65gyoULj_8g",
+    "origine": "assistant_conversationnel",
+    "modele_api": null,
+    "grille": "0.2",
+    "validation_humaine": "non_effectuee",
+    "annotation": {
+      "pertinence": "hors_sujet",
+      "contexte_parent_utilise": "non",
+      "positions": [
+        {
+          "theme": "conditions_sociales",
+          "dans_perimetre": false,
+          "acteur_categorie": "manifestants",
+          "acteur_precis": "auteur et compatriotes mobilisés",
+          "objet": "défense de droits et protection sociale",
+          "proposition": "défense de droits et protection sociale : justifie_soutient",
+          "position": "justifie_soutient",
+          "statut_enonciation": "auteur",
+          "preuves": [
+            "je me bats avec mes compatriotes pour la liberté l'égalité et la fraternité."
+          ],
+          "arguments_utilises": [],
+          "responsabilite_attribuee": null,
+          "ironie": "non_detectee",
+          "incertitude": "ambigu",
+          "relation_parent": "indeterminee",
+          "passage_parent_vise": null,
+          "note": "Se battre est ici potentiellement figuré; ne pas coder comme violence physique."
+        }
+      ],
+      "limites": [
+        "Vidéo non validée pour Paris le 17 octobre; texte et parent disponibles seulement."
+      ]
+    }
+  },
+  {
+    "ordre_lot": 15,
+    "comment_id": "UgxnZ2S5kdJVkmk2i5B4AaABAg",
+    "video_id": "My4l1UWmV-Q",
+    "origine": "assistant_conversationnel",
+    "modele_api": null,
+    "grille": "0.2",
+    "validation_humaine": "non_effectuee",
+    "annotation": {
+      "pertinence": "intervention_policiere",
+      "contexte_parent_utilise": "non",
+      "positions": [
+        {
+          "theme": "interventions_policieres",
+          "dans_perimetre": true,
+          "acteur_categorie": "police",
+          "acteur_precis": "policiers",
+          "objet": "force contre l’ensemble des manifestants",
+          "proposition": "force contre l’ensemble des manifestants : condamne",
+          "position": "condamne",
+          "statut_enonciation": "auteur",
+          "preuves": [
+            "but why attack everyone?"
+          ],
+          "arguments_utilises": [
+            "Refus de généraliser la répression malgré la présence possible de fauteurs de troubles."
+          ],
+          "responsabilite_attribuee": null,
+          "ironie": "non_detectee",
+          "incertitude": "lecture_explicite",
+          "relation_parent": "sans_parent",
+          "passage_parent_vise": null,
+          "note": ""
+        }
+      ],
+      "limites": [
+        "Vidéo non validée pour Paris le 17 octobre; texte et parent disponibles seulement."
+      ]
+    }
+  },
+  {
+    "ordre_lot": 16,
+    "comment_id": "UgxeyXGy__hfw9-mPRh4AaABAg",
+    "video_id": "xN4e8XiUDNo",
+    "origine": "assistant_conversationnel",
+    "modele_api": null,
+    "grille": "0.2",
+    "validation_humaine": "non_effectuee",
+    "annotation": {
+      "pertinence": "hors_sujet",
+      "contexte_parent_utilise": "non",
+      "positions": [],
+      "limites": [
+        "Vidéo non validée pour Paris le 17 octobre; texte et parent disponibles seulement.",
+        "La chaîne gaz@ fait référence à Gaza; faux positif probable du mot-clé gaz."
+      ]
+    }
+  },
+  {
+    "ordre_lot": 17,
+    "comment_id": "UgxJZ2Se7jQ96a4XSIx4AaABAg.Ac8MCJdPwr9Ac8QT0yKKc1",
+    "video_id": "Bt99SOUzvy8",
+    "origine": "assistant_conversationnel",
+    "modele_api": null,
+    "grille": "0.2",
+    "validation_humaine": "non_effectuee",
+    "annotation": {
+      "pertinence": "intervention_policiere",
+      "contexte_parent_utilise": "oui",
+      "positions": [
+        {
+          "theme": "interventions_policieres",
+          "dans_perimetre": true,
+          "acteur_categorie": "police",
+          "acteur_precis": "forces de l’ordre dans le scénario du parent",
+          "objet": "escalade vers des moyens létaux",
+          "proposition": "escalade vers des moyens létaux : condamne",
+          "position": "condamne",
+          "statut_enonciation": "auteur",
+          "preuves": [
+            "et pourquoi pas une bombe nucléaire ou du gaz sarin?"
+          ],
+          "arguments_utilises": [],
+          "responsabilite_attribuee": null,
+          "ironie": "probable",
+          "incertitude": "ambigu",
+          "relation_parent": "contestation_partielle",
+          "passage_parent_vise": null,
+          "note": "Réduction à l’absurde de l’escalade; aucune recommandation littérale de ces armes."
+        }
+      ],
+      "limites": [
+        "Vidéo non validée pour Paris le 17 octobre; texte et parent disponibles seulement."
+      ]
+    }
+  },
+  {
+    "ordre_lot": 18,
+    "comment_id": "UgxscJ0B75xjsgC1Oxh4AaABAg",
+    "video_id": "lSFjf9KeBMY",
+    "origine": "assistant_conversationnel",
+    "modele_api": null,
+    "grille": "0.2",
+    "validation_humaine": "non_effectuee",
+    "annotation": {
+      "pertinence": "violences_plus_largement",
+      "contexte_parent_utilise": "non",
+      "positions": [
+        {
+          "theme": "violences_degradations",
+          "dans_perimetre": true,
+          "acteur_categorie": "organisation",
+          "acteur_precis": "communistes et doctrine attribuée à Marx",
+          "objet": "recours à la violence plutôt qu’au vote et au droit",
+          "proposition": "recours à la violence plutôt qu’au vote et au droit : condamne",
+          "position": "condamne",
+          "statut_enonciation": "auteur",
+          "preuves": [
+            "So not by votes, not by law, but they bring violence"
+          ],
+          "arguments_utilises": [
+            "Opposition au vote et au droit selon l’auteur."
+          ],
+          "responsabilite_attribuee": "Violence attribuée aux communistes; citation de Marx non vérifiée.",
+          "ironie": "non_detectee",
+          "incertitude": "lecture_explicite",
+          "relation_parent": "sans_parent",
+          "passage_parent_vise": null,
+          "note": ""
+        }
+      ],
+      "limites": [
+        "Vidéo non validée pour Paris le 17 octobre; texte et parent disponibles seulement."
+      ]
+    }
+  },
+  {
+    "ordre_lot": 19,
+    "comment_id": "UgwGFvFuwDeGUGf_dnN4AaABAg.Ac5ezonXWVOAc5h8EQrBb9",
+    "video_id": "myJ18lKic9Y",
+    "origine": "assistant_conversationnel",
+    "modele_api": null,
+    "grille": "0.2",
+    "validation_humaine": "non_effectuee",
+    "annotation": {
+      "pertinence": "violences_plus_largement",
+      "contexte_parent_utilise": "oui",
+      "positions": [
+        {
+          "theme": "violences_degradations",
+          "dans_perimetre": true,
+          "acteur_categorie": "manifestants",
+          "acteur_precis": "personnes emportant des aliments",
+          "objet": "pillage de nourriture interprété comme détresse",
+          "proposition": "pillage de nourriture interprété comme détresse : nuance",
+          "position": "nuance",
+          "statut_enonciation": "auteur",
+          "preuves": [
+            "Ça me fait trop de la peine."
+          ],
+          "arguments_utilises": [],
+          "responsabilite_attribuee": null,
+          "ironie": "non_detectee",
+          "incertitude": "ambigu",
+          "relation_parent": "accord",
+          "passage_parent_vise": null,
+          "note": "Compassion explicite; ne signifie pas nécessairement approbation des dégradations."
+        },
+        {
+          "theme": "medias",
+          "dans_perimetre": false,
+          "acteur_categorie": "organisation",
+          "acteur_precis": "journalistes",
+          "objet": "couverture des pillages au détriment des manifestations pacifiques",
+          "proposition": "couverture des pillages au détriment des manifestations pacifiques : condamne",
+          "position": "condamne",
+          "statut_enonciation": "auteur",
+          "preuves": [
+            "les dizaines de milliers de personnes qui ont manifesté avec femmes et enfants dans le calme"
+          ],
+          "arguments_utilises": [
+            "Contraste allégué entre quelques pillages montrés et manifestations pacifiques ignorées."
+          ],
+          "responsabilite_attribuee": null,
+          "ironie": "non_detectee",
+          "incertitude": "lecture_explicite",
+          "relation_parent": "precision",
+          "passage_parent_vise": null,
+          "note": "Le texte contient aussi une injonction hostile envers les journalistes; ne pas l’endosser."
+        }
+      ],
+      "limites": [
+        "Vidéo non validée pour Paris le 17 octobre; texte et parent disponibles seulement."
+      ]
+    }
+  },
+  {
+    "ordre_lot": 20,
+    "comment_id": "UgymfkMr-mpWIkHMrKh4AaABAg",
+    "video_id": "V0n8hvxTAy0",
+    "origine": "assistant_conversationnel",
+    "modele_api": null,
+    "grille": "0.2",
+    "validation_humaine": "non_effectuee",
+    "annotation": {
+      "pertinence": "partielle",
+      "contexte_parent_utilise": "non",
+      "positions": [
+        {
+          "theme": "responsabilite_politique",
+          "dans_perimetre": false,
+          "acteur_categorie": "organisation",
+          "acteur_precis": "responsables démocrates américains évoqués",
+          "objet": "jugements contradictoires sur différents mouvements",
+          "proposition": "jugements contradictoires sur différents mouvements : condamne",
+          "position": "condamne",
+          "statut_enonciation": "auteur",
+          "preuves": [
+            "DOUBLE STANDARDS!!!!!"
+          ],
+          "arguments_utilises": [],
+          "responsabilite_attribuee": null,
+          "ironie": "probable",
+          "incertitude": "lecture_explicite",
+          "relation_parent": "sans_parent",
+          "passage_parent_vise": null,
+          "note": "Accusation de double standard; citations attribuées non vérifiées, pas un soutien littéral certain aux violences françaises."
+        }
+      ],
+      "limites": [
+        "Vidéo non validée pour Paris le 17 octobre; texte et parent disponibles seulement."
+      ]
+    }
+  },
+  {
+    "ordre_lot": 21,
+    "comment_id": "UgyclXbQHwcAEsmPqxd4AaABAg",
+    "video_id": "34E-MGamv08",
+    "origine": "assistant_conversationnel",
+    "modele_api": null,
+    "grille": "0.2",
+    "validation_humaine": "non_effectuee",
+    "annotation": {
+      "pertinence": "intervention_policiere",
+      "contexte_parent_utilise": "non",
+      "positions": [
+        {
+          "theme": "interventions_policieres",
+          "dans_perimetre": true,
+          "acteur_categorie": "responsable_politique",
+          "acteur_precis": "préfet de police évoqué",
+          "objet": "prévention des exactions compatible avec le droit de manifester",
+          "proposition": "prévention des exactions compatible avec le droit de manifester : condamne",
+          "position": "condamne",
+          "statut_enonciation": "auteur",
+          "preuves": [
+            "c est à lui de trouver les moyens d éviter les exactions tout en permettant le rassemblement et la manifestation ?"
+          ],
+          "arguments_utilises": [],
+          "responsabilite_attribuee": "Obligation de prévention attribuée au préfet.",
+          "ironie": "non_detectee",
+          "incertitude": "lecture_explicite",
+          "relation_parent": "sans_parent",
+          "passage_parent_vise": null,
+          "note": "Conteste la justification d’une interdiction, sans valider les faits de la citation rapportée."
+        }
+      ],
+      "limites": [
+        "Vidéo non validée pour Paris le 17 octobre; texte et parent disponibles seulement."
+      ]
+    }
+  },
+  {
+    "ordre_lot": 22,
+    "comment_id": "UgzxIiRJplDQfQ9X8cF4AaABAg.Ac43aUE-SUsAc46TzIJvzi",
+    "video_id": "V0n8hvxTAy0",
+    "origine": "assistant_conversationnel",
+    "modele_api": null,
+    "grille": "0.2",
+    "validation_humaine": "non_effectuee",
+    "annotation": {
+      "pertinence": "violences_plus_largement",
+      "contexte_parent_utilise": "oui",
+      "positions": [
+        {
+          "theme": "violences_degradations",
+          "dans_perimetre": true,
+          "acteur_categorie": "autre",
+          "acteur_precis": "camp non identifié dans le commentaire",
+          "objet": "qualification de guerre civile",
+          "proposition": "qualification de guerre civile : nuance",
+          "position": "nuance",
+          "statut_enonciation": "auteur",
+          "preuves": [
+            "You can't have a  Civil war when one side is hiding"
+          ],
+          "arguments_utilises": [],
+          "responsabilite_attribuee": null,
+          "ironie": "non_detectee",
+          "incertitude": "contexte_insuffisant",
+          "relation_parent": "contestation",
+          "passage_parent_vise": null,
+          "note": "Rejette une qualification du parent; camp et sens de submission insuffisamment définis."
+        }
+      ],
+      "limites": [
+        "Vidéo non validée pour Paris le 17 octobre; texte et parent disponibles seulement."
+      ]
+    }
+  },
+  {
+    "ordre_lot": 23,
+    "comment_id": "Ugz3fKnjyIrJDtSYqNp4AaABAg",
+    "video_id": "EUXGgL5NtX8",
+    "origine": "assistant_conversationnel",
+    "modele_api": null,
+    "grille": "0.2",
+    "validation_humaine": "non_effectuee",
+    "annotation": {
+      "pertinence": "intervention_policiere",
+      "contexte_parent_utilise": "non",
+      "positions": [
+        {
+          "theme": "interventions_policieres",
+          "dans_perimetre": true,
+          "acteur_categorie": "police",
+          "acteur_precis": "CRS",
+          "objet": "assimilation aux SS",
+          "proposition": "assimilation aux SS : condamne",
+          "position": "condamne",
+          "statut_enonciation": "auteur",
+          "preuves": [
+            "CRS. SS"
+          ],
+          "arguments_utilises": [],
+          "responsabilite_attribuee": null,
+          "ironie": "non_detectee",
+          "incertitude": "lecture_explicite",
+          "relation_parent": "sans_parent",
+          "passage_parent_vise": null,
+          "note": "Slogan hostile; ne constitue pas une preuve de comportements précis."
+        }
+      ],
+      "limites": [
+        "Vidéo non validée pour Paris le 17 octobre; texte et parent disponibles seulement."
+      ]
+    }
+  },
+  {
+    "ordre_lot": 24,
+    "comment_id": "UgyNsLq_1YorWYYz5GJ4AaABAg",
+    "video_id": "9cLkWlW8DNk",
+    "origine": "assistant_conversationnel",
+    "modele_api": null,
+    "grille": "0.2",
+    "validation_humaine": "non_effectuee",
+    "annotation": {
+      "pertinence": "violences_plus_largement",
+      "contexte_parent_utilise": "non",
+      "positions": [
+        {
+          "theme": "violences_degradations",
+          "dans_perimetre": true,
+          "acteur_categorie": "manifestants",
+          "acteur_precis": "participants décrits comme émeutiers",
+          "objet": "qualification en émeutes plutôt qu’en manifestations",
+          "proposition": "qualification en émeutes plutôt qu’en manifestations : condamne",
+          "position": "condamne",
+          "statut_enonciation": "auteur",
+          "preuves": [
+            "These are riots not protests."
+          ],
+          "arguments_utilises": [],
+          "responsabilite_attribuee": null,
+          "ironie": "non_detectee",
+          "incertitude": "lecture_explicite",
+          "relation_parent": "sans_parent",
+          "passage_parent_vise": null,
+          "note": "Qualification et récits de dégâts non vérifiés; pas de position policière déduite du seul récit de fuite de policiers."
+        }
+      ],
+      "limites": [
+        "Vidéo non validée pour Paris le 17 octobre; texte et parent disponibles seulement."
+      ]
+    }
+  },
+  {
+    "ordre_lot": 25,
+    "comment_id": "Ugzar0z6ExMaAVtt2EJ4AaABAg.Ac42Nir2MQMAc487utKMtI",
+    "video_id": "8hEF-GwgTxs",
+    "origine": "assistant_conversationnel",
+    "modele_api": null,
+    "grille": "0.2",
+    "validation_humaine": "non_effectuee",
+    "annotation": {
+      "pertinence": "hors_sujet",
+      "contexte_parent_utilise": "oui",
+      "positions": [
+        {
+          "theme": "medias",
+          "dans_perimetre": false,
+          "acteur_categorie": "organisation",
+          "acteur_precis": "instituts de sondage et médias",
+          "objet": "fiabilité et indépendance",
+          "proposition": "fiabilité et indépendance : condamne",
+          "position": "condamne",
+          "statut_enonciation": "auteur",
+          "preuves": [
+            "je n'y crois pas 37 %"
+          ],
+          "arguments_utilises": [
+            "Propriété commune alléguée des médias et sondages."
+          ],
+          "responsabilite_attribuee": null,
+          "ironie": "non_detectee",
+          "incertitude": "lecture_explicite",
+          "relation_parent": "contestation",
+          "passage_parent_vise": null,
+          "note": ""
+        },
+        {
+          "theme": "responsabilite_politique",
+          "dans_perimetre": false,
+          "acteur_categorie": "responsable_politique",
+          "acteur_precis": "Marine Le Pen identifiée par le parent",
+          "objet": "perspective d’une présidence malgré des accusations judiciaires",
+          "proposition": "perspective d’une présidence malgré des accusations judiciaires : condamne",
+          "position": "condamne",
+          "statut_enonciation": "auteur",
+          "preuves": [
+            "on aurait une présidente avec un bracelet à la cheville"
+          ],
+          "arguments_utilises": [],
+          "responsabilite_attribuee": null,
+          "ironie": "non_detectee",
+          "incertitude": "lecture_explicite",
+          "relation_parent": "contestation",
+          "passage_parent_vise": null,
+          "note": "Accusations judiciaires de l’auteur non vérifiées."
+        }
+      ],
+      "limites": [
+        "Vidéo non validée pour Paris le 17 octobre; texte et parent disponibles seulement."
+      ]
+    }
+  },
+  {
+    "ordre_lot": 26,
+    "comment_id": "UgzoGPSZoO41QNx_jAh4AaABAg",
+    "video_id": "ok-2INSyDKE",
+    "origine": "assistant_conversationnel",
+    "modele_api": null,
+    "grille": "0.2",
+    "validation_humaine": "non_effectuee",
+    "annotation": {
+      "pertinence": "intervention_policiere",
+      "contexte_parent_utilise": "non",
+      "positions": [
+        {
+          "theme": "responsabilite_politique",
+          "dans_perimetre": true,
+          "acteur_categorie": "organisation",
+          "acteur_precis": "LFI",
+          "objet": "attribution anticipée de responsabilité à la police",
+          "proposition": "attribution anticipée de responsabilité à la police : condamne",
+          "position": "condamne",
+          "statut_enonciation": "auteur",
+          "preuves": [
+            "Lfi va nous expliquer que ce sont les policiers le problème"
+          ],
+          "arguments_utilises": [],
+          "responsabilite_attribuee": null,
+          "ironie": "possible",
+          "incertitude": "ambigu",
+          "relation_parent": "sans_parent",
+          "passage_parent_vise": null,
+          "note": "Rejet anticipé d’un discours attribué à LFI, sans démontrer un soutien à chaque acte policier."
+        }
+      ],
+      "limites": [
+        "Vidéo non validée pour Paris le 17 octobre; texte et parent disponibles seulement."
+      ]
+    }
+  },
+  {
+    "ordre_lot": 27,
+    "comment_id": "UgyAK6TLSDI7UlXKM_54AaABAg",
+    "video_id": "rT4oeD_psTI",
+    "origine": "assistant_conversationnel",
+    "modele_api": null,
+    "grille": "0.2",
+    "validation_humaine": "non_effectuee",
+    "annotation": {
+      "pertinence": "violences_plus_largement",
+      "contexte_parent_utilise": "non",
+      "positions": [
+        {
+          "theme": "violences_degradations",
+          "dans_perimetre": true,
+          "acteur_categorie": "manifestants",
+          "acteur_precis": "auteurs de dégâts parmi les mobilisés",
+          "objet": "dégradations",
+          "proposition": "dégradations : condamne",
+          "position": "condamne",
+          "statut_enonciation": "auteur",
+          "preuves": [
+            "Pas besoin de tou cassé pour autant..."
+          ],
+          "arguments_utilises": [
+            "Coût futur de biens déjà financés collectivement."
+          ],
+          "responsabilite_attribuee": null,
+          "ironie": "non_detectee",
+          "incertitude": "lecture_explicite",
+          "relation_parent": "sans_parent",
+          "passage_parent_vise": null,
+          "note": ""
+        },
+        {
+          "theme": "conditions_sociales",
+          "dans_perimetre": false,
+          "acteur_categorie": "manifestants",
+          "acteur_precis": "collectif auquel l’auteur s’associe",
+          "objet": "solidarité et revendications",
+          "proposition": "solidarité et revendications : justifie_soutient",
+          "position": "justifie_soutient",
+          "statut_enonciation": "auteur",
+          "preuves": [
+            "Force à nous tous en vrai..."
+          ],
+          "arguments_utilises": [],
+          "responsabilite_attribuee": null,
+          "ironie": "non_detectee",
+          "incertitude": "lecture_explicite",
+          "relation_parent": "sans_parent",
+          "passage_parent_vise": null,
+          "note": "Soutien au collectif compatible avec le refus des dégâts."
+        }
+      ],
+      "limites": [
+        "Vidéo non validée pour Paris le 17 octobre; texte et parent disponibles seulement."
+      ]
+    }
+  },
+  {
+    "ordre_lot": 28,
+    "comment_id": "UgxSPLWDCbpCfvjPOBt4AaABAg",
+    "video_id": "WHhG_0nVvhA",
+    "origine": "assistant_conversationnel",
+    "modele_api": null,
+    "grille": "0.2",
+    "validation_humaine": "non_effectuee",
+    "annotation": {
+      "pertinence": "violences_plus_largement",
+      "contexte_parent_utilise": "non",
+      "positions": [
+        {
+          "theme": "violences_degradations",
+          "dans_perimetre": true,
+          "acteur_categorie": "autre",
+          "acteur_precis": "auteurs des violences contre des victimes",
+          "objet": "violences et conséquences pour les victimes",
+          "proposition": "violences et conséquences pour les victimes : condamne",
+          "position": "condamne",
+          "statut_enonciation": "auteur",
+          "preuves": [
+            "RIEN ne justifie ces horreurs"
+          ],
+          "arguments_utilises": [
+            "Conséquences pour les victimes et distinction avec les revendications lycéennes."
+          ],
+          "responsabilite_attribuee": null,
+          "ironie": "non_detectee",
+          "incertitude": "lecture_explicite",
+          "relation_parent": "sans_parent",
+          "passage_parent_vise": null,
+          "note": ""
+        }
+      ],
+      "limites": [
+        "Vidéo non validée pour Paris le 17 octobre; texte et parent disponibles seulement."
+      ]
+    }
+  },
+  {
+    "ordre_lot": 29,
+    "comment_id": "Ugwm3xmTYoCMJtGVYHt4AaABAg",
+    "video_id": "84vzlBD35BA",
+    "origine": "assistant_conversationnel",
+    "modele_api": null,
+    "grille": "0.2",
+    "validation_humaine": "non_effectuee",
+    "annotation": {
+      "pertinence": "violences_plus_largement",
+      "contexte_parent_utilise": "non",
+      "positions": [
+        {
+          "theme": "violences_degradations",
+          "dans_perimetre": true,
+          "acteur_categorie": "casseurs",
+          "acteur_precis": "homme décrit comme porteur d’une bouteille volée",
+          "objet": "déni de participation aux faits",
+          "proposition": "déni de participation aux faits : condamne",
+          "position": "condamne",
+          "statut_enonciation": "auteur",
+          "preuves": [
+            "une bouteille de whisky volée dans la poche qui n'a rien fait"
+          ],
+          "arguments_utilises": [],
+          "responsabilite_attribuee": null,
+          "ironie": "probable",
+          "incertitude": "lecture_explicite",
+          "relation_parent": "sans_parent",
+          "passage_parent_vise": null,
+          "note": "Conteste un déni; vol allégué non vérifié. Pas de soutien automatique à une intervention policière."
+        }
+      ],
+      "limites": [
+        "Vidéo non validée pour Paris le 17 octobre; texte et parent disponibles seulement."
+      ]
+    }
+  },
+  {
+    "ordre_lot": 30,
+    "comment_id": "UgzXZ-mkENXpLV3tlZp4AaABAg.Ac3K91oBWoEAc3LUDNvmpr",
+    "video_id": "zfBdkmxanmc",
+    "origine": "assistant_conversationnel",
+    "modele_api": null,
+    "grille": "0.2",
+    "validation_humaine": "non_effectuee",
+    "annotation": {
+      "pertinence": "violences_plus_largement",
+      "contexte_parent_utilise": "oui",
+      "positions": [
+        {
+          "theme": "violences_degradations",
+          "dans_perimetre": true,
+          "acteur_categorie": "autre",
+          "acteur_precis": "interlocuteur et personnes réduisant le mouvement aux feux",
+          "objet": "réduction du mouvement aux incendies",
+          "proposition": "réduction du mouvement aux incendies : condamne",
+          "position": "condamne",
+          "statut_enonciation": "auteur",
+          "preuves": [
+            "si pour vous il se résume a des feux.... vous n'écoutez pas vos enfants"
+          ],
+          "arguments_utilises": [],
+          "responsabilite_attribuee": null,
+          "ironie": "non_detectee",
+          "incertitude": "lecture_explicite",
+          "relation_parent": "indeterminee",
+          "passage_parent_vise": null,
+          "note": "Réponse mentionnant un autre compte; parent principal ne reconstitue pas nécessairement l’échange exact."
+        }
+      ],
+      "limites": [
+        "Vidéo non validée pour Paris le 17 octobre; texte et parent disponibles seulement."
+      ]
+    }
+  },
+  {
+    "ordre_lot": 31,
+    "comment_id": "UgyOdJYDRyGmCs8rmB14AaABAg.AcATBkh6EYGAcC5qUZAU7w",
+    "video_id": "lT6K9473zX8",
+    "origine": "assistant_conversationnel",
+    "modele_api": null,
+    "grille": "0.2",
+    "validation_humaine": "non_effectuee",
+    "annotation": {
+      "pertinence": "intervention_policiere",
+      "contexte_parent_utilise": "oui",
+      "positions": [
+        {
+          "theme": "violences_degradations",
+          "dans_perimetre": true,
+          "acteur_categorie": "manifestants",
+          "acteur_precis": "majorité des participants",
+          "objet": "caractère pacifique de la mobilisation",
+          "proposition": "caractère pacifique de la mobilisation : nuance",
+          "position": "nuance",
+          "statut_enonciation": "auteur",
+          "preuves": [
+            "The vast majority of the demonstration is peaceful."
+          ],
+          "arguments_utilises": [],
+          "responsabilite_attribuee": null,
+          "ironie": "non_detectee",
+          "incertitude": "lecture_explicite",
+          "relation_parent": "contestation_partielle",
+          "passage_parent_vise": null,
+          "note": "Conteste la généralisation des destructions, sans les nier toutes."
+        },
+        {
+          "theme": "interventions_policieres",
+          "dans_perimetre": true,
+          "acteur_categorie": "gouvernement",
+          "acteur_precis": "institutions répressives non nommées",
+          "objet": "violence institutionnelle et répression",
+          "proposition": "violence institutionnelle et répression : condamne",
+          "position": "condamne",
+          "statut_enonciation": "auteur",
+          "preuves": [
+            "The repression is truly violent!"
+          ],
+          "arguments_utilises": [],
+          "responsabilite_attribuee": "Violence institutionnelle présentée comme déclencheur des protestations.",
+          "ironie": "non_detectee",
+          "incertitude": "lecture_explicite",
+          "relation_parent": "precision",
+          "passage_parent_vise": null,
+          "note": ""
+        }
+      ],
+      "limites": [
+        "Vidéo non validée pour Paris le 17 octobre; texte et parent disponibles seulement."
+      ]
+    }
+  },
+  {
+    "ordre_lot": 32,
+    "comment_id": "UgwvJ0r6wsOLdppNyJt4AaABAg",
+    "video_id": "dlEuwODhnVw",
+    "origine": "assistant_conversationnel",
+    "modele_api": null,
+    "grille": "0.2",
+    "validation_humaine": "non_effectuee",
+    "annotation": {
+      "pertinence": "violences_plus_largement",
+      "contexte_parent_utilise": "non",
+      "positions": [
+        {
+          "theme": "responsabilite_politique",
+          "dans_perimetre": true,
+          "acteur_categorie": "gouvernement",
+          "acteur_precis": "Macron et son gouvernement",
+          "objet": "violence institutionnelle et inégalités",
+          "proposition": "violence institutionnelle et inégalités : condamne",
+          "position": "condamne",
+          "statut_enonciation": "auteur",
+          "preuves": [
+            "Macron and his government must be accountable"
+          ],
+          "arguments_utilises": [
+            "Politiques décrites comme favorables aux grandes entreprises et exploitation alléguée."
+          ],
+          "responsabilite_attribuee": "Violence institutionnelle et inégalités attribuées au gouvernement.",
+          "ironie": "non_detectee",
+          "incertitude": "lecture_explicite",
+          "relation_parent": "sans_parent",
+          "passage_parent_vise": null,
+          "note": ""
+        },
+        {
+          "theme": "violences_degradations",
+          "dans_perimetre": true,
+          "acteur_categorie": "manifestants",
+          "acteur_precis": "personnes mobilisées en France",
+          "objet": "protestation et expression de la colère",
+          "proposition": "protestation et expression de la colère : justifie_soutient",
+          "position": "justifie_soutient",
+          "statut_enonciation": "auteur",
+          "preuves": [
+            "It is only right and just that the people of France"
+          ],
+          "arguments_utilises": [
+            "Tromperie et politiques gouvernementales alléguées."
+          ],
+          "responsabilite_attribuee": null,
+          "ironie": "non_detectee",
+          "incertitude": "lecture_explicite",
+          "relation_parent": "sans_parent",
+          "passage_parent_vise": null,
+          "note": "Soutien à protester et à exprimer la colère, pas approbation certaine de tout acte violent."
+        },
+        {
+          "theme": "medias",
+          "dans_perimetre": false,
+          "acteur_categorie": "organisation",
+          "acteur_precis": "médias et gouvernements occidentaux évoqués",
+          "objet": "traitement comparé des protestations en Iran et en France",
+          "proposition": "traitement comparé des protestations en Iran et en France : condamne",
+          "position": "condamne",
+          "statut_enonciation": "auteur",
+          "preuves": [
+            "the media are fast to condemn the people!"
+          ],
+          "arguments_utilises": [],
+          "responsabilite_attribuee": null,
+          "ironie": "non_detectee",
+          "incertitude": "lecture_explicite",
+          "relation_parent": "sans_parent",
+          "passage_parent_vise": null,
+          "note": "Accusation de traitement asymétrique, faits non vérifiés."
+        }
+      ],
+      "limites": [
+        "Vidéo non validée pour Paris le 17 octobre; texte et parent disponibles seulement."
+      ]
+    }
+  },
+  {
+    "ordre_lot": 33,
+    "comment_id": "Ugz9PEewbQ_HfNZX_y94AaABAg.Ac3zj2FKGz5Ac6eUX-Ve8V",
+    "video_id": "EEUd5M9MReM",
+    "origine": "assistant_conversationnel",
+    "modele_api": null,
+    "grille": "0.2",
+    "validation_humaine": "non_effectuee",
+    "annotation": {
+      "pertinence": "intervention_policiere",
+      "contexte_parent_utilise": "oui",
+      "positions": [
+        {
+          "theme": "interventions_policieres",
+          "dans_perimetre": true,
+          "acteur_categorie": "police",
+          "acteur_precis": "police",
+          "objet": "gazage et encerclement de manifestations décrites comme pacifiques",
+          "proposition": "gazage et encerclement de manifestations décrites comme pacifiques : condamne",
+          "position": "condamne",
+          "statut_enonciation": "auteur",
+          "preuves": [
+            "absolutely peaceful marches getting gassed and scattered by the police"
+          ],
+          "arguments_utilises": [],
+          "responsabilite_attribuee": "Pratiques policières présentées comme favorisant colère et violences.",
+          "ironie": "non_detectee",
+          "incertitude": "lecture_explicite",
+          "relation_parent": "contestation_partielle",
+          "passage_parent_vise": null,
+          "note": ""
+        },
+        {
+          "theme": "medias",
+          "dans_perimetre": false,
+          "acteur_categorie": "organisation",
+          "acteur_precis": "médias",
+          "objet": "sélection d’images violentes",
+          "proposition": "sélection d’images violentes : condamne",
+          "position": "condamne",
+          "statut_enonciation": "auteur",
+          "preuves": [
+            "medias that will obviously emphasize on violence and shocking images"
+          ],
+          "arguments_utilises": [],
+          "responsabilite_attribuee": null,
+          "ironie": "non_detectee",
+          "incertitude": "lecture_explicite",
+          "relation_parent": "precision",
+          "passage_parent_vise": null,
+          "note": ""
+        },
+        {
+          "theme": "violences_degradations",
+          "dans_perimetre": true,
+          "acteur_categorie": "manifestants",
+          "acteur_precis": "majorité des manifestants et minorité violente",
+          "objet": "généralisation des destructions",
+          "proposition": "généralisation des destructions : nuance",
+          "position": "nuance",
+          "statut_enonciation": "auteur",
+          "preuves": [
+            "many marches were peaceful, it only takes a handful of people to destroy stuffs."
+          ],
+          "arguments_utilises": [],
+          "responsabilite_attribuee": null,
+          "ironie": "non_detectee",
+          "incertitude": "lecture_explicite",
+          "relation_parent": "contestation_partielle",
+          "passage_parent_vise": null,
+          "note": ""
+        }
+      ],
+      "limites": [
+        "Vidéo non validée pour Paris le 17 octobre; texte et parent disponibles seulement."
+      ]
+    }
+  },
+  {
+    "ordre_lot": 34,
+    "comment_id": "UgzI2nHhcySRBZb-xWJ4AaABAg",
+    "video_id": "88Cz6Bmjfzg",
+    "origine": "assistant_conversationnel",
+    "modele_api": null,
+    "grille": "0.2",
+    "validation_humaine": "non_effectuee",
+    "annotation": {
+      "pertinence": "violences_plus_largement",
+      "contexte_parent_utilise": "non",
+      "positions": [
+        {
+          "theme": "violences_degradations",
+          "dans_perimetre": true,
+          "acteur_categorie": "autre",
+          "acteur_precis": "étrangers et infiltrés accusés par l’auteur",
+          "objet": "incendie et dégâts sur un monument",
+          "proposition": "incendie et dégâts sur un monument : condamne",
+          "position": "condamne",
+          "statut_enonciation": "auteur",
+          "preuves": [
+            "Foreigners/ infiltrators have done this dastardly act"
+          ],
+          "arguments_utilises": [],
+          "responsabilite_attribuee": "Destruction attribuée aux étrangers ou infiltrés; attribution non vérifiée.",
+          "ironie": "non_detectee",
+          "incertitude": "lecture_explicite",
+          "relation_parent": "sans_parent",
+          "passage_parent_vise": null,
+          "note": ""
+        },
+        {
+          "theme": "interventions_policieres",
+          "dans_perimetre": true,
+          "acteur_categorie": "police",
+          "acteur_precis": "autorités chargées de l’identification et de la sanction, implicites",
+          "objet": "identification et sanction des incendiaires",
+          "proposition": "identification et sanction des incendiaires : justifie_soutient",
+          "position": "justifie_soutient",
+          "statut_enonciation": "auteur",
+          "preuves": [
+            "identication of the criminals and punishment for arsonists!"
+          ],
+          "arguments_utilises": [],
+          "responsabilite_attribuee": null,
+          "ironie": "non_detectee",
+          "incertitude": "ambigu",
+          "relation_parent": "sans_parent",
+          "passage_parent_vise": null,
+          "note": "Demande de sanction explicite; répartition police/justice non précisée."
+        }
+      ],
+      "limites": [
+        "Vidéo non validée pour Paris le 17 octobre; texte et parent disponibles seulement."
+      ]
+    }
+  },
+  {
+    "ordre_lot": 35,
+    "comment_id": "UgyIdTDPzDMpSCNj3tF4AaABAg",
+    "video_id": "vWvSE-oYJ0g",
+    "origine": "assistant_conversationnel",
+    "modele_api": null,
+    "grille": "0.2",
+    "validation_humaine": "non_effectuee",
+    "annotation": {
+      "pertinence": "intervention_policiere",
+      "contexte_parent_utilise": "non",
+      "positions": [
+        {
+          "theme": "interventions_policieres",
+          "dans_perimetre": true,
+          "acteur_categorie": "gouvernement",
+          "acteur_precis": "responsables de la répression non nommés",
+          "objet": "cause des fermetures de métro",
+          "proposition": "cause des fermetures de métro : condamne",
+          "position": "condamne",
+          "statut_enonciation": "auteur",
+          "preuves": [
+            "raison de la répression"
+          ],
+          "arguments_utilises": [],
+          "responsabilite_attribuee": "Fermetures attribuées à la répression plutôt qu’aux manifestations.",
+          "ironie": "non_detectee",
+          "incertitude": "ambigu",
+          "relation_parent": "sans_parent",
+          "passage_parent_vise": null,
+          "note": "Reformulation causale péjorative; responsable institutionnel non nommé."
+        }
+      ],
+      "limites": [
+        "Vidéo non validée pour Paris le 17 octobre; texte et parent disponibles seulement."
+      ]
+    }
+  },
+  {
+    "ordre_lot": 36,
+    "comment_id": "UgyKiLkVX0xUpAfOSI54AaABAg.Ac61eckAeluAc6dkaJGqpU",
+    "video_id": "beVuLFdklVU",
+    "origine": "assistant_conversationnel",
+    "modele_api": null,
+    "grille": "0.2",
+    "validation_humaine": "non_effectuee",
+    "annotation": {
+      "pertinence": "violences_plus_largement",
+      "contexte_parent_utilise": "oui",
+      "positions": [
+        {
+          "theme": "violences_degradations",
+          "dans_perimetre": true,
+          "acteur_categorie": "organisation",
+          "acteur_precis": "groupes GUD et C9M évoqués dans des rangs policiers",
+          "objet": "provocation et participation au vandalisme",
+          "proposition": "provocation et participation au vandalisme : condamne",
+          "position": "condamne",
+          "statut_enonciation": "auteur",
+          "preuves": [
+            "participer eux-mêmes au vandalisme sans jamais être inquiétés"
+          ],
+          "arguments_utilises": [],
+          "responsabilite_attribuee": "Groupes accusés d’inciter et de participer au vandalisme en bénéficiant d’impunité.",
+          "ironie": "non_detectee",
+          "incertitude": "lecture_explicite",
+          "relation_parent": "contestation_partielle",
+          "passage_parent_vise": null,
+          "note": "Allégations de l’auteur non vérifiées; ne pas généraliser à toute la police."
+        },
+        {
+          "theme": "responsabilite_politique",
+          "dans_perimetre": true,
+          "acteur_categorie": "organisation",
+          "acteur_precis": "LFI",
+          "objet": "responsabilité exclusive dans les dégradations",
+          "proposition": "responsabilité exclusive dans les dégradations : nuance",
+          "position": "nuance",
+          "statut_enonciation": "auteur",
+          "preuves": [
+            "Il y a toujours eu de la casse même lorsque LFI n'existait pas."
+          ],
+          "arguments_utilises": [],
+          "responsabilite_attribuee": null,
+          "ironie": "non_detectee",
+          "incertitude": "lecture_explicite",
+          "relation_parent": "contestation_partielle",
+          "passage_parent_vise": null,
+          "note": ""
+        }
+      ],
+      "limites": [
+        "Vidéo non validée pour Paris le 17 octobre; texte et parent disponibles seulement."
+      ]
+    }
+  },
+  {
+    "ordre_lot": 37,
+    "comment_id": "UgxdjcjsfswAzw4u-g54AaABAg",
+    "video_id": "5AOiiHP1DY8",
+    "origine": "assistant_conversationnel",
+    "modele_api": null,
+    "grille": "0.2",
+    "validation_humaine": "non_effectuee",
+    "annotation": {
+      "pertinence": "intervention_policiere",
+      "contexte_parent_utilise": "non",
+      "positions": [
+        {
+          "theme": "interventions_policieres",
+          "dans_perimetre": true,
+          "acteur_categorie": "police",
+          "acteur_precis": "police parisienne",
+          "objet": "appréciation générale de la police",
+          "proposition": "appréciation générale de la police : condamne",
+          "position": "condamne",
+          "statut_enonciation": "auteur",
+          "preuves": [
+            "I don’t like Paris police"
+          ],
+          "arguments_utilises": [],
+          "responsabilite_attribuee": null,
+          "ironie": "non_detectee",
+          "incertitude": "lecture_explicite",
+          "relation_parent": "sans_parent",
+          "passage_parent_vise": null,
+          "note": "Hostilité générale, sans action policière précise."
+        },
+        {
+          "theme": "violences_degradations",
+          "dans_perimetre": true,
+          "acteur_categorie": "manifestants",
+          "acteur_precis": "mobilisation désignée par it",
+          "objet": "poursuite de la mobilisation",
+          "proposition": "poursuite de la mobilisation : justifie_soutient",
+          "position": "justifie_soutient",
+          "statut_enonciation": "auteur",
+          "preuves": [
+            "I love it so much don’t stop it"
+          ],
+          "arguments_utilises": [],
+          "responsabilite_attribuee": null,
+          "ironie": "non_detectee",
+          "incertitude": "contexte_insuffisant",
+          "relation_parent": "sans_parent",
+          "passage_parent_vise": null,
+          "note": "Objet exact de it incertain; ne pas coder un soutien certain à des violences."
+        }
+      ],
+      "limites": [
+        "Vidéo non validée pour Paris le 17 octobre; texte et parent disponibles seulement."
+      ]
+    }
+  },
+  {
+    "ordre_lot": 38,
+    "comment_id": "UgxciFSniiF2u3oZV0x4AaABAg.Ac9tVzz8GhGAcJLOgXJoT6",
+    "video_id": "7-KpV-vvBSk",
+    "origine": "assistant_conversationnel",
+    "modele_api": null,
+    "grille": "0.2",
+    "validation_humaine": "non_effectuee",
+    "annotation": {
+      "pertinence": "intervention_policiere",
+      "contexte_parent_utilise": "oui",
+      "positions": [
+        {
+          "theme": "interventions_policieres",
+          "dans_perimetre": true,
+          "acteur_categorie": "police",
+          "acteur_precis": "police",
+          "objet": "protection d’élites politiques qualifiées de corrompues",
+          "proposition": "protection d’élites politiques qualifiées de corrompues : condamne",
+          "position": "condamne",
+          "statut_enonciation": "auteur",
+          "preuves": [
+            "the bodyguards for the corrupt PLOT TICIANS and elites"
+          ],
+          "arguments_utilises": [],
+          "responsabilite_attribuee": "Police accusée de protéger des élites au lieu des citoyens.",
+          "ironie": "non_detectee",
+          "incertitude": "lecture_explicite",
+          "relation_parent": "accord",
+          "passage_parent_vise": null,
+          "note": ""
+        }
+      ],
+      "limites": [
+        "Vidéo non validée pour Paris le 17 octobre; texte et parent disponibles seulement."
+      ]
+    }
+  },
+  {
+    "ordre_lot": 39,
+    "comment_id": "Ugwg54SmzLdYMqxYEZd4AaABAg.Ac4SF20C-PPAc6eOeKeO4P",
+    "video_id": "IoyyQclxpGU",
+    "origine": "assistant_conversationnel",
+    "modele_api": null,
+    "grille": "0.2",
+    "validation_humaine": "non_effectuee",
+    "annotation": {
+      "pertinence": "hors_sujet",
+      "contexte_parent_utilise": "oui",
+      "positions": [
+        {
+          "theme": "responsabilite_politique",
+          "dans_perimetre": false,
+          "acteur_categorie": "autre",
+          "acteur_precis": "citoyens et électeurs évoqués",
+          "objet": "interprétation d’un propos de blâme électoral",
+          "proposition": "interprétation d’un propos de blâme électoral : decrit_sans_position",
+          "position": "decrit_sans_position",
+          "statut_enonciation": "auteur",
+          "preuves": [
+            "they were referring to the Parisians and French citizens that voted for this."
+          ],
+          "arguments_utilises": [],
+          "responsabilite_attribuee": null,
+          "ironie": "non_detectee",
+          "incertitude": "contexte_insuffisant",
+          "relation_parent": "precision",
+          "passage_parent_vise": null,
+          "note": "Explique qui serait visé par un propos; ne suffit pas à attribuer à l’auteur toute la position du parent."
+        }
+      ],
+      "limites": [
+        "Vidéo non validée pour Paris le 17 octobre; texte et parent disponibles seulement."
+      ]
+    }
+  },
+  {
+    "ordre_lot": 40,
+    "comment_id": "UgyiY-qqdoAf20ESWOR4AaABAg",
+    "video_id": "VSItGPe5QdI",
+    "origine": "assistant_conversationnel",
+    "modele_api": null,
+    "grille": "0.2",
+    "validation_humaine": "non_effectuee",
+    "annotation": {
+      "pertinence": "partielle",
+      "contexte_parent_utilise": "non",
+      "positions": [
+        {
+          "theme": "medias",
+          "dans_perimetre": false,
+          "acteur_categorie": "organisation",
+          "acteur_precis": "personnes et médias associant manifestants et violence, non nommés",
+          "objet": "association systématique entre manifestation et violence",
+          "proposition": "association systématique entre manifestation et violence : condamne",
+          "position": "condamne",
+          "statut_enonciation": "auteur",
+          "preuves": [
+            "faut cesser d'employer manifestant et violence dans la même phrase"
+          ],
+          "arguments_utilises": [],
+          "responsabilite_attribuee": null,
+          "ironie": "non_detectee",
+          "incertitude": "lecture_explicite",
+          "relation_parent": "sans_parent",
+          "passage_parent_vise": null,
+          "note": "Conteste un cadrage; pas un déni factuel de tout épisode violent."
+        }
+      ],
+      "limites": [
+        "Vidéo non validée pour Paris le 17 octobre; texte et parent disponibles seulement."
+      ]
+    }
+  },
+  {
+    "ordre_lot": 41,
+    "comment_id": "UgwzEn-pdHmnluEx0Ed4AaABAg",
+    "video_id": "WVmz-sOxa5Y",
+    "origine": "assistant_conversationnel",
+    "modele_api": null,
+    "grille": "0.2",
+    "validation_humaine": "non_effectuee",
+    "annotation": {
+      "pertinence": "intervention_policiere",
+      "contexte_parent_utilise": "non",
+      "positions": [
+        {
+          "theme": "conditions_sociales",
+          "dans_perimetre": false,
+          "acteur_categorie": "manifestants",
+          "acteur_precis": "gilets jaunes que l’auteur considère comme authentiques",
+          "objet": "soutien à la mobilisation",
+          "proposition": "soutien à la mobilisation : justifie_soutient",
+          "position": "justifie_soutient",
+          "statut_enonciation": "auteur",
+          "preuves": [
+            "moi j vous soutien depuis le debut"
+          ],
+          "arguments_utilises": [],
+          "responsabilite_attribuee": null,
+          "ironie": "non_detectee",
+          "incertitude": "lecture_explicite",
+          "relation_parent": "sans_parent",
+          "passage_parent_vise": null,
+          "note": ""
+        },
+        {
+          "theme": "interventions_policieres",
+          "dans_perimetre": true,
+          "acteur_categorie": "police",
+          "acteur_precis": "CRS",
+          "objet": "agressivité et violence alléguées",
+          "proposition": "agressivité et violence alléguées : condamne",
+          "position": "condamne",
+          "statut_enonciation": "auteur",
+          "preuves": [
+            "agressif et violent,  peut etre pas tous"
+          ],
+          "arguments_utilises": [
+            "Ordres de non-réponse et agressivité alléguée."
+          ],
+          "responsabilite_attribuee": null,
+          "ironie": "non_detectee",
+          "incertitude": "lecture_explicite",
+          "relation_parent": "sans_parent",
+          "passage_parent_vise": null,
+          "note": "L’auteur précise une exception possible; ne pas transformer en accusation uniforme de tous les CRS."
+        }
+      ],
+      "limites": [
+        "Vidéo non validée pour Paris le 17 octobre; texte et parent disponibles seulement."
+      ]
+    }
+  },
+  {
+    "ordre_lot": 42,
+    "comment_id": "UgzwhJnchWT_ac_AgWl4AaABAg.Ac4U_JHLBVTAc52QokSFoW",
+    "video_id": "WACEGrmBJ7U",
+    "origine": "assistant_conversationnel",
+    "modele_api": null,
+    "grille": "0.2",
+    "validation_humaine": "non_effectuee",
+    "annotation": {
+      "pertinence": "intervention_policiere",
+      "contexte_parent_utilise": "oui",
+      "positions": [
+        {
+          "theme": "interventions_policieres",
+          "dans_perimetre": true,
+          "acteur_categorie": "police",
+          "acteur_precis": "forces ayant gazé les participants, implicites",
+          "objet": "gazage de participants à une manifestation",
+          "proposition": "gazage de participants à une manifestation : justifie_soutient",
+          "position": "justifie_soutient",
+          "statut_enonciation": "auteur",
+          "preuves": [
+            "Pas sans raison"
+          ],
+          "arguments_utilises": [
+            "Violences contre policiers attribuées à la manifestation."
+          ],
+          "responsabilite_attribuee": null,
+          "ironie": "non_detectee",
+          "incertitude": "lecture_explicite",
+          "relation_parent": "contestation",
+          "passage_parent_vise": "SANS AUCUNES RAISON",
+          "note": "L’auteur conteste l’absence de raison; cela ne valide pas l’accusation de lynchage."
+        }
+      ],
+      "limites": [
+        "Vidéo non validée pour Paris le 17 octobre; texte et parent disponibles seulement."
+      ]
+    }
+  },
+  {
+    "ordre_lot": 43,
+    "comment_id": "Ugz3DBKIBdnNelcaxTl4AaABAg",
+    "video_id": "IVTNGdqS3I8",
+    "origine": "assistant_conversationnel",
+    "modele_api": null,
+    "grille": "0.2",
+    "validation_humaine": "non_effectuee",
+    "annotation": {
+      "pertinence": "violences_plus_largement",
+      "contexte_parent_utilise": "non",
+      "positions": [
+        {
+          "theme": "violences_degradations",
+          "dans_perimetre": true,
+          "acteur_categorie": "casseurs",
+          "acteur_precis": "émeutiers pillant des commerces locaux",
+          "objet": "violence et pillage",
+          "proposition": "violence et pillage : condamne",
+          "position": "condamne",
+          "statut_enonciation": "auteur",
+          "preuves": [
+            "their bullying, hate and violence"
+          ],
+          "arguments_utilises": [
+            "Préjudice à des commerçants locaux ayant financé leurs commerces."
+          ],
+          "responsabilite_attribuee": "Émeutiers accusés de rechercher un prétexte pour leur violence.",
+          "ironie": "non_detectee",
+          "incertitude": "lecture_explicite",
+          "relation_parent": "sans_parent",
+          "passage_parent_vise": null,
+          "note": ""
+        }
+      ],
+      "limites": [
+        "Vidéo non validée pour Paris le 17 octobre; texte et parent disponibles seulement."
+      ]
+    }
+  },
+  {
+    "ordre_lot": 44,
+    "comment_id": "UgwWUvLkqsKpkJr7-fx4AaABAg.Ac3ib1a1d90Ac42xW3vHp7",
+    "video_id": "ULfVq9W1kak",
+    "origine": "assistant_conversationnel",
+    "modele_api": null,
+    "grille": "0.2",
+    "validation_humaine": "non_effectuee",
+    "annotation": {
+      "pertinence": "intervention_policiere",
+      "contexte_parent_utilise": "oui",
+      "positions": [
+        {
+          "theme": "interventions_policieres",
+          "dans_perimetre": true,
+          "acteur_categorie": "police",
+          "acteur_precis": "policiers",
+          "objet": "oubli d’un message du pape non précisé",
+          "proposition": "oubli d’un message du pape non précisé : condamne",
+          "position": "condamne",
+          "statut_enonciation": "auteur",
+          "preuves": [
+            "curieux que les flic on oublié le message du pape !"
+          ],
+          "arguments_utilises": [],
+          "responsabilite_attribuee": null,
+          "ironie": "possible",
+          "incertitude": "contexte_insuffisant",
+          "relation_parent": "precision",
+          "passage_parent_vise": null,
+          "note": "Reproche identifiable mais contenu du message absent; ne pas importer toute la critique du parent."
+        }
+      ],
+      "limites": [
+        "Vidéo non validée pour Paris le 17 octobre; texte et parent disponibles seulement."
+      ]
+    }
+  },
+  {
+    "ordre_lot": 45,
+    "comment_id": "UgwDFUYyTDPcR67ikHx4AaABAg.Ac3SVftWsRsAc56WgQvVpB",
+    "video_id": "PBmbo2_Y3JM",
+    "origine": "assistant_conversationnel",
+    "modele_api": null,
+    "grille": "0.2",
+    "validation_humaine": "non_effectuee",
+    "annotation": {
+      "pertinence": "intervention_policiere",
+      "contexte_parent_utilise": "oui",
+      "positions": [
+        {
+          "theme": "violences_degradations",
+          "dans_perimetre": true,
+          "acteur_categorie": "police",
+          "acteur_precis": "policiers infiltrés et responsables de l’ordre accusés",
+          "objet": "provocation et détournement des revendications",
+          "proposition": "provocation et détournement des revendications : condamne",
+          "position": "condamne",
+          "statut_enonciation": "auteur",
+          "preuves": [
+            "casseurs policiers infiltrés afin de détourner la véritable cause"
+          ],
+          "arguments_utilises": [],
+          "responsabilite_attribuee": "Provocations et dégradations attribuées à des policiers infiltrés.",
+          "ironie": "non_detectee",
+          "incertitude": "lecture_explicite",
+          "relation_parent": "contestation_partielle",
+          "passage_parent_vise": null,
+          "note": "Accusation non vérifiée, pas un fait établi."
+        },
+        {
+          "theme": "responsabilite_politique",
+          "dans_perimetre": true,
+          "acteur_categorie": "responsable_politique",
+          "acteur_precis": "Nuñez nommé par l’auteur",
+          "objet": "protection alléguée d’agitateurs et violence envers lycéens",
+          "proposition": "protection alléguée d’agitateurs et violence envers lycéens : condamne",
+          "position": "condamne",
+          "statut_enonciation": "auteur",
+          "preuves": [
+            "protégés par NUNEZ TORTIONNAIRE de lyceens"
+          ],
+          "arguments_utilises": [],
+          "responsabilite_attribuee": "Responsabilité et protection des agents attribuées à Nuñez.",
+          "ironie": "non_detectee",
+          "incertitude": "lecture_explicite",
+          "relation_parent": "precision",
+          "passage_parent_vise": null,
+          "note": "Qualifications accusatoires de l’auteur conservées comme telles."
+        }
+      ],
+      "limites": [
+        "Vidéo non validée pour Paris le 17 octobre; texte et parent disponibles seulement."
+      ]
+    }
+  },
+  {
+    "ordre_lot": 46,
+    "comment_id": "Ugw0SQwUC-cvsbrmVXR4AaABAg.Ac3eXATMJYrAc3p2MLiUUI",
+    "video_id": "nG5bYW3aJhc",
+    "origine": "assistant_conversationnel",
+    "modele_api": null,
+    "grille": "0.2",
+    "validation_humaine": "non_effectuee",
+    "annotation": {
+      "pertinence": "violences_plus_largement",
+      "contexte_parent_utilise": "oui",
+      "positions": [
+        {
+          "theme": "responsabilite_politique",
+          "dans_perimetre": false,
+          "acteur_categorie": "organisation",
+          "acteur_precis": "parti politique non nommé dans la réponse, extrême gauche selon le parent",
+          "objet": "instrumentalisation électorale des jeunes",
+          "proposition": "instrumentalisation électorale des jeunes : condamne",
+          "position": "condamne",
+          "statut_enonciation": "auteur",
+          "preuves": [
+            "un parti politique qui les manipule à  des fins électoralistes"
+          ],
+          "arguments_utilises": [],
+          "responsabilite_attribuee": "Manipulation de jeunes attribuée à un parti.",
+          "ironie": "non_detectee",
+          "incertitude": "lecture_explicite",
+          "relation_parent": "accord",
+          "passage_parent_vise": null,
+          "note": ""
+        },
+        {
+          "theme": "violences_degradations",
+          "dans_perimetre": true,
+          "acteur_categorie": "casseurs",
+          "acteur_precis": "casseurs distingués des jeunes manipulés",
+          "objet": "recours recherché à la violence",
+          "proposition": "recours recherché à la violence : condamne",
+          "position": "condamne",
+          "statut_enonciation": "auteur",
+          "preuves": [
+            "casseurs addictifs à la violence"
+          ],
+          "arguments_utilises": [],
+          "responsabilite_attribuee": null,
+          "ironie": "non_detectee",
+          "incertitude": "lecture_explicite",
+          "relation_parent": "precision",
+          "passage_parent_vise": null,
+          "note": "Qualification psychologisante de l’auteur, aucun diagnostic de l’étude."
+        }
+      ],
+      "limites": [
+        "Vidéo non validée pour Paris le 17 octobre; texte et parent disponibles seulement."
+      ]
+    }
+  },
+  {
+    "ordre_lot": 47,
+    "comment_id": "UgxJs0JER1FTSrJlIwh4AaABAg",
+    "video_id": "_wWyk8vV_oo",
+    "origine": "assistant_conversationnel",
+    "modele_api": null,
+    "grille": "0.2",
+    "validation_humaine": "non_effectuee",
+    "annotation": {
+      "pertinence": "intervention_policiere",
+      "contexte_parent_utilise": "non",
+      "positions": [
+        {
+          "theme": "interventions_policieres",
+          "dans_perimetre": true,
+          "acteur_categorie": "police",
+          "acteur_precis": "agents porteurs de matraques implicitement évoqués",
+          "objet": "coups anticipés contre des manifestants",
+          "proposition": "coups anticipés contre des manifestants : indeterminee",
+          "position": "indeterminee",
+          "statut_enonciation": "auteur",
+          "preuves": [
+            "quand les matraque vont toucher vos tronches"
+          ],
+          "arguments_utilises": [],
+          "responsabilite_attribuee": null,
+          "ironie": "possible",
+          "incertitude": "ambigu",
+          "relation_parent": "sans_parent",
+          "passage_parent_vise": null,
+          "note": "Ton moqueur ou menaçant; ne suffit pas à déterminer un soutien certain aux coups."
+        }
+      ],
+      "limites": [
+        "Vidéo non validée pour Paris le 17 octobre; texte et parent disponibles seulement."
+      ]
+    }
+  },
+  {
+    "ordre_lot": 48,
+    "comment_id": "UgxkjWxB7URtnxrC-Vp4AaABAg",
+    "video_id": "0His6Ib_u7A",
+    "origine": "assistant_conversationnel",
+    "modele_api": null,
+    "grille": "0.2",
+    "validation_humaine": "non_effectuee",
+    "annotation": {
+      "pertinence": "partielle",
+      "contexte_parent_utilise": "non",
+      "positions": [
+        {
+          "theme": "medias",
+          "dans_perimetre": false,
+          "acteur_categorie": "organisation",
+          "acteur_precis": "CNEWS désignée par cniouz",
+          "objet": "cadrage de l’image et orientation attribuée au média",
+          "proposition": "cadrage de l’image et orientation attribuée au média : condamne",
+          "position": "condamne",
+          "statut_enonciation": "auteur",
+          "preuves": [
+            "cniouz activiste fasciste."
+          ],
+          "arguments_utilises": [],
+          "responsabilite_attribuee": null,
+          "ironie": "non_detectee",
+          "incertitude": "lecture_explicite",
+          "relation_parent": "sans_parent",
+          "passage_parent_vise": null,
+          "note": "Mention des CRS descriptive; étiquette politique est une accusation de l’auteur sur le média."
+        }
+      ],
+      "limites": [
+        "Vidéo non validée pour Paris le 17 octobre; texte et parent disponibles seulement."
+      ]
+    }
+  },
+  {
+    "ordre_lot": 49,
+    "comment_id": "UgyJN7nc_1WgS6l8Z094AaABAg",
+    "video_id": "O6Ctu2e3UOI",
+    "origine": "assistant_conversationnel",
+    "modele_api": null,
+    "grille": "0.2",
+    "validation_humaine": "non_effectuee",
+    "annotation": {
+      "pertinence": "violences_plus_largement",
+      "contexte_parent_utilise": "non",
+      "positions": [
+        {
+          "theme": "violences_degradations",
+          "dans_perimetre": true,
+          "acteur_categorie": "indetermine",
+          "acteur_precis": "personnes ouvrant le gaz non identifiées",
+          "objet": "violence punitive contre des personnes enfermées",
+          "proposition": "violence punitive contre des personnes enfermées : justifie_soutient",
+          "position": "justifie_soutient",
+          "statut_enonciation": "auteur",
+          "preuves": [
+            "on ferme la porte et on ouvre le gaz"
+          ],
+          "arguments_utilises": [],
+          "responsabilite_attribuee": null,
+          "ironie": "possible",
+          "incertitude": "ambigu",
+          "relation_parent": "sans_parent",
+          "passage_parent_vise": null,
+          "note": "Énoncé à potentiel violent dans le contexte d’un pillage; cible, sérieux et agent non certains. Aucun ajout opérationnel."
+        }
+      ],
+      "limites": [
+        "Vidéo non validée pour Paris le 17 octobre; texte et parent disponibles seulement."
+      ]
+    }
+  },
+  {
+    "ordre_lot": 50,
+    "comment_id": "UgzZ1vEHdQqIjmLOISV4AaABAg",
+    "video_id": "-V2i4EeFiMA",
+    "origine": "assistant_conversationnel",
+    "modele_api": null,
+    "grille": "0.2",
+    "validation_humaine": "non_effectuee",
+    "annotation": {
+      "pertinence": "partielle",
+      "contexte_parent_utilise": "non",
+      "positions": [
+        {
+          "theme": "violences_degradations",
+          "dans_perimetre": true,
+          "acteur_categorie": "autre",
+          "acteur_precis": "violences et décisions non attribuées précisément",
+          "objet": "violence et fragilisation du pays",
+          "proposition": "violence et fragilisation du pays : condamne",
+          "position": "condamne",
+          "statut_enonciation": "auteur",
+          "preuves": [
+            "la violence, le mépris de la vie"
+          ],
+          "arguments_utilises": [],
+          "responsabilite_attribuee": null,
+          "ironie": "non_detectee",
+          "incertitude": "contexte_insuffisant",
+          "relation_parent": "sans_parent",
+          "passage_parent_vise": null,
+          "note": "Condamnation générale, pas une position certaine sur une intervention policière précise."
+        },
+        {
+          "theme": "autre",
+          "dans_perimetre": false,
+          "acteur_categorie": "autre",
+          "acteur_precis": "collectif chrétien et jeunesse interpellée",
+          "objet": "mobilisation religieuse et civique pacifique",
+          "proposition": "mobilisation religieuse et civique pacifique : justifie_soutient",
+          "position": "justifie_soutient",
+          "statut_enonciation": "auteur",
+          "preuves": [
+            "dans la paix et dans la fidélité au Christ."
+          ],
+          "arguments_utilises": [],
+          "responsabilite_attribuee": null,
+          "ironie": "non_detectee",
+          "incertitude": "lecture_explicite",
+          "relation_parent": "sans_parent",
+          "passage_parent_vise": null,
+          "note": "Orientation pacifique explicite; ne pas confondre métaphore du combat et violence physique."
+        }
+      ],
+      "limites": [
+        "Vidéo non validée pour Paris le 17 octobre; texte et parent disponibles seulement."
+      ]
+    }
+  },
+  {
+    "ordre_lot": 51,
+    "comment_id": "Ugwc9u917CJedlolyex4AaABAg",
+    "video_id": "lxe-e06LUh0",
+    "origine": "assistant_conversationnel",
+    "modele_api": null,
+    "grille": "0.2",
+    "validation_humaine": "non_effectuee",
+    "annotation": {
+      "pertinence": "violences_plus_largement",
+      "contexte_parent_utilise": "non",
+      "positions": [
+        {
+          "theme": "violences_degradations",
+          "dans_perimetre": true,
+          "acteur_categorie": "autre",
+          "acteur_precis": "groupes politiques et religieux amalgamés par l’auteur",
+          "objet": "violences et destruction attribuées collectivement",
+          "proposition": "violences et destruction attribuées collectivement : condamne",
+          "position": "condamne",
+          "statut_enonciation": "auteur",
+          "preuves": [
+            "ILS AGRESSENT LA  POLICE, POMPIERS, MÉDECINS, PROFESSEURS ETC.."
+          ],
+          "arguments_utilises": [],
+          "responsabilite_attribuee": "Violences attribuées collectivement à LFI, aux musulmans et aux macronistes.",
+          "ironie": "non_detectee",
+          "incertitude": "lecture_explicite",
+          "relation_parent": "sans_parent",
+          "passage_parent_vise": null,
+          "note": "Amalgame et stigmatisation exprimés par l’auteur; ne pas les présenter comme des faits ni profiler l’auteur."
+        },
+        {
+          "theme": "autre",
+          "dans_perimetre": false,
+          "acteur_categorie": "autre",
+          "acteur_precis": "musulmans visés par l’auteur",
+          "objet": "demande d’expulsion collective",
+          "proposition": "demande d’expulsion collective : justifie_soutient",
+          "position": "justifie_soutient",
+          "statut_enonciation": "auteur",
+          "preuves": [
+            "EXPULSION IMMÉDIATE"
+          ],
+          "arguments_utilises": [],
+          "responsabilite_attribuee": null,
+          "ironie": "non_detectee",
+          "incertitude": "lecture_explicite",
+          "relation_parent": "sans_parent",
+          "passage_parent_vise": null,
+          "note": "Demande discriminatoire présente dans le texte, analysée sans approbation."
+        }
+      ],
+      "limites": [
+        "Vidéo non validée pour Paris le 17 octobre; texte et parent disponibles seulement."
+      ]
+    }
+  },
+  {
+    "ordre_lot": 52,
+    "comment_id": "UgxHwZjA7aThIFFIC1R4AaABAg.Ac3l8n6yFUGAc45RQNce4y",
+    "video_id": "nh9qEayhlLE",
+    "origine": "assistant_conversationnel",
+    "modele_api": null,
+    "grille": "0.2",
+    "validation_humaine": "non_effectuee",
+    "annotation": {
+      "pertinence": "intervention_policiere",
+      "contexte_parent_utilise": "oui",
+      "positions": [
+        {
+          "theme": "interventions_policieres",
+          "dans_perimetre": true,
+          "acteur_categorie": "police",
+          "acteur_precis": "forces utilisant des grenades lacrymogènes, implicites",
+          "objet": "raison du port de masques",
+          "proposition": "raison du port de masques : decrit_sans_position",
+          "position": "decrit_sans_position",
+          "statut_enonciation": "auteur",
+          "preuves": [
+            "Contre les grenades lacrymo."
+          ],
+          "arguments_utilises": [],
+          "responsabilite_attribuee": null,
+          "ironie": "non_detectee",
+          "incertitude": "lecture_explicite",
+          "relation_parent": "precision",
+          "passage_parent_vise": null,
+          "note": "Répond à pourquoi porter un masque; pas de condamnation automatique du recours aux gaz."
+        }
+      ],
+      "limites": [
+        "Vidéo non validée pour Paris le 17 octobre; texte et parent disponibles seulement."
+      ]
+    }
+  },
+  {
+    "ordre_lot": 53,
+    "comment_id": "Ugx69DRurC7yKJsTQ2Z4AaABAg",
+    "video_id": "kEZ6FDIw59s",
+    "origine": "assistant_conversationnel",
+    "modele_api": null,
+    "grille": "0.2",
+    "validation_humaine": "non_effectuee",
+    "annotation": {
+      "pertinence": "violences_plus_largement",
+      "contexte_parent_utilise": "non",
+      "positions": [
+        {
+          "theme": "responsabilite_politique",
+          "dans_perimetre": true,
+          "acteur_categorie": "organisation",
+          "acteur_precis": "LFI",
+          "objet": "incitation alléguée des jeunes à la violence",
+          "proposition": "incitation alléguée des jeunes à la violence : condamne",
+          "position": "condamne",
+          "statut_enonciation": "auteur",
+          "preuves": [
+            "Qui a sûrement drogué les jeunes casseurs pour qu'ils deviennent plus violents"
+          ],
+          "arguments_utilises": [],
+          "responsabilite_attribuee": "Drogue et manipulation des jeunes attribuées à LFI.",
+          "ironie": "non_detectee",
+          "incertitude": "lecture_explicite",
+          "relation_parent": "sans_parent",
+          "passage_parent_vise": null,
+          "note": "Allégation spéculative de l’auteur, non vérifiée; ne pas la convertir en fait."
+        },
+        {
+          "theme": "responsabilite_politique",
+          "dans_perimetre": false,
+          "acteur_categorie": "gouvernement",
+          "acteur_precis": "État français",
+          "objet": "absence de mesure contre LFI",
+          "proposition": "absence de mesure contre LFI : condamne",
+          "position": "condamne",
+          "statut_enonciation": "auteur",
+          "preuves": [
+            "je ne comprends pas que l'état français ne se rende pas compte"
+          ],
+          "arguments_utilises": [],
+          "responsabilite_attribuee": null,
+          "ironie": "non_detectee",
+          "incertitude": "lecture_explicite",
+          "relation_parent": "sans_parent",
+          "passage_parent_vise": null,
+          "note": "Demande de destitution d’un parti exprimée; mécanisme institutionnel non vérifié."
+        }
+      ],
+      "limites": [
+        "Vidéo non validée pour Paris le 17 octobre; texte et parent disponibles seulement."
+      ]
+    }
+  },
+  {
+    "ordre_lot": 54,
+    "comment_id": "Ugwqv49zjQMkCpisA-N4AaABAg.AcHXHlnZ33fAcIPg8oqs-X",
+    "video_id": "nwuNXNddlec",
+    "origine": "assistant_conversationnel",
+    "modele_api": null,
+    "grille": "0.2",
+    "validation_humaine": "non_effectuee",
+    "annotation": {
+      "pertinence": "intervention_policiere",
+      "contexte_parent_utilise": "oui",
+      "positions": [
+        {
+          "theme": "interventions_policieres",
+          "dans_perimetre": true,
+          "acteur_categorie": "gouvernement",
+          "acteur_precis": "pouvoir macroniste",
+          "objet": "répression et limitation de l’opposition",
+          "proposition": "répression et limitation de l’opposition : condamne",
+          "position": "condamne",
+          "statut_enonciation": "auteur",
+          "preuves": [
+            "La repression violente des manifestations relevent aujourd'hui d'un debut de totalitarisme"
+          ],
+          "arguments_utilises": [],
+          "responsabilite_attribuee": "Répression attribuée au pouvoir pour empêcher l’opposition.",
+          "ironie": "non_detectee",
+          "incertitude": "lecture_explicite",
+          "relation_parent": "precision",
+          "passage_parent_vise": null,
+          "note": "Qualification politique de l’auteur; pas un diagnostic établi de régime."
+        },
+        {
+          "theme": "institutions_souverainete",
+          "dans_perimetre": false,
+          "acteur_categorie": "responsable_politique",
+          "acteur_precis": "Macron",
+          "objet": "tendance autoritaire ou fascisante alléguée",
+          "proposition": "tendance autoritaire ou fascisante alléguée : condamne",
+          "position": "condamne",
+          "statut_enonciation": "auteur",
+          "preuves": [
+            "Macron a une tendance fascisante"
+          ],
+          "arguments_utilises": [],
+          "responsabilite_attribuee": null,
+          "ironie": "non_detectee",
+          "incertitude": "lecture_explicite",
+          "relation_parent": "precision",
+          "passage_parent_vise": null,
+          "note": "Accusation dans la réponse; ne pas importer les autres allégations du long parent."
+        },
+        {
+          "theme": "medias",
+          "dans_perimetre": false,
+          "acteur_categorie": "organisation",
+          "acteur_precis": "principaux médias",
+          "objet": "asservissement idéologique allégué",
+          "proposition": "asservissement idéologique allégué : condamne",
+          "position": "condamne",
+          "statut_enonciation": "auteur",
+          "preuves": [
+            "Les principaux medias ont presque tous été asservis ideologiquement"
+          ],
+          "arguments_utilises": [],
+          "responsabilite_attribuee": null,
+          "ironie": "non_detectee",
+          "incertitude": "lecture_explicite",
+          "relation_parent": "precision",
+          "passage_parent_vise": null,
+          "note": ""
+        }
+      ],
+      "limites": [
+        "Vidéo non validée pour Paris le 17 octobre; texte et parent disponibles seulement."
+      ]
+    }
+  },
+  {
+    "ordre_lot": 55,
+    "comment_id": "UgymxEA8cKMjb2S8LrF4AaABAg.Ac6LSTYdQbJAc87lpHhO7U",
+    "video_id": "1oL8hhjPjNM",
+    "origine": "assistant_conversationnel",
+    "modele_api": null,
+    "grille": "0.2",
+    "validation_humaine": "non_effectuee",
+    "annotation": {
+      "pertinence": "violences_plus_largement",
+      "contexte_parent_utilise": "oui",
+      "positions": [
+        {
+          "theme": "violences_degradations",
+          "dans_perimetre": true,
+          "acteur_categorie": "manifestants",
+          "acteur_precis": "manifestations et épisodes violents distingués",
+          "objet": "généralisation du caractère violent des marches",
+          "proposition": "généralisation du caractère violent des marches : nuance",
+          "position": "nuance",
+          "statut_enonciation": "auteur",
+          "preuves": [
+            "Most marches were peaceful, but Paris and Marseille saw real violence"
+          ],
+          "arguments_utilises": [],
+          "responsabilite_attribuee": null,
+          "ironie": "non_detectee",
+          "incertitude": "lecture_explicite",
+          "relation_parent": "contestation_partielle",
+          "passage_parent_vise": null,
+          "note": "Reconnaît les deux phénomènes, sans soutien ou condamnation explicite de la force policière."
+        }
+      ],
+      "limites": [
+        "Vidéo non validée pour Paris le 17 octobre; texte et parent disponibles seulement."
+      ]
+    }
+  },
+  {
+    "ordre_lot": 56,
+    "comment_id": "Ugz5Oj58hDoKFj494yl4AaABAg",
+    "video_id": "67aQ4cq0dkU",
+    "origine": "assistant_conversationnel",
+    "modele_api": null,
+    "grille": "0.2",
+    "validation_humaine": "non_effectuee",
+    "annotation": {
+      "pertinence": "violences_plus_largement",
+      "contexte_parent_utilise": "non",
+      "positions": [
+        {
+          "theme": "violences_degradations",
+          "dans_perimetre": true,
+          "acteur_categorie": "casseurs",
+          "acteur_precis": "casseurs et pillards",
+          "objet": "qualification dépréciative des personnes",
+          "proposition": "qualification dépréciative des personnes : condamne",
+          "position": "condamne",
+          "statut_enonciation": "auteur",
+          "preuves": [
+            "Les casseurs et pillards ne sont que des parasites."
+          ],
+          "arguments_utilises": [],
+          "responsabilite_attribuee": null,
+          "ironie": "non_detectee",
+          "incertitude": "lecture_explicite",
+          "relation_parent": "sans_parent",
+          "passage_parent_vise": null,
+          "note": "Insulte généralisante; aucune mesure punitive précise exprimée."
+        }
+      ],
+      "limites": [
+        "Vidéo non validée pour Paris le 17 octobre; texte et parent disponibles seulement."
+      ]
+    }
+  },
+  {
+    "ordre_lot": 57,
+    "comment_id": "Ugzuu2OQXJ9bi9kLDd94AaABAg",
+    "video_id": "eFGCaLnISeI",
+    "origine": "assistant_conversationnel",
+    "modele_api": null,
+    "grille": "0.2",
+    "validation_humaine": "non_effectuee",
+    "annotation": {
+      "pertinence": "intervention_policiere",
+      "contexte_parent_utilise": "non",
+      "positions": [
+        {
+          "theme": "interventions_policieres",
+          "dans_perimetre": true,
+          "acteur_categorie": "police",
+          "acteur_precis": "police",
+          "objet": "emploi d’un dispositif douloureux contre les manifestants",
+          "proposition": "emploi d’un dispositif douloureux contre les manifestants : justifie_soutient",
+          "position": "justifie_soutient",
+          "statut_enonciation": "auteur",
+          "preuves": [
+            "Police need Sound Cannons."
+          ],
+          "arguments_utilises": [
+            "Immobilisation douloureuse des manifestants présentée comme effet recherché."
+          ],
+          "responsabilite_attribuee": null,
+          "ironie": "non_detectee",
+          "incertitude": "lecture_explicite",
+          "relation_parent": "sans_parent",
+          "passage_parent_vise": null,
+          "note": "Recommandation de l’auteur; détails techniques non vérifiés et non développés par l’étude."
+        }
+      ],
+      "limites": [
+        "Vidéo non validée pour Paris le 17 octobre; texte et parent disponibles seulement."
+      ]
+    }
+  },
+  {
+    "ordre_lot": 58,
+    "comment_id": "UgwShXFfQ57gN9RT8HV4AaABAg.Ac42cx5gj91Ac43T7AVm2y",
+    "video_id": "b04yhf0kDSI",
+    "origine": "assistant_conversationnel",
+    "modele_api": null,
+    "grille": "0.2",
+    "validation_humaine": "non_effectuee",
+    "annotation": {
+      "pertinence": "violences_plus_largement",
+      "contexte_parent_utilise": "oui",
+      "positions": [
+        {
+          "theme": "violences_degradations",
+          "dans_perimetre": true,
+          "acteur_categorie": "manifestants",
+          "acteur_precis": "étudiants et soutien des jeunes visés",
+          "objet": "violence et coût des dégâts",
+          "proposition": "violence et coût des dégâts : condamne",
+          "position": "condamne",
+          "statut_enonciation": "auteur",
+          "preuves": [
+            "tu aime la violence  toi  qui vas  payer"
+          ],
+          "arguments_utilises": [
+            "Coût des dégâts mis en avant."
+          ],
+          "responsabilite_attribuee": null,
+          "ironie": "non_detectee",
+          "incertitude": "lecture_explicite",
+          "relation_parent": "contestation",
+          "passage_parent_vise": null,
+          "note": "Pronoms et insultes donnent une critique, sans prouver les actes des étudiants."
+        }
+      ],
+      "limites": [
+        "Vidéo non validée pour Paris le 17 octobre; texte et parent disponibles seulement."
+      ]
+    }
+  },
+  {
+    "ordre_lot": 59,
+    "comment_id": "Ugz3nKmxa6edVLjyn7J4AaABAg.Ac4uwfN69bUAc5en2MiliD",
+    "video_id": "852ePo5ILgw",
+    "origine": "assistant_conversationnel",
+    "modele_api": null,
+    "grille": "0.2",
+    "validation_humaine": "non_effectuee",
+    "annotation": {
+      "pertinence": "intervention_policiere",
+      "contexte_parent_utilise": "oui",
+      "positions": [
+        {
+          "theme": "interventions_policieres",
+          "dans_perimetre": true,
+          "acteur_categorie": "police",
+          "acteur_precis": "police",
+          "objet": "utilité de l’intervention pour empêcher les pillages",
+          "proposition": "utilité de l’intervention pour empêcher les pillages : justifie_soutient",
+          "position": "justifie_soutient",
+          "statut_enonciation": "auteur",
+          "preuves": [
+            "voilà ce que ça donne quand la police n’intervient pas"
+          ],
+          "arguments_utilises": [
+            "Pillage présenté comme conséquence de la non-intervention."
+          ],
+          "responsabilite_attribuee": null,
+          "ironie": "non_detectee",
+          "incertitude": "lecture_explicite",
+          "relation_parent": "accord",
+          "passage_parent_vise": null,
+          "note": "Soutien à l’utilité de la police, pas approbation de tous les moyens coercitifs."
+        }
+      ],
+      "limites": [
+        "Vidéo non validée pour Paris le 17 octobre; texte et parent disponibles seulement."
+      ]
+    }
+  },
+  {
+    "ordre_lot": 60,
+    "comment_id": "UgyCuvXM9J1CxZ0MEqB4AaABAg.Ac4KIYCcShAAc4Mx9JNBEk",
+    "video_id": "xARju6ukJ7Q",
+    "origine": "assistant_conversationnel",
+    "modele_api": null,
+    "grille": "0.2",
+    "validation_humaine": "non_effectuee",
+    "annotation": {
+      "pertinence": "hors_sujet",
+      "contexte_parent_utilise": "oui",
+      "positions": [
+        {
+          "theme": "responsabilite_politique",
+          "dans_perimetre": false,
+          "acteur_categorie": "responsable_politique",
+          "acteur_precis": "Macron",
+          "objet": "dégradation générale du pays, au sens possiblement figuré",
+          "proposition": "dégradation générale du pays, au sens possiblement figuré : condamne",
+          "position": "condamne",
+          "statut_enonciation": "auteur",
+          "preuves": [
+            "Macron a vraiment tout cassé en France"
+          ],
+          "arguments_utilises": [],
+          "responsabilite_attribuee": null,
+          "ironie": "possible",
+          "incertitude": "ambigu",
+          "relation_parent": "precision",
+          "passage_parent_vise": null,
+          "note": "Ne pas coder tout cassé comme une destruction matérielle directement commise par Macron."
+        }
+      ],
+      "limites": [
+        "Vidéo non validée pour Paris le 17 octobre; texte et parent disponibles seulement."
+      ]
+    }
+  }
+]
