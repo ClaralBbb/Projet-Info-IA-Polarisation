@@ -1,6 +1,6 @@
 # Extension à 500 commentaires — grille 0.2
 
-**État : lot sélectionné, pas encore classifié par un modèle.** Aucun appel API
+**État : 90 commentaires ont maintenant des annotations conversationnelles dans [le tableau de bord](../plateforme/README.md); 410 restent à traiter. Le pipeline API n’a pas été exécuté.** Aucun appel API
 n'a été effectué. Le pipeline a été testé en simulation et avec des réponses
 simulées. Sa compatibilité réelle avec un modèle et l'API reste à vérifier.
 

@@ -1,11 +1,12 @@
 {
   "statut": "annotations_conversationnelles_provisoires",
   "created_at": "2026-10-31T11:39:11.295476+00:00",
-  "n_classes": 60,
+  "n_classes": 90,
   "n_total": 500,
-  "positions": 82,
+  "positions": 118,
   "mode": "Lecture directe par assistant conversationnel avec grille0.2; pas de requête API, pas de modèle API/version figés.",
   "source_sha256": "8db2672b18d5e2fbb6880ed134cebaffb986de0ea00add79159fc585f76ebe5b",
-  "selection_lot": "60 premières lignes du lot préparé et mélangé; sous-échantillon exploratoire non représentatif.",
-  "annotation_humaine": "Aucune des 60 annotations n’est validée par une humaine."
+  "selection_lot": "90 premières lignes du lot mélangé; exploratoire et non représentatif.",
+  "annotation_humaine": "Aucune des 60 annotations n’est validée par une humaine.",
+  "annotations_sha256": "434967cd4c77100fbbe18415eb357b75d1bac71bab30f2263c29e02e3e3fec76"
 }

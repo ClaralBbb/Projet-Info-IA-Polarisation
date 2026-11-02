@@ -80,10 +80,20 @@ modèle, une clé séparée et un accord sur le coût.
 
 ## Tableau de bord des premières positions
 
-La [plateforme d'exploration](plateforme/README.md) affiche **60 commentaires
-classifiés et 82 positions proposées**, avec contexte, preuves, incertitudes et
+La [plateforme d'exploration](plateforme/README.md) affiche **90 commentaires
+classifiés et 118 positions proposées**, avec contexte, preuves, incertitudes et
 outils de relecture. Télécharger [le fichier HTML autonome](plateforme/tableau_de_bord.html)
-et l'ouvrir dans un navigateur. Les 440 commentaires restants du lot sont
+et l'ouvrir dans un navigateur. Les 410 commentaires restants du lot sont
 explicitement non traités. Les annotations sont conversationnelles, sans appel
 API, et restent à valider humainement. `docs/index.html` est prêt pour un
 hébergement statique; aucune adresse publique n'est encore activée.
+
+## Mise à jour : tableau de bord de résultats V3
+
+[Consulter l'aperçu des graphiques](plateforme/apercu_resultats.png) ou télécharger
+[la version interactive V3](plateforme/RESULTATS_V3_90_commentaires.html).
+**90 commentaires traités, 118 positions proposées, 410 restants.**
+La présentation compare positions et arguments par objet, chaîne et vidéo.
+Les corrections du pilote sont intégrées séparément et visibles dans l'interface.
+Aucun nouveau lot de relecture n'est demandé. Résultats exploratoires, sans appel
+API et sans hébergement public activé; voir [la méthode](plateforme/README.md).

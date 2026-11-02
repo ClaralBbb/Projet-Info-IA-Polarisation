@@ -1,93 +1,113 @@
-# Tableau de bord — premier lot classifié
+# Tableau de bord de résultats — version 3
 
-**60 commentaires traités, 82 positions proposées; 440 commentaires à traiter.**
-Ce sont des annotations conversationnelles provisoires, non validées par une
-humaine. Aucun appel API LLM, aucune dépense API, aucun modèle API figé.
+**90 commentaires traités, 118 positions proposées, 410 commentaires restants.**
+Aucune nouvelle annotation n'est demandée à l'utilisatrice. Cette version présente
+les résultats et leurs limites; la lecture détaillée est facultative.
 
-## Ouvrir l'interface
+## Consulter
 
-Télécharger `tableau_de_bord.html`, puis l'ouvrir dans un navigateur moderne.
-Le fichier contient toutes les ressources et fonctionne sans serveur ni clé.
-Il charge les 500 commentaires mais attribue des annotations uniquement aux 60
-réellement traités. Les 440 autres restent explicitement « À traiter ».
+- `RESULTATS_V3_90_commentaires.html` : télécharger et ouvrir dans un navigateur.
+- `apercu_resultats.png` : aperçu des graphiques, visible directement sur GitHub.
+- `tableau_de_bord.html` et `../docs/index.html` : même version de l'interface.
 
-L'interface permet :
+Le nouveau nom évite de rouvrir une ancienne copie déjà téléchargée. Le fichier
+est autonome, sans clé ni serveur. L'adresse web publique n'est pas activée.
+L'API GitHub de configuration Pages a renvoyé Forbidden depuis cet environnement;
+l'hébergement n'a donc pas pu être configuré ou vérifié ici. Si disponible dans
+le dépôt : Settings → Pages → Deploy from a branch → main → /docs. Vérifier sa
+visibilité avant publication. Le fichier téléchargé fonctionne sans cette étape.
 
-- de suivre l'avancement réel;
-- de consulter des distributions descriptives sur le seul lot traité;
-- de filtrer par position, thème, chaîne, incertitude ou mots;
-- de lire ensemble commentaire, parent et positions avec citations;
-- de noter accord, désaccord et corrections;
-- d'exporter/importer une sauvegarde JSON, ou d'exporter la relecture en CSV.
+## Ce qui a changé
 
-Les corrections restent dans le navigateur si son stockage le permet; elles ne
-sont pas automatiquement envoyées au dépôt ni au corpus validé. Exporter une
-sauvegarde et transmettre le fichier pour une intégration ultérieure. Une
-sauvegarde est liée aux empreintes exactes des données ET des annotations pour
-éviter d'appliquer les corrections aux mauvaises positions après une mise à jour.
+1. Graphiques recalculés par objet, chaîne et type de commentaire, avec option
+   de ne retenir que les lectures explicites.
+2. Comparaison des critiques, soutiens, nuances et observations **sur le même
+   objet**. Critique d'une force excessive et reproche d'inaction sont séparés.
+3. Familles d'arguments explicitement enregistrés : coûts matériels, protection,
+   violences antérieures invoquées, absence d'écoute/dialogue, autres raisons.
+4. Tableau des objets et des positions, exemples contrastés lorsqu'ils existent.
+5. Comparaisons par chaîne et vidéo avec effectifs et avertissement de faible
+   volume. Ce ne sont pas les opinions des médias et leurs comptes ne sont pas
+   authentifiés par cette analyse.
+6. Synthèse de la sélection et export CSV des effectifs filtrés.
+7. Commentaires, parents et preuves accessibles depuis les résultats. Aucun
+   nouveau formulaire de relecture obligatoire.
 
-## Fichiers traçables
+Les anciens exports de relecture locale restent récupérables depuis une section
+repliée, si le navigateur et l'origine utilisés les ont conservés. Une copie
+locale HTML et une URL HTTP ont des stockages séparés; aucun transfert automatique.
 
-- `annotations_60.json` : positions proposées pour les 60 premières lignes du
-  lot mélangé. Champs de grille 0.2, citations exactes et incertitudes.
-- `protocole.json` : provenance, mode conversationnel et empreinte des données.
-- `positions_60.csv` : export des 82 lignes de positions.
-- `bilan.json` : effectifs et statut réel du traitement.
-- `template.html` : code de l'interface, sans les données embarquées.
-- `../build_platform.py` : assemblage des données et du tableau de bord.
-- `../docs/index.html` : même interface, prête pour un hébergement statique.
+## Corrections humaines intégrées
 
-Les décisions ont été proposées directement dans la conversation après lecture
-des textes complets et des parents. Le script de construction ne classe rien :
-il affiche les décisions enregistrées. Le pipeline API `classify_opinions.py`
-n'a pas été utilisé pour ces annotations. Leur structure a été vérifiée avec
-son validateur local, et chaque citation a été contrôlée dans le texte source.
-Ce contrôle ne prouve pas la justesse sémantique des annotations.
+`../revise_pilot.py` applique des révisions explicites au pilote; les propositions
+initiales et la relecture humaine restent intactes. Résultat : `pilote_revise.json`.
 
-## Bilan actuel
+- C003 : précision génération Z / jeunes manifestants.
+- C005 : explication causale, pas soutien automatique à la violence.
+- C006 : parti de Mélenchon et violence attribuée au parti, pas dégâts matériels
+  automatiquement déduits.
+- C007 : comportements non précisés, argument non inventé, position supplémentaire
+  sur Sarkozy. Ajouter une position ne remplace pas celle sur les manifestants.
+- C008 : contestation ciblée sur les retraités, pas rejet de tout le parent.
 
-- 24 commentaires : intervention policière.
-- 24 : violences au sens large.
-- 6 : pertinence partielle.
-- 6 : hors sujet du périmètre étudié.
+14 lignes de retour humain renseignées; 8 sans verdict restent non relues.
+Le désaccord sur C002 est conservé, pas résolu automatiquement. Ce pilote a servi
+à développer la grille, pas à calculer une précision indépendante du modèle.
+La section « corrections intégrées » du tableau présente ces changements.
 
-Ces catégories concernent les commentaires, pas les positions. Des positions
-secondaires hors périmètre peuvent être conservées sans être comptées comme
-opinions sur la police. Les tableaux de positions comptent une fois chaque
-commentaire par catégorie de position, avec auteur et périmètre explicités.
-Un commentaire peut apparaître dans plusieurs catégories. Aucune extrapolation
-aux 500 ou au corpus complet; aucune mesure validée de polarisation.
+## Données et méthode
 
-## Vérifications et reconstruction
+`annotations_60.json` conserve le premier lot; `annotations_lot02.json` ajoute
+30 textes (lignes 61–90). Les décisions sont proposées dans la conversation par
+l'assistant après lecture des textes et parents. Aucun appel API, aucun modèle
+API/version figés; ce n'est pas une exécution automatique de Structured Outputs.
+Chaque résultat est contrôlé contre le schéma local et chaque preuve contre le
+texte source. La justesse sémantique reste à évaluer.
+
+`build_platform.py` ne classe pas les commentaires : il rassemble les résultats
+et leur applique des regroupements exploratoires explicites pour l'affichage.
+Pour les interventions, une liste documentée de numéros de commentaires sépare
+force/répression, présence/efficacité et autres jugements. Les familles d'arguments
+ne sont attribuées que si un argument est déjà enregistré. Ces regroupements
+restent des choix analytiques, consultables dans le code et à valider.
+
+Les effectifs comptent les commentaires distincts **par catégorie**; un texte
+multi-position peut contribuer à plusieurs catégories. Seules les positions
+attribuées à l'auteur sont agrégées. La sélection initiale repose sur des
+mots-clés et un maximum de deux commentaires par vidéo. Les résultats ne
+représentent ni les 500 textes non entièrement traités ni l'opinion publique.
+La couverture de Paris le 17 octobre et les accusations ne sont pas vérifiées.
+
+`positions_analysees.csv` contient les 118 positions. `positions_60.csv` conserve
+l'ancien export historique de 82 positions. `bilan.json` et `protocole.json`
+présentent le statut actuel. L'empreinte des annotations et celle des entrées
+permettent d'identifier les données affichées.
+
+## Reproduire et vérifier
 
 ```bash
+.venv/bin/python revise_pilot.py
 .venv/bin/python build_platform.py
 .venv/bin/python -m unittest -v
 ```
 
-La vérification navigateur utilise Playwright et Chromium disponibles dans cet
-environnement. Depuis la racine, servir uniquement `docs`, puis dans un second
-terminal lancer le contrôle :
+Contrôles navigateur, avec Playwright et Chromium disponibles :
 
 ```bash
 python3 -m http.server 8765 --bind 127.0.0.1 --directory docs
+# Dans un autre terminal :
 node scripts/test_platform.cjs
 ```
 
-Le navigateur de l'environnement bloque les fichiers `file://`; le test a donc
-utilisé ce serveur HTTP local. Les ressources externes sont bloquées dans le
-test. Filtres, lecture, stockage local, export/import JSON et recherche ont été
-exercés dans Chromium, avec vérification d'absence d'erreurs JavaScript.
+Vérifiés : filtres des graphiques, comptages distincts, sélection d'une chaîne,
+lectures explicites, accès aux exemples, export CSV et affichage mobile.
+Le navigateur de cet environnement bloque les URL file://, donc le test utilise
+un serveur local. Le HTML reste autonome, sans ressource distante ni traceur.
 
-## Adresse publique : pas encore activée
+## Suite
 
-Le dépôt contient le site prêt à servir dans `docs`. Aucun hébergement public
-n'a été activé ni vérifié. Si GitHub Pages est disponible pour le dépôt, choisir
-**Settings → Pages → Deploy from a branch → main → /docs**. Vérifier les règles
-et la visibilité du dépôt avant activation : ne pas publier de données privées
-par inadvertance. Le fichier HTML téléchargé reste utilisable sans cette étape.
-
-La validation des vidéos pour l'événement, la couverture médiatique et la qualité
-des classifications restent à vérifier avant toute conclusion générale. Des
-textes peuvent contenir insultes, propos discriminatoires, données personnelles
-et accusations non vérifiées; l'étude les décrit sans les endosser.
+Poursuivre les lots restants, valider le corpus et contrôler les erreurs avant
+conclusions générales. Les convergences/divergences affichées sont des pistes
+sur des objets comparables; pas de score arbitraire de clivage, de profils de
+personnes ou de mesure validée de polarisation. Les textes peuvent contenir
+insultes, données personnelles et accusations; l'étude ne les endosse pas.
