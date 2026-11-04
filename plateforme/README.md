@@ -140,3 +140,12 @@ Nouveaux fichiers :
 Les annotations d'origine et la relecture humaine ne sont pas écrasées.
 188 chaînes déclarées sont présentes dans le lot500 : pas seulement des médias.
 Authenticité et couverture de l'événement ne sont pas validées.
+
+### Lecture côte à côte — fichier V5
+
+`VERIFICATION_V5_commentaires_et_positions.xlsx` s'ouvre sur **Vérification simple** :
+commentaire complet, parent et classification/justification côte à côte. Les
+colonnes avis/remarque sont facultatives. Les données détaillées V4 sont conservées
+dans Positions et acteurs. Les textes ne sont pas tronqués; agrandir la barre de
+formule pour les très longs commentaires. Aucun nouveau travail d'annotation
+exhaustive n'est demandé. Les fichiers de relecture humaine existants sont intacts.
