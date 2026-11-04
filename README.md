@@ -97,3 +97,14 @@ La présentation compare positions et arguments par objet, chaîne et vidéo.
 Les corrections du pilote sont intégrées séparément et visibles dans l'interface.
 Aucun nouveau lot de relecture n'est demandé. Résultats exploratoires, sans appel
 API et sans hébergement public activé; voir [la méthode](plateforme/README.md).
+
+## Version4 : violences et dégâts par acteur
+
+[Définitions et code](plateforme/DEFINITIONS_ET_CODE.md) ·
+[Excel sujet/acteur/action/position](plateforme/ANALYSE_V4_sujet_acteurs_positions.xlsx) ·
+[Tableau interactif V4](plateforme/RESULTATS_V4_acteurs_violences.html).
+
+Les pourcentages sont séparés pour chaque acteur et calculés sur des commentaires
+distincts, avec une catégorie mixte. Les acteurs non établis ne sont pas forcés
+dans « police » ou « manifestants ». Le corpus traité reste90 commentaires;
+les nouvelles règles réorganisent les résultats existants, sans appel API.

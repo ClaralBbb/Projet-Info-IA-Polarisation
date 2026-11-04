@@ -111,3 +111,32 @@ conclusions générales. Les convergences/divergences affichées sont des pistes
 sur des objets comparables; pas de score arbitraire de clivage, de profils de
 personnes ou de mesure validée de polarisation. Les textes peuvent contenir
 insultes, données personnelles et accusations; l'étude ne les endosse pas.
+
+## Version4 — sujet unique, acteurs et actions séparés
+
+Le sujet principal est désormais **Violences et dégâts**. L'interface sépare
+l'acteur évalué, l'action et la position. Les groupes d'acteurs principaux sont
+police, manifestants et casseurs/pillards/émeutiers; autres autorités, autres acteurs
+et acteur non établi restent séparés, sans attribution forcée.
+
+Les pourcentages sont calculés par unité commentaire×acteur, avec dénominateur
+séparé et une catégorie mixte si plusieurs attitudes coexistent. Par défaut,
+lectures et attributions explicites seulement. Les positions portent sur des
+actes précis et ne signifient pas un soutien global à une personne ou un groupe.
+
+Code des définitions : `../actor_scope.py` (`ACTORS`, `ACTIONS`, `RULES`,
+`ARGUMENT_FAMILIES`). Les familles d'arguments sont maintenant indexées par
+position, afin de ne pas confondre deux raisons dans un même commentaire.
+Le script `../build_platform.py` assemble les données sans classifier de nouveaux
+textes. Voir `DEFINITIONS_ET_CODE.md` et la grille0.3.
+
+Nouveaux fichiers :
+- `RESULTATS_V4_acteurs_violences.html` : interface actualisée.
+- `ANALYSE_V4_sujet_acteurs_positions.xlsx` : 118 positions conservées, sujet,
+  acteur, action, position et contexte;66 retenues dans le sujet avant filtres.
+- `statistiques_acteurs.json` : pourcentages et effectifs par acteur avec le
+  filtre par défaut (lectures et attributions explicites).
+
+Les annotations d'origine et la relecture humaine ne sont pas écrasées.
+188 chaînes déclarées sont présentes dans le lot500 : pas seulement des médias.
+Authenticité et couverture de l'événement ne sont pas validées.

@@ -1,0 +1,97 @@
+{
+  "Police": {
+    "denominateur": 15,
+    "effectifs": {
+      "condamne": 12,
+      "justifie_soutient": 3,
+      "nuance": 0,
+      "decrit_sans_position": 0,
+      "indeterminee": 0,
+      "mixte": 0
+    },
+    "pourcentages": {
+      "condamne": 80.0,
+      "justifie_soutient": 20.0,
+      "nuance": 0.0,
+      "decrit_sans_position": 0.0,
+      "indeterminee": 0.0,
+      "mixte": 0.0
+    }
+  },
+  "Casseurs / pillards / émeutiers": {
+    "denominateur": 11,
+    "effectifs": {
+      "condamne": 11,
+      "justifie_soutient": 0,
+      "nuance": 0,
+      "decrit_sans_position": 0,
+      "indeterminee": 0,
+      "mixte": 0
+    },
+    "pourcentages": {
+      "condamne": 100.0,
+      "justifie_soutient": 0.0,
+      "nuance": 0.0,
+      "decrit_sans_position": 0.0,
+      "indeterminee": 0.0,
+      "mixte": 0.0
+    }
+  },
+  "Autres acteurs": {
+    "denominateur": 6,
+    "effectifs": {
+      "condamne": 6,
+      "justifie_soutient": 0,
+      "nuance": 0,
+      "decrit_sans_position": 0,
+      "indeterminee": 0,
+      "mixte": 0
+    },
+    "pourcentages": {
+      "condamne": 100.0,
+      "justifie_soutient": 0.0,
+      "nuance": 0.0,
+      "decrit_sans_position": 0.0,
+      "indeterminee": 0.0,
+      "mixte": 0.0
+    }
+  },
+  "Autres autorités": {
+    "denominateur": 8,
+    "effectifs": {
+      "condamne": 8,
+      "justifie_soutient": 0,
+      "nuance": 0,
+      "decrit_sans_position": 0,
+      "indeterminee": 0,
+      "mixte": 0
+    },
+    "pourcentages": {
+      "condamne": 100.0,
+      "justifie_soutient": 0.0,
+      "nuance": 0.0,
+      "decrit_sans_position": 0.0,
+      "indeterminee": 0.0,
+      "mixte": 0.0
+    }
+  },
+  "Manifestants": {
+    "denominateur": 5,
+    "effectifs": {
+      "condamne": 1,
+      "justifie_soutient": 0,
+      "nuance": 4,
+      "decrit_sans_position": 0,
+      "indeterminee": 0,
+      "mixte": 0
+    },
+    "pourcentages": {
+      "condamne": 20.0,
+      "justifie_soutient": 0.0,
+      "nuance": 80.0,
+      "decrit_sans_position": 0.0,
+      "indeterminee": 0.0,
+      "mixte": 0.0
+    }
+  }
+}
