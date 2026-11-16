@@ -1,0 +1,367 @@
+{
+  "type": "object",
+  "properties": {
+    "comment_id": {
+      "type": "string"
+    },
+    "version_protocole": {
+      "type": "string",
+      "enum": [
+        "pilote-1.0"
+      ]
+    },
+    "version_dictionnaire": {
+      "type": "string",
+      "enum": [
+        "arguments-provisoire-0.1"
+      ]
+    },
+    "sujet": {
+      "type": "string",
+      "enum": [
+        "Violences et dégâts"
+      ]
+    },
+    "pertinence_thematique": {
+      "type": "string",
+      "enum": [
+        "directe",
+        "contextuelle",
+        "hors_sujet",
+        "incertaine"
+      ]
+    },
+    "necessite_parent": {
+      "type": "string",
+      "enum": [
+        "sans_parent",
+        "non_necessaire",
+        "utile",
+        "indispensable",
+        "insuffisant"
+      ]
+    },
+    "fonction_reponse": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "preuves_parent": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "lien_evenement": {
+      "type": "object",
+      "properties": {
+        "statut": {
+          "type": "string",
+          "enum": [
+            "non_verifie"
+          ]
+        },
+        "references_hors_evenement": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "note": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "statut",
+        "references_hors_evenement",
+        "note"
+      ],
+      "additionalProperties": false
+    },
+    "sujets_associes": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "relations_sujets": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "sujet_source": {
+            "type": "string"
+          },
+          "sujet_cible": {
+            "type": "string"
+          },
+          "relation": {
+            "type": "string",
+            "enum": [
+              "cause_attribuee",
+              "justification",
+              "responsabilite_attribuee",
+              "contraste",
+              "cadrage"
+            ]
+          },
+          "resume": {
+            "type": "string"
+          },
+          "preuves": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1
+          }
+        },
+        "required": [
+          "sujet_source",
+          "sujet_cible",
+          "relation",
+          "resume",
+          "preuves"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "positions": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "position_id": {
+            "type": "string"
+          },
+          "cible": {
+            "type": "object",
+            "properties": {
+              "type": {
+                "type": "string",
+                "enum": [
+                  "acteur",
+                  "groupe",
+                  "institution",
+                  "affirmation",
+                  "action",
+                  "indeterminee"
+                ]
+              },
+              "designation": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "type",
+              "designation"
+            ],
+            "additionalProperties": false
+          },
+          "proposition_evaluee": {
+            "type": "string"
+          },
+          "position": {
+            "type": "string",
+            "enum": [
+              "favorable",
+              "critique",
+              "mitigee",
+              "descriptive",
+              "indeterminable"
+            ]
+          },
+          "statut_position": {
+            "type": "string",
+            "enum": [
+              "explicite",
+              "implicite_etayee",
+              "non_evaluative",
+              "indeterminable"
+            ]
+          },
+          "preuves_position": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1
+          },
+          "argumentation": {
+            "type": "object",
+            "properties": {
+              "statut": {
+                "type": "string",
+                "enum": [
+                  "interpretable",
+                  "absente",
+                  "ambigue"
+                ]
+              },
+              "diagnostic": {
+                "type": [
+                  "string",
+                  "null"
+                ],
+                "enum": [
+                  "ARG_ABSENT",
+                  "ARG_AMBIGU",
+                  null
+                ]
+              },
+              "arguments": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "properties": {
+                    "code": {
+                      "type": "string",
+                      "enum": [
+                        "A01",
+                        "A02",
+                        "A03",
+                        "A04",
+                        "A05",
+                        "A06",
+                        "A07",
+                        "A08",
+                        "A09",
+                        "A10",
+                        "A11",
+                        "A12",
+                        "M01",
+                        "ARG_AUTRE"
+                      ]
+                    },
+                    "argument_precis": {
+                      "type": "string"
+                    },
+                    "mode_expression": {
+                      "type": "string",
+                      "enum": [
+                        "explicite",
+                        "implicite_etaye"
+                      ]
+                    },
+                    "preuves": {
+                      "type": "array",
+                      "items": {
+                        "type": "string"
+                      },
+                      "minItems": 1
+                    }
+                  },
+                  "required": [
+                    "code",
+                    "argument_precis",
+                    "mode_expression",
+                    "preuves"
+                  ],
+                  "additionalProperties": false
+                }
+              }
+            },
+            "required": [
+              "statut",
+              "diagnostic",
+              "arguments"
+            ],
+            "additionalProperties": false
+          },
+          "ironie": {
+            "type": "string",
+            "enum": [
+              "non_detectee",
+              "possible",
+              "probable",
+              "indeterminable"
+            ]
+          },
+          "incertitude": {
+            "type": "object",
+            "properties": {
+              "cible": {
+                "type": "string",
+                "enum": [
+                  "faible",
+                  "moderee",
+                  "forte"
+                ]
+              },
+              "position": {
+                "type": "string",
+                "enum": [
+                  "faible",
+                  "moderee",
+                  "forte"
+                ]
+              },
+              "argument": {
+                "type": "string",
+                "enum": [
+                  "faible",
+                  "moderee",
+                  "forte"
+                ]
+              }
+            },
+            "required": [
+              "cible",
+              "position",
+              "argument"
+            ],
+            "additionalProperties": false
+          },
+          "exploitabilite_positions": {
+            "type": "string",
+            "enum": [
+              "exploitable",
+              "a_revoir",
+              "non_exploitable"
+            ]
+          },
+          "note": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "position_id",
+          "cible",
+          "proposition_evaluee",
+          "position",
+          "statut_position",
+          "preuves_position",
+          "argumentation",
+          "ironie",
+          "incertitude",
+          "exploitabilite_positions",
+          "note"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "limites": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    }
+  },
+  "required": [
+    "comment_id",
+    "version_protocole",
+    "version_dictionnaire",
+    "sujet",
+    "pertinence_thematique",
+    "necessite_parent",
+    "fonction_reponse",
+    "preuves_parent",
+    "lien_evenement",
+    "sujets_associes",
+    "relations_sujets",
+    "positions",
+    "limites"
+  ],
+  "additionalProperties": false
+}

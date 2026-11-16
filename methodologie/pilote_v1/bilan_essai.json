@@ -1,0 +1,26 @@
+{
+  "positions_proposees": 48,
+  "commentaires_sans_position_extraite": 11,
+  "pertinence": {
+    "contextuelle": 11,
+    "directe": 32,
+    "incertaine": 5,
+    "hors_sujet": 2
+  },
+  "exploitabilite_positions": {
+    "a_revoir": 14,
+    "non_exploitable": 12,
+    "exploitable": 22
+  },
+  "arguments_codes": {
+    "ARG_AUTRE": 32,
+    "A03": 2,
+    "A09": 1,
+    "M01": 2,
+    "A12": 1
+  },
+  "evenement_verifie": 0,
+  "appels_api": 0,
+  "validation_humaine_sur_ce_lot": false,
+  "commentaires_examines": 50
+}

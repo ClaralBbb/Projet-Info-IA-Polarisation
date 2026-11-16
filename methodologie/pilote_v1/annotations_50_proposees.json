@@ -1,0 +1,2865 @@
+[
+  {
+    "comment_id": "Ugx-KhRXwuCgl4D4IyN4AaABAg",
+    "version_protocole": "pilote-1.0",
+    "version_dictionnaire": "arguments-provisoire-0.1",
+    "sujet": "Violences et dégâts",
+    "pertinence_thematique": "contextuelle",
+    "necessite_parent": "sans_parent",
+    "fonction_reponse": null,
+    "preuves_parent": [],
+    "lien_evenement": {
+      "statut": "non_verifie",
+      "references_hors_evenement": [
+        "Police indienne explicitement visée"
+      ],
+      "note": "Vidéo, date et lieu non validés; titre et propos ne prouvent pas les faits."
+    },
+    "sujets_associes": [
+      "autres pays"
+    ],
+    "relations_sujets": [],
+    "positions": [],
+    "limites": [
+      "Lecture conversationnelle provisoire, sans évaluation humaine indépendante ni appel API.",
+      "Texte mixte anglais/hindi romanisé; aucune traduction complète revendiquée. Les segments anglais visent la police indienne, pas un acte français identifié."
+    ]
+  },
+  {
+    "comment_id": "UgwhYd8xmzzBUJxlwTx4AaABAg.Ac5nwcO1EcrAc5oHiYeQ1v",
+    "version_protocole": "pilote-1.0",
+    "version_dictionnaire": "arguments-provisoire-0.1",
+    "sujet": "Violences et dégâts",
+    "pertinence_thematique": "directe",
+    "necessite_parent": "utile",
+    "fonction_reponse": "Contestation de l’attribution des casseurs à des étrangers.",
+    "preuves_parent": [
+      "je me doute de la nationalité de ces petits casseurs !"
+    ],
+    "lien_evenement": {
+      "statut": "non_verifie",
+      "references_hors_evenement": [],
+      "note": "Vidéo, date et lieu non validés; titre et propos ne prouvent pas les faits."
+    },
+    "sujets_associes": [
+      "attributions de nationalité"
+    ],
+    "relations_sujets": [],
+    "positions": [
+      {
+        "position_id": "N002-P1",
+        "cible": {
+          "type": "affirmation",
+          "designation": "Attribution des casseurs à des étrangers"
+        },
+        "proposition_evaluee": "Fondement de l’attribution de nationalité",
+        "position": "critique",
+        "statut_position": "implicite_etayee",
+        "preuves_position": [
+          "Ce sont eux les casseurs."
+        ],
+        "argumentation": {
+          "statut": "interpretable",
+          "diagnostic": null,
+          "arguments": [
+            {
+              "code": "ARG_AUTRE",
+              "argument_precis": "L’auteur invoque une apparence physique décrite dans des vidéos pour contester une attribution aux étrangers.",
+              "mode_expression": "explicite",
+              "preuves": [
+                "vous verrez des cheveux roux, blonds. Des mains bien blanches."
+              ]
+            }
+          ]
+        },
+        "ironie": "non_detectee",
+        "incertitude": {
+          "cible": "faible",
+          "position": "moderee",
+          "argument": "faible"
+        },
+        "exploitabilite_positions": "a_revoir",
+        "note": "L’apparence ne permet pas d’établir une nationalité. Étude d’un raisonnement exprimé, pas inférence sur les personnes."
+      }
+    ],
+    "limites": [
+      "Lecture conversationnelle provisoire, sans évaluation humaine indépendante ni appel API."
+    ]
+  },
+  {
+    "comment_id": "Ugwf84g8BVQ2T44-7K94AaABAg",
+    "version_protocole": "pilote-1.0",
+    "version_dictionnaire": "arguments-provisoire-0.1",
+    "sujet": "Violences et dégâts",
+    "pertinence_thematique": "incertaine",
+    "necessite_parent": "sans_parent",
+    "fonction_reponse": null,
+    "preuves_parent": [],
+    "lien_evenement": {
+      "statut": "non_verifie",
+      "references_hors_evenement": [],
+      "note": "Vidéo, date et lieu non validés; titre et propos ne prouvent pas les faits."
+    },
+    "sujets_associes": [],
+    "relations_sujets": [],
+    "positions": [
+      {
+        "position_id": "N003-P1",
+        "cible": {
+          "type": "affirmation",
+          "designation": "Qualification de personnes masquées comme casseurs"
+        },
+        "proposition_evaluee": "Sens de la qualification ironique ou littérale",
+        "position": "indeterminable",
+        "statut_position": "indeterminable",
+        "preuves_position": [
+          "CE SONT DES CASSEURS !!"
+        ],
+        "argumentation": {
+          "statut": "ambigue",
+          "diagnostic": "ARG_AMBIGU",
+          "arguments": []
+        },
+        "ironie": "probable",
+        "incertitude": {
+          "cible": "forte",
+          "position": "forte",
+          "argument": "forte"
+        },
+        "exploitabilite_positions": "non_exploitable",
+        "note": ""
+      }
+    ],
+    "limites": [
+      "Lecture conversationnelle provisoire, sans évaluation humaine indépendante ni appel API.",
+      "Sarcasme possible; personnes masquées et appel à Nuñez ne prouvent pas qui est visé ni une position sur des violences."
+    ]
+  },
+  {
+    "comment_id": "Ugw_BLfiOrlEzzFCaXZ4AaABAg",
+    "version_protocole": "pilote-1.0",
+    "version_dictionnaire": "arguments-provisoire-0.1",
+    "sujet": "Violences et dégâts",
+    "pertinence_thematique": "directe",
+    "necessite_parent": "sans_parent",
+    "fonction_reponse": null,
+    "preuves_parent": [],
+    "lien_evenement": {
+      "statut": "non_verifie",
+      "references_hors_evenement": [],
+      "note": "Vidéo, date et lieu non validés; titre et propos ne prouvent pas les faits."
+    },
+    "sujets_associes": [
+      "politique",
+      "références historiques"
+    ],
+    "relations_sujets": [],
+    "positions": [
+      {
+        "position_id": "N004-P1",
+        "cible": {
+          "type": "acteur",
+          "designation": "Nuñez"
+        },
+        "proposition_evaluee": "Recours allégué à des moyens militaires contre le peuple",
+        "position": "critique",
+        "statut_position": "explicite",
+        "preuves_position": [
+          "On tire sur le peuple et on lui envoie l'armée."
+        ],
+        "argumentation": {
+          "statut": "interpretable",
+          "diagnostic": null,
+          "arguments": [
+            {
+              "code": "ARG_AUTRE",
+              "argument_precis": "Le recours allégué à l’armée et aux tirs est rapproché de pratiques autoritaires historiques.",
+              "mode_expression": "explicite",
+              "preuves": [
+                "il fait comme louis philippe et se comporte comme un préfet de police napoléonien."
+              ]
+            }
+          ]
+        },
+        "ironie": "non_detectee",
+        "incertitude": {
+          "cible": "faible",
+          "position": "faible",
+          "argument": "faible"
+        },
+        "exploitabilite_positions": "exploitable",
+        "note": "Accusations et comparaison de l’auteur, sans fait ni projet d’intervention vérifié."
+      }
+    ],
+    "limites": [
+      "Lecture conversationnelle provisoire, sans évaluation humaine indépendante ni appel API."
+    ]
+  },
+  {
+    "comment_id": "UgzMUyUdWjNHbDfzBNJ4AaABAg",
+    "version_protocole": "pilote-1.0",
+    "version_dictionnaire": "arguments-provisoire-0.1",
+    "sujet": "Violences et dégâts",
+    "pertinence_thematique": "incertaine",
+    "necessite_parent": "sans_parent",
+    "fonction_reponse": null,
+    "preuves_parent": [],
+    "lien_evenement": {
+      "statut": "non_verifie",
+      "references_hors_evenement": [],
+      "note": "Vidéo, date et lieu non validés; titre et propos ne prouvent pas les faits."
+    },
+    "sujets_associes": [],
+    "relations_sujets": [],
+    "positions": [],
+    "limites": [
+      "Lecture conversationnelle provisoire, sans évaluation humaine indépendante ni appel API.",
+      "Fragment sans sujet explicite. Mention de publicités pendant des pillages, sans position suffisamment identifiable."
+    ]
+  },
+  {
+    "comment_id": "Ugxr4I2Y1j-y7FL7UCZ4AaABAg",
+    "version_protocole": "pilote-1.0",
+    "version_dictionnaire": "arguments-provisoire-0.1",
+    "sujet": "Violences et dégâts",
+    "pertinence_thematique": "directe",
+    "necessite_parent": "sans_parent",
+    "fonction_reponse": null,
+    "preuves_parent": [],
+    "lien_evenement": {
+      "statut": "non_verifie",
+      "references_hors_evenement": [],
+      "note": "Vidéo, date et lieu non validés; titre et propos ne prouvent pas les faits."
+    },
+    "sujets_associes": [],
+    "relations_sujets": [],
+    "positions": [
+      {
+        "position_id": "N006-P1",
+        "cible": {
+          "type": "acteur",
+          "designation": "Pilleurs et casseurs"
+        },
+        "proposition_evaluee": "Préjudice aux victimes quel que soit leur âge",
+        "position": "critique",
+        "statut_position": "explicite",
+        "preuves_position": [
+          "Ça c'est la réalité !!!"
+        ],
+        "argumentation": {
+          "statut": "interpretable",
+          "diagnostic": null,
+          "arguments": [
+            {
+              "code": "ARG_AUTRE",
+              "argument_precis": "L’auteur dénonce un préjudice présenté comme touchant des personnes de tout âge.",
+              "mode_expression": "explicite",
+              "preuves": [
+                "les racailles pilleurs et casseurs laissent les gens à poil"
+              ]
+            }
+          ]
+        },
+        "ironie": "non_detectee",
+        "incertitude": {
+          "cible": "faible",
+          "position": "faible",
+          "argument": "faible"
+        },
+        "exploitabilite_positions": "exploitable",
+        "note": "Qualification insultante rapportée; actes et image évoquée non vérifiés."
+      }
+    ],
+    "limites": [
+      "Lecture conversationnelle provisoire, sans évaluation humaine indépendante ni appel API."
+    ]
+  },
+  {
+    "comment_id": "UgwbgA8QzIBElSN6wTp4AaABAg.Ac3vIr7Br2nAc4KyzSUiQc",
+    "version_protocole": "pilote-1.0",
+    "version_dictionnaire": "arguments-provisoire-0.1",
+    "sujet": "Violences et dégâts",
+    "pertinence_thematique": "directe",
+    "necessite_parent": "utile",
+    "fonction_reponse": "Réattribution de responsabilité par rapport au blâme de Macron.",
+    "preuves_parent": [
+      "Merci macron de mettre notre pays à feu et à sang!!!"
+    ],
+    "lien_evenement": {
+      "statut": "non_verifie",
+      "references_hors_evenement": [],
+      "note": "Vidéo, date et lieu non validés; titre et propos ne prouvent pas les faits."
+    },
+    "sujets_associes": [
+      "responsabilité politique"
+    ],
+    "relations_sujets": [],
+    "positions": [
+      {
+        "position_id": "N007-P1",
+        "cible": {
+          "type": "affirmation",
+          "designation": "Attribution de la responsabilité à Macron dans le parent"
+        },
+        "proposition_evaluee": "Cause des dégâts",
+        "position": "critique",
+        "statut_position": "implicite_etayee",
+        "preuves_position": [
+          "En vrai c a cause de ceux qui s’en blc de la. Vie et qui casse tous"
+        ],
+        "argumentation": {
+          "statut": "interpretable",
+          "diagnostic": null,
+          "arguments": [
+            {
+              "code": "ARG_AUTRE",
+              "argument_precis": "L’auteur attribue les dégâts à ceux qui cassent plutôt qu’à Macron directement.",
+              "mode_expression": "implicite_etaye",
+              "preuves": [
+                "En vrai c a cause de ceux qui s’en blc de la. Vie et qui casse tous"
+              ]
+            }
+          ]
+        },
+        "ironie": "non_detectee",
+        "incertitude": {
+          "cible": "faible",
+          "position": "moderee",
+          "argument": "faible"
+        },
+        "exploitabilite_positions": "a_revoir",
+        "note": "Conteste une attribution; ne valide pas les faits ni une exonération de tout responsable politique."
+      }
+    ],
+    "limites": [
+      "Lecture conversationnelle provisoire, sans évaluation humaine indépendante ni appel API."
+    ]
+  },
+  {
+    "comment_id": "UgyuFa1_Ak79nhQ1Bvl4AaABAg.Ac7Bt_HnWkAAc89RAmQcPl",
+    "version_protocole": "pilote-1.0",
+    "version_dictionnaire": "arguments-provisoire-0.1",
+    "sujet": "Violences et dégâts",
+    "pertinence_thematique": "contextuelle",
+    "necessite_parent": "utile",
+    "fonction_reponse": "Précision des sources et périmètres de chiffres, tout en maintenant un doute.",
+    "preuves_parent": [],
+    "lien_evenement": {
+      "statut": "non_verifie",
+      "references_hors_evenement": [],
+      "note": "Vidéo, date et lieu non validés; titre et propos ne prouvent pas les faits."
+    },
+    "sujets_associes": [
+      "chiffres",
+      "maintien de l’ordre"
+    ],
+    "relations_sujets": [],
+    "positions": [
+      {
+        "position_id": "N008-P1",
+        "cible": {
+          "type": "affirmation",
+          "designation": "Cohérence des chiffres de forces mobilisées, blessures et interpellations"
+        },
+        "proposition_evaluee": "Comparabilité et écarts entre bilans",
+        "position": "critique",
+        "statut_position": "explicite",
+        "preuves_position": [
+          "les écarts restent difficiles à expliquer."
+        ],
+        "argumentation": {
+          "statut": "interpretable",
+          "diagnostic": null,
+          "arguments": [
+            {
+              "code": "ARG_AUTRE",
+              "argument_precis": "Malgré les différences d’heure et de territoire reconnues, l’auteur juge les écarts difficiles à expliquer.",
+              "mode_expression": "explicite",
+              "preuves": [
+                "Les heures et les périmètres diffèrent, d'accord."
+              ]
+            }
+          ]
+        },
+        "ironie": "non_detectee",
+        "incertitude": {
+          "cible": "faible",
+          "position": "faible",
+          "argument": "faible"
+        },
+        "exploitabilite_positions": "non_exploitable",
+        "note": "Critique de cohérence, pas fait établi sur une manipulation de chiffres."
+      }
+    ],
+    "limites": [
+      "Lecture conversationnelle provisoire, sans évaluation humaine indépendante ni appel API.",
+      "Bilans et sources cités non vérifiés; ce n’est pas une mesure de violence ou une accusation de mensonge."
+    ]
+  },
+  {
+    "comment_id": "UgxQTVw9x3N6lCd1AeF4AaABAg.Ac4RZj7MLs1Ac4VonbZ31P",
+    "version_protocole": "pilote-1.0",
+    "version_dictionnaire": "arguments-provisoire-0.1",
+    "sujet": "Violences et dégâts",
+    "pertinence_thematique": "contextuelle",
+    "necessite_parent": "utile",
+    "fonction_reponse": null,
+    "preuves_parent": [],
+    "lien_evenement": {
+      "statut": "non_verifie",
+      "references_hors_evenement": [
+        "États-Unis et mouvement des droits civiques"
+      ],
+      "note": "Vidéo, date et lieu non validés; titre et propos ne prouvent pas les faits."
+    },
+    "sujets_associes": [
+      "autres pays",
+      "histoire du maintien de l’ordre"
+    ],
+    "relations_sujets": [],
+    "positions": [],
+    "limites": [
+      "Lecture conversationnelle provisoire, sans évaluation humaine indépendante ni appel API.",
+      "Débat américain et historique; ne pas coder comme opinion sur une intervention française précise."
+    ]
+  },
+  {
+    "comment_id": "UgxkZXwoRaOH5vKDqvR4AaABAg.Ac3mCMdpqgWAc4AbTsP45T",
+    "version_protocole": "pilote-1.0",
+    "version_dictionnaire": "arguments-provisoire-0.1",
+    "sujet": "Violences et dégâts",
+    "pertinence_thematique": "incertaine",
+    "necessite_parent": "insuffisant",
+    "fonction_reponse": "Correction fragmentaire mentionnant les CRS.",
+    "preuves_parent": [],
+    "lien_evenement": {
+      "statut": "non_verifie",
+      "references_hors_evenement": [],
+      "note": "Vidéo, date et lieu non validés; titre et propos ne prouvent pas les faits."
+    },
+    "sujets_associes": [],
+    "relations_sujets": [],
+    "positions": [],
+    "limites": [
+      "Lecture conversationnelle provisoire, sans évaluation humaine indépendante ni appel API.",
+      "La réponse ne précise pas de quel acte ou affirmation il est question; le parent principal ne résout pas ce contexte."
+    ]
+  },
+  {
+    "comment_id": "UgzwSGCS_NR4I4xjbs14AaABAg",
+    "version_protocole": "pilote-1.0",
+    "version_dictionnaire": "arguments-provisoire-0.1",
+    "sujet": "Violences et dégâts",
+    "pertinence_thematique": "contextuelle",
+    "necessite_parent": "sans_parent",
+    "fonction_reponse": null,
+    "preuves_parent": [],
+    "lien_evenement": {
+      "statut": "non_verifie",
+      "references_hors_evenement": [
+        "17 octobre 1961"
+      ],
+      "note": "Vidéo, date et lieu non validés; titre et propos ne prouvent pas les faits."
+    },
+    "sujets_associes": [
+      "mémoire historique"
+    ],
+    "relations_sujets": [],
+    "positions": [],
+    "limites": [
+      "Lecture conversationnelle provisoire, sans évaluation humaine indépendante ni appel API.",
+      "Commémoration explicite d’un autre événement; ne pas convertir en témoignage sur2026."
+    ]
+  },
+  {
+    "comment_id": "Ugx2e7rYsjW1Sbn8v6h4AaABAg",
+    "version_protocole": "pilote-1.0",
+    "version_dictionnaire": "arguments-provisoire-0.1",
+    "sujet": "Violences et dégâts",
+    "pertinence_thematique": "incertaine",
+    "necessite_parent": "sans_parent",
+    "fonction_reponse": null,
+    "preuves_parent": [],
+    "lien_evenement": {
+      "statut": "non_verifie",
+      "references_hors_evenement": [],
+      "note": "Vidéo, date et lieu non validés; titre et propos ne prouvent pas les faits."
+    },
+    "sujets_associes": [],
+    "relations_sujets": [],
+    "positions": [
+      {
+        "position_id": "N012-P1",
+        "cible": {
+          "type": "acteur",
+          "designation": "Personnes qui glorifient les forces de l’ordre"
+        },
+        "proposition_evaluee": "Souhait qu’elles subissent les événements évoqués",
+        "position": "critique",
+        "statut_position": "implicite_etayee",
+        "preuves_position": [
+          "Je souhaite ce genre d'événements à tous les gens qui glorifie la police"
+        ],
+        "argumentation": {
+          "statut": "absente",
+          "diagnostic": "ARG_ABSENT",
+          "arguments": []
+        },
+        "ironie": "non_detectee",
+        "incertitude": {
+          "cible": "faible",
+          "position": "moderee",
+          "argument": "faible"
+        },
+        "exploitabilite_positions": "non_exploitable",
+        "note": "Hostilité à des soutiens de la police, pas jugement certain sur un usage de la force identifié."
+      }
+    ],
+    "limites": [
+      "Lecture conversationnelle provisoire, sans évaluation humaine indépendante ni appel API.",
+      "Ce genre d’événements n’est pas défini par le commentaire; le titre ne suffit pas à en préciser les actes."
+    ]
+  },
+  {
+    "comment_id": "Ugw4q9rXIjvTYNj6uGp4AaABAg",
+    "version_protocole": "pilote-1.0",
+    "version_dictionnaire": "arguments-provisoire-0.1",
+    "sujet": "Violences et dégâts",
+    "pertinence_thematique": "contextuelle",
+    "necessite_parent": "sans_parent",
+    "fonction_reponse": null,
+    "preuves_parent": [],
+    "lien_evenement": {
+      "statut": "non_verifie",
+      "references_hors_evenement": [],
+      "note": "Vidéo, date et lieu non validés; titre et propos ne prouvent pas les faits."
+    },
+    "sujets_associes": [
+      "utilité de la police"
+    ],
+    "relations_sujets": [],
+    "positions": [
+      {
+        "position_id": "N013-P1",
+        "cible": {
+          "type": "acteur",
+          "designation": "Police et forces de l’ordre"
+        },
+        "proposition_evaluee": "Utilité protectrice pour les citoyens",
+        "position": "favorable",
+        "statut_position": "explicite",
+        "preuves_position": [
+          "reconnaître l’importance de ceux qui interviennent quand on a besoin d’aide."
+        ],
+        "argumentation": {
+          "statut": "interpretable",
+          "diagnostic": null,
+          "arguments": [
+            {
+              "code": "ARG_AUTRE",
+              "argument_precis": "L’auteur invoque le recours attendu à l’aide de la police lors d’événements graves.",
+              "mode_expression": "explicite",
+              "preuves": [
+                "vous serez les premiers à appeler la police pour demander de l’aide."
+              ]
+            }
+          ]
+        },
+        "ironie": "non_detectee",
+        "incertitude": {
+          "cible": "faible",
+          "position": "faible",
+          "argument": "faible"
+        },
+        "exploitabilite_positions": "non_exploitable",
+        "note": "Soutien à l’utilité protectrice, pas à toute méthode de maintien de l’ordre."
+      }
+    ],
+    "limites": [
+      "Lecture conversationnelle provisoire, sans évaluation humaine indépendante ni appel API.",
+      "Appréciation générale de l’aide policière, sans violence précise évaluée."
+    ]
+  },
+  {
+    "comment_id": "UgwAncdh3U66qbIjNPx4AaABAg",
+    "version_protocole": "pilote-1.0",
+    "version_dictionnaire": "arguments-provisoire-0.1",
+    "sujet": "Violences et dégâts",
+    "pertinence_thematique": "hors_sujet",
+    "necessite_parent": "sans_parent",
+    "fonction_reponse": null,
+    "preuves_parent": [],
+    "lien_evenement": {
+      "statut": "non_verifie",
+      "references_hors_evenement": [],
+      "note": "Vidéo, date et lieu non validés; titre et propos ne prouvent pas les faits."
+    },
+    "sujets_associes": [
+      "liberté d’expression",
+      "justice"
+    ],
+    "relations_sujets": [],
+    "positions": [],
+    "limites": [
+      "Lecture conversationnelle provisoire, sans évaluation humaine indépendante ni appel API.",
+      "Débat sur spectacles et expression; aucun acte de violence assez identifié pour le noyau."
+    ]
+  },
+  {
+    "comment_id": "UgzVZsROGIcOpq68TXh4AaABAg",
+    "version_protocole": "pilote-1.0",
+    "version_dictionnaire": "arguments-provisoire-0.1",
+    "sujet": "Violences et dégâts",
+    "pertinence_thematique": "directe",
+    "necessite_parent": "sans_parent",
+    "fonction_reponse": null,
+    "preuves_parent": [],
+    "lien_evenement": {
+      "statut": "non_verifie",
+      "references_hors_evenement": [],
+      "note": "Vidéo, date et lieu non validés; titre et propos ne prouvent pas les faits."
+    },
+    "sujets_associes": [
+      "responsabilité politique"
+    ],
+    "relations_sujets": [],
+    "positions": [
+      {
+        "position_id": "N015-P1",
+        "cible": {
+          "type": "acteur",
+          "designation": "Police"
+        },
+        "proposition_evaluee": "Mort alléguée d’un medic et non d’un casseur",
+        "position": "critique",
+        "statut_position": "explicite",
+        "preuves_position": [
+          "la police a tué ce week-end et c'était pas un casseur c'était un medic"
+        ],
+        "argumentation": {
+          "statut": "interpretable",
+          "diagnostic": null,
+          "arguments": [
+            {
+              "code": "A03",
+              "argument_precis": "Le statut de medic et non de casseur est invoqué pour contester la violence attribuée à la police.",
+              "mode_expression": "explicite",
+              "preuves": [
+                "c'était pas un casseur c'était un medic"
+              ]
+            }
+          ]
+        },
+        "ironie": "non_detectee",
+        "incertitude": {
+          "cible": "faible",
+          "position": "faible",
+          "argument": "faible"
+        },
+        "exploitabilite_positions": "exploitable",
+        "note": "Décès, circonstances et statut non vérifiés; aucune conclusion factuelle sur cet événement."
+      },
+      {
+        "position_id": "N015-P2",
+        "cible": {
+          "type": "affirmation",
+          "designation": "Attribution récurrente de responsabilité à LFI"
+        },
+        "proposition_evaluee": "Blâme présenté comme systématique",
+        "position": "critique",
+        "statut_position": "explicite",
+        "preuves_position": [
+          "C'est toujours la faute à LFI c'est une enorme dinguerie."
+        ],
+        "argumentation": {
+          "statut": "absente",
+          "diagnostic": "ARG_ABSENT",
+          "arguments": []
+        },
+        "ironie": "non_detectee",
+        "incertitude": {
+          "cible": "faible",
+          "position": "faible",
+          "argument": "faible"
+        },
+        "exploitabilite_positions": "exploitable",
+        "note": "Contestation explicite mais pas de preuve ou contre-exemple causal développé sur LFI."
+      }
+    ],
+    "limites": [
+      "Lecture conversationnelle provisoire, sans évaluation humaine indépendante ni appel API."
+    ]
+  },
+  {
+    "comment_id": "Ugwlrxh7dkzGSVxyH0N4AaABAg.Ac93PqWBcdBAcAjqe5s2HA",
+    "version_protocole": "pilote-1.0",
+    "version_dictionnaire": "arguments-provisoire-0.1",
+    "sujet": "Violences et dégâts",
+    "pertinence_thematique": "directe",
+    "necessite_parent": "utile",
+    "fonction_reponse": "Condamnation de dégâts, relativisation de leur irréversibilité et critique de l’État.",
+    "preuves_parent": [],
+    "lien_evenement": {
+      "statut": "non_verifie",
+      "references_hors_evenement": [],
+      "note": "Vidéo, date et lieu non validés; titre et propos ne prouvent pas les faits."
+    },
+    "sujets_associes": [
+      "revendications",
+      "responsabilité politique"
+    ],
+    "relations_sujets": [],
+    "positions": [
+      {
+        "position_id": "N016-P1",
+        "cible": {
+          "type": "action",
+          "designation": "Dégradations de monuments et casse"
+        },
+        "proposition_evaluee": "Gravité et condamnation des dégâts",
+        "position": "mitigee",
+        "statut_position": "implicite_etayee",
+        "preuves_position": [
+          "Évidemment je condamne quand même ces dégradations et par dessus tout la casse"
+        ],
+        "argumentation": {
+          "statut": "interpretable",
+          "diagnostic": null,
+          "arguments": [
+            {
+              "code": "ARG_AUTRE",
+              "argument_precis": "L’auteur condamne les dégâts mais les relativise par leur réparabilité supposée, comparée à des bijoux volés.",
+              "mode_expression": "explicite",
+              "preuves": [
+                "Ce monument a juste besoin d'être nettoyé"
+              ]
+            }
+          ]
+        },
+        "ironie": "non_detectee",
+        "incertitude": {
+          "cible": "faible",
+          "position": "moderee",
+          "argument": "faible"
+        },
+        "exploitabilite_positions": "a_revoir",
+        "note": "Réparabilité et comparaison non vérifiées. La réserve porte sur la gravité, pas un soutien aux pillages."
+      },
+      {
+        "position_id": "N016-P2",
+        "cible": {
+          "type": "acteur",
+          "designation": "État"
+        },
+        "proposition_evaluee": "Abandon allégué des commerçants et des revendications",
+        "position": "critique",
+        "statut_position": "explicite",
+        "preuves_position": [
+          "les petits commerçants pillés par des voleurs et casseurs sont abandonnés, c'est honteux."
+        ],
+        "argumentation": {
+          "statut": "interpretable",
+          "diagnostic": null,
+          "arguments": [
+            {
+              "code": "ARG_AUTRE",
+              "argument_precis": "L’absence de soutien aux commerçants pillés et d’écoute des revendications fonde le reproche d’incompétence.",
+              "mode_expression": "explicite",
+              "preuves": [
+                "les petits commerçants pillés par des voleurs et casseurs sont abandonnés"
+              ]
+            }
+          ]
+        },
+        "ironie": "non_detectee",
+        "incertitude": {
+          "cible": "faible",
+          "position": "faible",
+          "argument": "faible"
+        },
+        "exploitabilite_positions": "exploitable",
+        "note": "Pas d’attribution automatique à la seule police."
+      }
+    ],
+    "limites": [
+      "Lecture conversationnelle provisoire, sans évaluation humaine indépendante ni appel API."
+    ]
+  },
+  {
+    "comment_id": "UgxEzWMIRUf2KOQNOV54AaABAg",
+    "version_protocole": "pilote-1.0",
+    "version_dictionnaire": "arguments-provisoire-0.1",
+    "sujet": "Violences et dégâts",
+    "pertinence_thematique": "directe",
+    "necessite_parent": "sans_parent",
+    "fonction_reponse": null,
+    "preuves_parent": [],
+    "lien_evenement": {
+      "statut": "non_verifie",
+      "references_hors_evenement": [],
+      "note": "Vidéo, date et lieu non validés; titre et propos ne prouvent pas les faits."
+    },
+    "sujets_associes": [
+      "revendications",
+      "dépenses publiques"
+    ],
+    "relations_sujets": [
+      {
+        "sujet_source": "gestion gouvernementale",
+        "sujet_cible": "violences et coûts publics",
+        "relation": "responsabilite_attribuee",
+        "resume": "L’auteur attribue au gouvernement une aggravation coûteuse de la situation.",
+        "preuves": [
+          "la gestion du gouvernement a aggravé notre situation d'endettement de bien des façons"
+        ]
+      }
+    ],
+    "positions": [
+      {
+        "position_id": "N017-P1",
+        "cible": {
+          "type": "acteur",
+          "designation": "Gestion gouvernementale"
+        },
+        "proposition_evaluee": "Coût d’une politique répressive plutôt que protectrice",
+        "position": "critique",
+        "statut_position": "explicite",
+        "preuves_position": [
+          "un état répressif, autoritaire coûte souvent bien plus cher qu'un état protecteur."
+        ],
+        "argumentation": {
+          "statut": "interpretable",
+          "diagnostic": null,
+          "arguments": [
+            {
+              "code": "ARG_AUTRE",
+              "argument_precis": "Coûts de répression, dégâts et procédures sont opposés à l’investissement public et à ses retours attendus.",
+              "mode_expression": "explicite",
+              "preuves": [
+                "surcoût lié à l'usage massif de lacrymo, LBD, etc., coût des dégradations, coûts judiciaires conséquents"
+              ]
+            }
+          ]
+        },
+        "ironie": "non_detectee",
+        "incertitude": {
+          "cible": "faible",
+          "position": "faible",
+          "argument": "faible"
+        },
+        "exploitabilite_positions": "exploitable",
+        "note": "Raisonnement économique de l’auteur; montants et causalité non vérifiés."
+      }
+    ],
+    "limites": [
+      "Lecture conversationnelle provisoire, sans évaluation humaine indépendante ni appel API."
+    ]
+  },
+  {
+    "comment_id": "UgxNJFojaR2cSIZwqAR4AaABAg.AcEh4c987YoAcEh5VzrbxC",
+    "version_protocole": "pilote-1.0",
+    "version_dictionnaire": "arguments-provisoire-0.1",
+    "sujet": "Violences et dégâts",
+    "pertinence_thematique": "directe",
+    "necessite_parent": "utile",
+    "fonction_reponse": "Prolonge une critique ironique du manque de moyens et de la doctrine.",
+    "preuves_parent": [],
+    "lien_evenement": {
+      "statut": "non_verifie",
+      "references_hors_evenement": [],
+      "note": "Vidéo, date et lieu non validés; titre et propos ne prouvent pas les faits."
+    },
+    "sujets_associes": [
+      "doctrine policière",
+      "responsabilité politique"
+    ],
+    "relations_sujets": [],
+    "positions": [
+      {
+        "position_id": "N018-P1",
+        "cible": {
+          "type": "acteur",
+          "designation": "Police"
+        },
+        "proposition_evaluee": "Violence non ciblée contre des étudiants",
+        "position": "critique",
+        "statut_position": "explicite",
+        "preuves_position": [
+          "matraquage aveugle dans des foules d’étudiants"
+        ],
+        "argumentation": {
+          "statut": "interpretable",
+          "diagnostic": null,
+          "arguments": [
+            {
+              "code": "A03",
+              "argument_precis": "Le caractère aveugle des coups est dénoncé par une description ironique de ses effets.",
+              "mode_expression": "explicite",
+              "preuves": [
+                "matraquage aveugle dans des foules d’étudiants"
+              ]
+            }
+          ]
+        },
+        "ironie": "probable",
+        "incertitude": {
+          "cible": "faible",
+          "position": "faible",
+          "argument": "faible"
+        },
+        "exploitabilite_positions": "exploitable",
+        "note": "Ironie interprétable dans le texte; ne pas coder un soutien littéral au matraquage."
+      },
+      {
+        "position_id": "N018-P2",
+        "cible": {
+          "type": "acteur",
+          "designation": "Décideurs, ministre de l’Intérieur et gouvernement"
+        },
+        "proposition_evaluee": "Responsabilité dans la doctrine et les violences",
+        "position": "critique",
+        "statut_position": "implicite_etayee",
+        "preuves_position": [
+          "ne peuvent évidemment être responsables de rien ?"
+        ],
+        "argumentation": {
+          "statut": "interpretable",
+          "diagnostic": null,
+          "arguments": [
+            {
+              "code": "ARG_AUTRE",
+              "argument_precis": "La dénégation ironique conteste l’exonération des responsables de la doctrine évoquée.",
+              "mode_expression": "implicite_etaye",
+              "preuves": [
+                "qui irait remettre en cause la doctrine"
+              ]
+            }
+          ]
+        },
+        "ironie": "probable",
+        "incertitude": {
+          "cible": "faible",
+          "position": "moderee",
+          "argument": "faible"
+        },
+        "exploitabilite_positions": "a_revoir",
+        "note": "Interprétation ironique à revoir; pas une responsabilité juridique établie."
+      }
+    ],
+    "limites": [
+      "Lecture conversationnelle provisoire, sans évaluation humaine indépendante ni appel API."
+    ]
+  },
+  {
+    "comment_id": "UgwRLN3jf4FAHKhdD5V4AaABAg.Ac483HlV1j4Ac6M4UZ6Lgv",
+    "version_protocole": "pilote-1.0",
+    "version_dictionnaire": "arguments-provisoire-0.1",
+    "sujet": "Violences et dégâts",
+    "pertinence_thematique": "directe",
+    "necessite_parent": "utile",
+    "fonction_reponse": "Refuse une justification partisane de l’incendie, puis développe des explications politiques.",
+    "preuves_parent": [],
+    "lien_evenement": {
+      "statut": "non_verifie",
+      "references_hors_evenement": [],
+      "note": "Vidéo, date et lieu non validés; titre et propos ne prouvent pas les faits."
+    },
+    "sujets_associes": [
+      "politique",
+      "dialogue",
+      "institutions"
+    ],
+    "relations_sujets": [],
+    "positions": [
+      {
+        "position_id": "N019-P1",
+        "cible": {
+          "type": "affirmation",
+          "designation": "Justification d’un incendie par la couleur politique de la mairie"
+        },
+        "proposition_evaluee": "Légitimité d’incendier parce que la mairie est de droite",
+        "position": "critique",
+        "statut_position": "explicite",
+        "preuves_position": [
+          "Parce que c'est la droite ça justifie qu'on foute le feu ? Non."
+        ],
+        "argumentation": {
+          "statut": "absente",
+          "diagnostic": "ARG_ABSENT",
+          "arguments": []
+        },
+        "ironie": "non_detectee",
+        "incertitude": {
+          "cible": "faible",
+          "position": "faible",
+          "argument": "faible"
+        },
+        "exploitabilite_positions": "exploitable",
+        "note": "Refus de cette justification précis; ne pas l’étendre à tous les actes puisque le texte suspend ensuite certains jugements."
+      },
+      {
+        "position_id": "N019-P2",
+        "cible": {
+          "type": "acteur",
+          "designation": "Comportement des élus et de la mairie"
+        },
+        "proposition_evaluee": "Dialogue antérieur opposé aux provocations actuelles alléguées",
+        "position": "critique",
+        "statut_position": "implicite_etayee",
+        "preuves_position": [
+          "la mairie de droite alliée à l'extrême a multiplié les provocations."
+        ],
+        "argumentation": {
+          "statut": "interpretable",
+          "diagnostic": null,
+          "arguments": [
+            {
+              "code": "A09",
+              "argument_precis": "L’auteur oppose un accueil et des demandes satisfaites lors d’une mobilisation passée aux provocations et à l’absence d’élus décrites ensuite.",
+              "mode_expression": "implicite_etaye",
+              "preuves": [
+                "Les manifestants ont été reçu en délégation ont demandé spécifiquement des choses qu'ils ont obtenu"
+              ]
+            }
+          ]
+        },
+        "ironie": "non_detectee",
+        "incertitude": {
+          "cible": "faible",
+          "position": "moderee",
+          "argument": "faible"
+        },
+        "exploitabilite_positions": "a_revoir",
+        "note": "Lien explicatif reconstruit avec prudence; ne prouve ni les faits ni une approbation de l’incendie."
+      }
+    ],
+    "limites": [
+      "Lecture conversationnelle provisoire, sans évaluation humaine indépendante ni appel API.",
+      "Réponse adressée à un compte; le parent principal ne restitue pas nécessairement tout l’échange. Passages politiques et prédictions non utilisés comme faits."
+    ]
+  },
+  {
+    "comment_id": "Ugz4jYU6NiewkrLHg-V4AaABAg.Ac7w8ikcJsiAc84FbnzdDC",
+    "version_protocole": "pilote-1.0",
+    "version_dictionnaire": "arguments-provisoire-0.1",
+    "sujet": "Violences et dégâts",
+    "pertinence_thematique": "directe",
+    "necessite_parent": "indispensable",
+    "fonction_reponse": "Explication potentiellement sarcastique de l’absence de police.",
+    "preuves_parent": [],
+    "lien_evenement": {
+      "statut": "non_verifie",
+      "references_hors_evenement": [],
+      "note": "Vidéo, date et lieu non validés; titre et propos ne prouvent pas les faits."
+    },
+    "sujets_associes": [
+      "maintien de l’ordre"
+    ],
+    "relations_sujets": [],
+    "positions": [
+      {
+        "position_id": "N020-P1",
+        "cible": {
+          "type": "acteur",
+          "designation": "Police et responsables locaux"
+        },
+        "proposition_evaluee": "Raisons de l’absence d’intervention",
+        "position": "indeterminable",
+        "statut_position": "indeterminable",
+        "preuves_position": [
+          "Plus assez de monde"
+        ],
+        "argumentation": {
+          "statut": "ambigue",
+          "diagnostic": "ARG_AMBIGU",
+          "arguments": []
+        },
+        "ironie": "possible",
+        "incertitude": {
+          "cible": "faible",
+          "position": "forte",
+          "argument": "forte"
+        },
+        "exploitabilite_positions": "non_exploitable",
+        "note": "Sous-effectif, prudence de carrière et laisser-faire sont évoqués sans articulation assez certaine pour choisir un seul argument."
+      }
+    ],
+    "limites": [
+      "Lecture conversationnelle provisoire, sans évaluation humaine indépendante ni appel API."
+    ]
+  },
+  {
+    "comment_id": "UgzTEzox6MoEQIyE86N4AaABAg.Ac5xUxk0L7wAc6HIMWSDgh",
+    "version_protocole": "pilote-1.0",
+    "version_dictionnaire": "arguments-provisoire-0.1",
+    "sujet": "Violences et dégâts",
+    "pertinence_thematique": "hors_sujet",
+    "necessite_parent": "utile",
+    "fonction_reponse": null,
+    "preuves_parent": [],
+    "lien_evenement": {
+      "statut": "non_verifie",
+      "references_hors_evenement": [],
+      "note": "Vidéo, date et lieu non validés; titre et propos ne prouvent pas les faits."
+    },
+    "sujets_associes": [
+      "citations politiques",
+      "échange interpersonnel"
+    ],
+    "relations_sujets": [],
+    "positions": [],
+    "limites": [
+      "Lecture conversationnelle provisoire, sans évaluation humaine indépendante ni appel API.",
+      "Discussion sur citations et intentions de l’interlocuteur; pas de position exploitable sur un acte violent de la mobilisation."
+    ]
+  },
+  {
+    "comment_id": "Ugwnx-j1q4HqiC4_0aN4AaABAg",
+    "version_protocole": "pilote-1.0",
+    "version_dictionnaire": "arguments-provisoire-0.1",
+    "sujet": "Violences et dégâts",
+    "pertinence_thematique": "directe",
+    "necessite_parent": "sans_parent",
+    "fonction_reponse": null,
+    "preuves_parent": [],
+    "lien_evenement": {
+      "statut": "non_verifie",
+      "references_hors_evenement": [],
+      "note": "Vidéo, date et lieu non validés; titre et propos ne prouvent pas les faits."
+    },
+    "sujets_associes": [
+      "revendications",
+      "responsabilité politique"
+    ],
+    "relations_sujets": [],
+    "positions": [
+      {
+        "position_id": "N022-P1",
+        "cible": {
+          "type": "acteur",
+          "designation": "Forces répressives désignées comme robocops"
+        },
+        "proposition_evaluee": "Intervention préventive et usage rapide d’armes dangereuses",
+        "position": "critique",
+        "statut_position": "explicite",
+        "preuves_position": [
+          "je ne comprends pas la répression par anticipation par les robocops, l'usage très rapide des armes dangereuses"
+        ],
+        "argumentation": {
+          "statut": "interpretable",
+          "diagnostic": null,
+          "arguments": [
+            {
+              "code": "ARG_AUTRE",
+              "argument_precis": "Prématurité et dangerosité des moyens sont invoquées pour critiquer la réponse répressive.",
+              "mode_expression": "explicite",
+              "preuves": [
+                "la répression par anticipation par les robocops, l'usage très rapide des armes dangereuses"
+              ]
+            }
+          ]
+        },
+        "ironie": "non_detectee",
+        "incertitude": {
+          "cible": "faible",
+          "position": "faible",
+          "argument": "faible"
+        },
+        "exploitabilite_positions": "exploitable",
+        "note": "Pas d’affirmation factuelle de proportionnalité ni d’identification certaine d’une unité précise."
+      },
+      {
+        "position_id": "N022-P2",
+        "cible": {
+          "type": "action",
+          "designation": "Casse et vols"
+        },
+        "proposition_evaluee": "Rejet des dégradations et vols",
+        "position": "critique",
+        "statut_position": "explicite",
+        "preuves_position": [
+          "Je rejette la casse et les vols"
+        ],
+        "argumentation": {
+          "statut": "absente",
+          "diagnostic": "ARG_ABSENT",
+          "arguments": []
+        },
+        "ironie": "non_detectee",
+        "incertitude": {
+          "cible": "faible",
+          "position": "faible",
+          "argument": "faible"
+        },
+        "exploitabilite_positions": "exploitable",
+        "note": "Position distincte; ne pas la fusionner avec la critique de la répression ni importer une justification absente."
+      }
+    ],
+    "limites": [
+      "Lecture conversationnelle provisoire, sans évaluation humaine indépendante ni appel API."
+    ]
+  },
+  {
+    "comment_id": "Ugw1SkG7fY9Jd6XBwpJ4AaABAg.AcGsDiifH4pAcHCco_Z06v",
+    "version_protocole": "pilote-1.0",
+    "version_dictionnaire": "arguments-provisoire-0.1",
+    "sujet": "Violences et dégâts",
+    "pertinence_thematique": "directe",
+    "necessite_parent": "utile",
+    "fonction_reponse": null,
+    "preuves_parent": [],
+    "lien_evenement": {
+      "statut": "non_verifie",
+      "references_hors_evenement": [
+        "Le parent appelle au24; titre au22"
+      ],
+      "note": "Vidéo, date et lieu non validés; titre et propos ne prouvent pas les faits."
+    },
+    "sujets_associes": [],
+    "relations_sujets": [],
+    "positions": [
+      {
+        "position_id": "N023-P1",
+        "cible": {
+          "type": "action",
+          "designation": "Possibilité personnelle de recevoir un coup de matraque"
+        },
+        "proposition_evaluee": "Crainte d’une blessure en manifestation",
+        "position": "descriptive",
+        "statut_position": "non_evaluative",
+        "preuves_position": [
+          "Je n’ai pas envie  de me prendre  un coup  de matraque  dans  la tronche"
+        ],
+        "argumentation": {
+          "statut": "absente",
+          "diagnostic": "ARG_ABSENT",
+          "arguments": []
+        },
+        "ironie": "non_detectee",
+        "incertitude": {
+          "cible": "faible",
+          "position": "faible",
+          "argument": "faible"
+        },
+        "exploitabilite_positions": "non_exploitable",
+        "note": "Préférence d’évitement exprimée; ne pas la transformer automatiquement en condamnation normative de toute intervention."
+      }
+    ],
+    "limites": [
+      "Lecture conversationnelle provisoire, sans évaluation humaine indépendante ni appel API.",
+      "Événement du17 non établi. Crainte anticipée, pas récit d’un coup subi."
+    ]
+  },
+  {
+    "comment_id": "UgwJ3ByKASfly9Tjuv14AaABAg.Ac46WxIYK_QAc4Xehwp6uy",
+    "version_protocole": "pilote-1.0",
+    "version_dictionnaire": "arguments-provisoire-0.1",
+    "sujet": "Violences et dégâts",
+    "pertinence_thematique": "contextuelle",
+    "necessite_parent": "utile",
+    "fonction_reponse": null,
+    "preuves_parent": [],
+    "lien_evenement": {
+      "statut": "non_verifie",
+      "references_hors_evenement": [],
+      "note": "Vidéo, date et lieu non validés; titre et propos ne prouvent pas les faits."
+    },
+    "sujets_associes": [
+      "révolution",
+      "politique",
+      "autres pays"
+    ],
+    "relations_sujets": [],
+    "positions": [],
+    "limites": [
+      "Lecture conversationnelle provisoire, sans évaluation humaine indépendante ni appel API.",
+      "Scénarios politiques et CRS évoqués sans acte policier précis ni position sur les dégâts identifiable avec suffisamment de certitude. Ne pas importer les attributions religieuses du parent."
+    ]
+  },
+  {
+    "comment_id": "Ugw9MjVOPWT9NO5Jywt4AaABAg",
+    "version_protocole": "pilote-1.0",
+    "version_dictionnaire": "arguments-provisoire-0.1",
+    "sujet": "Violences et dégâts",
+    "pertinence_thematique": "directe",
+    "necessite_parent": "sans_parent",
+    "fonction_reponse": null,
+    "preuves_parent": [],
+    "lien_evenement": {
+      "statut": "non_verifie",
+      "references_hors_evenement": [],
+      "note": "Vidéo, date et lieu non validés; titre et propos ne prouvent pas les faits."
+    },
+    "sujets_associes": [],
+    "relations_sujets": [],
+    "positions": [
+      {
+        "position_id": "N025-P1",
+        "cible": {
+          "type": "acteur",
+          "designation": "Police"
+        },
+        "proposition_evaluee": "Mort alléguée d’un medic",
+        "position": "descriptive",
+        "statut_position": "non_evaluative",
+        "preuves_position": [
+          "A medic died at the arc de triomphe kicked to death by police"
+        ],
+        "argumentation": {
+          "statut": "absente",
+          "diagnostic": "ARG_ABSENT",
+          "arguments": []
+        },
+        "ironie": "non_detectee",
+        "incertitude": {
+          "cible": "faible",
+          "position": "faible",
+          "argument": "faible"
+        },
+        "exploitabilite_positions": "non_exploitable",
+        "note": "Rapporte une accusation; fonction critique implicite possible, non comptée comme position signée sans convention humaine."
+      }
+    ],
+    "limites": [
+      "Lecture conversationnelle provisoire, sans évaluation humaine indépendante ni appel API.",
+      "Grave accusation non vérifiée. Une assertion de faits ne suffit pas à établir une attitude évaluative explicite."
+    ]
+  },
+  {
+    "comment_id": "UgxmxsTpbc_gC_4gxnZ4AaABAg.Ac4O_hiKioJAc6flQRR5v8",
+    "version_protocole": "pilote-1.0",
+    "version_dictionnaire": "arguments-provisoire-0.1",
+    "sujet": "Violences et dégâts",
+    "pertinence_thematique": "directe",
+    "necessite_parent": "utile",
+    "fonction_reponse": "Accord sur le payeur puis relativisation du coût.",
+    "preuves_parent": [],
+    "lien_evenement": {
+      "statut": "non_verifie",
+      "references_hors_evenement": [
+        "Le titre mentionne7octobre, à vérifier"
+      ],
+      "note": "Vidéo, date et lieu non validés; titre et propos ne prouvent pas les faits."
+    },
+    "sujets_associes": [
+      "coût des dégâts",
+      "dépenses publiques"
+    ],
+    "relations_sujets": [],
+    "positions": [
+      {
+        "position_id": "N026-P1",
+        "cible": {
+          "type": "affirmation",
+          "designation": "Gravité du coût fiscal des dégâts"
+        },
+        "proposition_evaluee": "Importance relative des dégâts pour les contribuables",
+        "position": "mitigee",
+        "statut_position": "implicite_etayee",
+        "preuves_position": [
+          "Donc j'en reviens qu'ont est plus a ça près"
+        ],
+        "argumentation": {
+          "statut": "interpretable",
+          "diagnostic": null,
+          "arguments": [
+            {
+              "code": "ARG_AUTRE",
+              "argument_precis": "Le coût des dégâts est relativisé au regard d’autres dépenses publiques jugées mauvaises.",
+              "mode_expression": "explicite",
+              "preuves": [
+                "ces aussi nos impôts qui payent des incompétent au pouvoir qui payent les milliards a l'Ukraine"
+              ]
+            }
+          ]
+        },
+        "ironie": "non_detectee",
+        "incertitude": {
+          "cible": "faible",
+          "position": "moderee",
+          "argument": "faible"
+        },
+        "exploitabilite_positions": "a_revoir",
+        "note": "Ne signifie pas soutien aux dégâts. Les autres dépenses et évaluations sont celles de l’auteur."
+      }
+    ],
+    "limites": [
+      "Lecture conversationnelle provisoire, sans évaluation humaine indépendante ni appel API."
+    ]
+  },
+  {
+    "comment_id": "UgzyyM67XjnZ-CBaE3R4AaABAg.Ac9-hHkBaGUAc9UuxDR4ka",
+    "version_protocole": "pilote-1.0",
+    "version_dictionnaire": "arguments-provisoire-0.1",
+    "sujet": "Violences et dégâts",
+    "pertinence_thematique": "contextuelle",
+    "necessite_parent": "utile",
+    "fonction_reponse": "Conteste l’accusation de minimiser les violences et défend une diversité d’angles.",
+    "preuves_parent": [],
+    "lien_evenement": {
+      "statut": "non_verifie",
+      "references_hors_evenement": [],
+      "note": "Vidéo, date et lieu non validés; titre et propos ne prouvent pas les faits."
+    },
+    "sujets_associes": [
+      "médias",
+      "cadrage"
+    ],
+    "relations_sujets": [],
+    "positions": [
+      {
+        "position_id": "N027-P1",
+        "cible": {
+          "type": "acteur",
+          "designation": "Médias décrits comme catastrophistes et anti-manifestation"
+        },
+        "proposition_evaluee": "Sélection exclusive des dégâts",
+        "position": "critique",
+        "statut_position": "explicite",
+        "preuves_position": [
+          "ne présentent que la casse et les pillages."
+        ],
+        "argumentation": {
+          "statut": "interpretable",
+          "diagnostic": null,
+          "arguments": [
+            {
+              "code": "M01",
+              "argument_precis": "La couverture centrée sur les dégâts est opposée à la présence de moments pacifiques et festifs.",
+              "mode_expression": "explicite",
+              "preuves": [
+                "il y a bel et bien tout autant de moments colorés, chaleureux, innocents, festifs."
+              ]
+            }
+          ]
+        },
+        "ironie": "non_detectee",
+        "incertitude": {
+          "cible": "faible",
+          "position": "faible",
+          "argument": "faible"
+        },
+        "exploitabilite_positions": "non_exploitable",
+        "note": "Évaluation du traitement médiatique, pas fait établi sur son exhaustivité."
+      },
+      {
+        "position_id": "N027-P2",
+        "cible": {
+          "type": "acteur",
+          "designation": "Publication des faits insolites évoquée"
+        },
+        "proposition_evaluee": "Légitimité d’un angle éditorial non exclusivement violent",
+        "position": "favorable",
+        "statut_position": "explicite",
+        "preuves_position": [
+          "ici, ils ne font que présenter de manière neutre les faits insolites."
+        ],
+        "argumentation": {
+          "statut": "interpretable",
+          "diagnostic": null,
+          "arguments": [
+            {
+              "code": "ARG_AUTRE",
+              "argument_precis": "L’auteur défend un angle annoncé comme insolite sans en déduire une négation de toutes les violences.",
+              "mode_expression": "explicite",
+              "preuves": [
+                "Ca ne veut pas dire qu'ils ne présenteront pas la violence ailleurs."
+              ]
+            }
+          ]
+        },
+        "ironie": "non_detectee",
+        "incertitude": {
+          "cible": "faible",
+          "position": "faible",
+          "argument": "faible"
+        },
+        "exploitabilite_positions": "non_exploitable",
+        "note": "Compte exact et totalité de la couverture non vérifiés."
+      }
+    ],
+    "limites": [
+      "Lecture conversationnelle provisoire, sans évaluation humaine indépendante ni appel API."
+    ]
+  },
+  {
+    "comment_id": "Ugxh4BlP5KUvDY2LHbp4AaABAg.Ac3v_iff0D6Ac4LriM2val",
+    "version_protocole": "pilote-1.0",
+    "version_dictionnaire": "arguments-provisoire-0.1",
+    "sujet": "Violences et dégâts",
+    "pertinence_thematique": "directe",
+    "necessite_parent": "utile",
+    "fonction_reponse": "Approbation partielle du parent mais demande de force dirigée contre les CRS.",
+    "preuves_parent": [],
+    "lien_evenement": {
+      "statut": "non_verifie",
+      "references_hors_evenement": [],
+      "note": "Vidéo, date et lieu non validés; titre et propos ne prouvent pas les faits."
+    },
+    "sujets_associes": [
+      "droits humains",
+      "armée"
+    ],
+    "relations_sujets": [],
+    "positions": [
+      {
+        "position_id": "N028-P1",
+        "cible": {
+          "type": "acteur",
+          "designation": "CRS"
+        },
+        "proposition_evaluee": "Comportements jugés contraires aux droits humains",
+        "position": "critique",
+        "statut_position": "explicite",
+        "preuves_position": [
+          "le comportements des crs est au dela de l'acceptable"
+        ],
+        "argumentation": {
+          "statut": "interpretable",
+          "diagnostic": null,
+          "arguments": [
+            {
+              "code": "ARG_AUTRE",
+              "argument_precis": "Les violations alléguées des droits humains fondent le rejet des comportements des CRS.",
+              "mode_expression": "explicite",
+              "preuves": [
+                "violations constantes des droit de l'homme"
+              ]
+            }
+          ]
+        },
+        "ironie": "non_detectee",
+        "incertitude": {
+          "cible": "faible",
+          "position": "faible",
+          "argument": "faible"
+        },
+        "exploitabilite_positions": "exploitable",
+        "note": "Accusation non vérifiée; l’accord au parent ne suffit pas à fusionner ses cibles avec celles de la réponse."
+      },
+      {
+        "position_id": "N028-P2",
+        "cible": {
+          "type": "action",
+          "designation": "Intervention armée souhaitée contre les CRS"
+        },
+        "proposition_evaluee": "Recours à l’armée présenté comme protection du peuple",
+        "position": "favorable",
+        "statut_position": "explicite",
+        "preuves_position": [
+          "On devrait envoyés l'armée protéger le peuple"
+        ],
+        "argumentation": {
+          "statut": "interpretable",
+          "diagnostic": null,
+          "arguments": [
+            {
+              "code": "ARG_AUTRE",
+              "argument_precis": "La protection du peuple est invoquée pour souhaiter une intervention violente contre les CRS.",
+              "mode_expression": "explicite",
+              "preuves": [
+                "protéger le peuple"
+              ]
+            }
+          ]
+        },
+        "ironie": "non_detectee",
+        "incertitude": {
+          "cible": "faible",
+          "position": "faible",
+          "argument": "faible"
+        },
+        "exploitabilite_positions": "exploitable",
+        "note": "Proposition violente de l’auteur, non endossée. Aucun ajout de moyen ou d’instruction pratique."
+      }
+    ],
+    "limites": [
+      "Lecture conversationnelle provisoire, sans évaluation humaine indépendante ni appel API."
+    ]
+  },
+  {
+    "comment_id": "Ugy5WVfg2HVu5GC6G_Z4AaABAg",
+    "version_protocole": "pilote-1.0",
+    "version_dictionnaire": "arguments-provisoire-0.1",
+    "sujet": "Violences et dégâts",
+    "pertinence_thematique": "directe",
+    "necessite_parent": "sans_parent",
+    "fonction_reponse": null,
+    "preuves_parent": [],
+    "lien_evenement": {
+      "statut": "non_verifie",
+      "references_hors_evenement": [],
+      "note": "Vidéo, date et lieu non validés; titre et propos ne prouvent pas les faits."
+    },
+    "sujets_associes": [],
+    "relations_sujets": [],
+    "positions": [
+      {
+        "position_id": "N029-P1",
+        "cible": {
+          "type": "acteur",
+          "designation": "Débordements et casse"
+        },
+        "proposition_evaluee": "Efficacité comme moyen de changement",
+        "position": "critique",
+        "statut_position": "explicite",
+        "preuves_position": [
+          "les débordements et la casse,ça ne changera rien."
+        ],
+        "argumentation": {
+          "statut": "interpretable",
+          "diagnostic": null,
+          "arguments": [
+            {
+              "code": "ARG_AUTRE",
+              "argument_precis": "La casse est présentée comme inefficace; l’auteur lui oppose un autre mode de pression collective.",
+              "mode_expression": "explicite",
+              "preuves": [
+                "Tout cela ne sert à RIEN."
+              ]
+            }
+          ]
+        },
+        "ironie": "non_detectee",
+        "incertitude": {
+          "cible": "faible",
+          "position": "faible",
+          "argument": "faible"
+        },
+        "exploitabilite_positions": "exploitable",
+        "note": "Critique instrumentale; ne signifie pas refus de la mobilisation. Aucune consigne d’action ajoutée."
+      }
+    ],
+    "limites": [
+      "Lecture conversationnelle provisoire, sans évaluation humaine indépendante ni appel API."
+    ]
+  },
+  {
+    "comment_id": "Ugy45CySIhI1rijKtt14AaABAg",
+    "version_protocole": "pilote-1.0",
+    "version_dictionnaire": "arguments-provisoire-0.1",
+    "sujet": "Violences et dégâts",
+    "pertinence_thematique": "contextuelle",
+    "necessite_parent": "sans_parent",
+    "fonction_reponse": null,
+    "preuves_parent": [],
+    "lien_evenement": {
+      "statut": "non_verifie",
+      "references_hors_evenement": [
+        "Référence aux émeutes BLM aux États-Unis"
+      ],
+      "note": "Vidéo, date et lieu non validés; titre et propos ne prouvent pas les faits."
+    },
+    "sujets_associes": [
+      "comparaison internationale"
+    ],
+    "relations_sujets": [],
+    "positions": [],
+    "limites": [
+      "Lecture conversationnelle provisoire, sans évaluation humaine indépendante ni appel API.",
+      "Comparaison étrangère; ne pas inférer la nationalité des participants français de ce contraste."
+    ]
+  },
+  {
+    "comment_id": "UgzlR70zkAAQNqZ0aeJ4AaABAg",
+    "version_protocole": "pilote-1.0",
+    "version_dictionnaire": "arguments-provisoire-0.1",
+    "sujet": "Violences et dégâts",
+    "pertinence_thematique": "directe",
+    "necessite_parent": "sans_parent",
+    "fonction_reponse": null,
+    "preuves_parent": [],
+    "lien_evenement": {
+      "statut": "non_verifie",
+      "references_hors_evenement": [],
+      "note": "Vidéo, date et lieu non validés; titre et propos ne prouvent pas les faits."
+    },
+    "sujets_associes": [
+      "attributions politiques et migratoires"
+    ],
+    "relations_sujets": [],
+    "positions": [
+      {
+        "position_id": "N031-P1",
+        "cible": {
+          "type": "groupe",
+          "designation": "Groupes qualifiés par l’auteur d’extrême gauche violente et d’instigateurs immigrés"
+        },
+        "proposition_evaluee": "Attribution de violence et d’instigation",
+        "position": "critique",
+        "statut_position": "implicite_etayee",
+        "preuves_position": [
+          "Violent farleft with immigrant instagators"
+        ],
+        "argumentation": {
+          "statut": "absente",
+          "diagnostic": "ARG_ABSENT",
+          "arguments": []
+        },
+        "ironie": "non_detectee",
+        "incertitude": {
+          "cible": "faible",
+          "position": "moderee",
+          "argument": "faible"
+        },
+        "exploitabilite_positions": "a_revoir",
+        "note": "Accusation politique et migratoire brute, sans raison développée. Ne pas reconstruire les identités réelles."
+      }
+    ],
+    "limites": [
+      "Lecture conversationnelle provisoire, sans évaluation humaine indépendante ni appel API.",
+      "Aucune appartenance politique ou origine des participants n’est vérifiée. Juxtaposer dépenses UE/Ukraine et violence ne prouve pas un lien causal."
+    ]
+  },
+  {
+    "comment_id": "UgzwpGv52fSp0q69Tal4AaABAg.Ac8mR-ty0yvAc9EKXq17Ec",
+    "version_protocole": "pilote-1.0",
+    "version_dictionnaire": "arguments-provisoire-0.1",
+    "sujet": "Violences et dégâts",
+    "pertinence_thematique": "directe",
+    "necessite_parent": "utile",
+    "fonction_reponse": "Accord avec une relativisation du parent puis ajout d’une comparaison avec la guerre.",
+    "preuves_parent": [],
+    "lien_evenement": {
+      "statut": "non_verifie",
+      "references_hors_evenement": [],
+      "note": "Vidéo, date et lieu non validés; titre et propos ne prouvent pas les faits."
+    },
+    "sujets_associes": [
+      "violence d’État",
+      "guerre"
+    ],
+    "relations_sujets": [],
+    "positions": [
+      {
+        "position_id": "N032-P1",
+        "cible": {
+          "type": "affirmation",
+          "designation": "Hiérarchie entre politique de guerre et dégâts matériels"
+        },
+        "proposition_evaluee": "Gravité relative de violences attribuées au gouvernement et de la casse",
+        "position": "mitigee",
+        "statut_position": "implicite_etayee",
+        "preuves_position": [
+          "une violence mille fois plus grave que de la casse matérielle !"
+        ],
+        "argumentation": {
+          "statut": "interpretable",
+          "diagnostic": null,
+          "arguments": [
+            {
+              "code": "ARG_AUTRE",
+              "argument_precis": "La préparation d’une guerre attribuée au gouvernement est jugée plus grave que la casse matérielle.",
+              "mode_expression": "explicite",
+              "preuves": [
+                "la violence gouvernementale appelant à préparer la guerre contre la Russie"
+              ]
+            }
+          ]
+        },
+        "ironie": "non_detectee",
+        "incertitude": {
+          "cible": "faible",
+          "position": "moderee",
+          "argument": "faible"
+        },
+        "exploitabilite_positions": "a_revoir",
+        "note": "Relativise une gravité; ne prouve pas un soutien à la casse. Ne pas importer toutes les positions du parent."
+      }
+    ],
+    "limites": [
+      "Lecture conversationnelle provisoire, sans évaluation humaine indépendante ni appel API."
+    ]
+  },
+  {
+    "comment_id": "UgzUnlgACJjVTDKxbYh4AaABAg.Ac6V_-mlzcZAcBu4kBga5z",
+    "version_protocole": "pilote-1.0",
+    "version_dictionnaire": "arguments-provisoire-0.1",
+    "sujet": "Violences et dégâts",
+    "pertinence_thematique": "directe",
+    "necessite_parent": "insuffisant",
+    "fonction_reponse": null,
+    "preuves_parent": [],
+    "lien_evenement": {
+      "statut": "non_verifie",
+      "references_hors_evenement": [],
+      "note": "Vidéo, date et lieu non validés; titre et propos ne prouvent pas les faits."
+    },
+    "sujets_associes": [
+      "démocratie",
+      "pression électorale"
+    ],
+    "relations_sujets": [],
+    "positions": [
+      {
+        "position_id": "N033-P1",
+        "cible": {
+          "type": "affirmation",
+          "designation": "Ultimatum électoral attribué à un interlocuteur"
+        },
+        "proposition_evaluee": "Menacer de casser selon le vote",
+        "position": "critique",
+        "statut_position": "explicite",
+        "preuves_position": [
+          "Comment tu peux dire vote bien sinon on casse tout"
+        ],
+        "argumentation": {
+          "statut": "interpretable",
+          "diagnostic": null,
+          "arguments": [
+            {
+              "code": "ARG_AUTRE",
+              "argument_precis": "L’auteur présente une menace de dégâts conditionnée au vote comme une contrainte totalitaire.",
+              "mode_expression": "explicite",
+              "preuves": [
+                "ça sous-entend le totalitarisme."
+              ]
+            }
+          ]
+        },
+        "ironie": "non_detectee",
+        "incertitude": {
+          "cible": "faible",
+          "position": "faible",
+          "argument": "faible"
+        },
+        "exploitabilite_positions": "exploitable",
+        "note": "Parole attribuée, pas preuve qu’un mouvement a réellement formulé cet ultimatum."
+      }
+    ],
+    "limites": [
+      "Lecture conversationnelle provisoire, sans évaluation humaine indépendante ni appel API.",
+      "La formule critiquée n’apparaît pas dans le parent principal disponible; elle reste identifiable dans la réponse."
+    ]
+  },
+  {
+    "comment_id": "Ugwmq0NKElzpOg3TChp4AaABAg",
+    "version_protocole": "pilote-1.0",
+    "version_dictionnaire": "arguments-provisoire-0.1",
+    "sujet": "Violences et dégâts",
+    "pertinence_thematique": "directe",
+    "necessite_parent": "sans_parent",
+    "fonction_reponse": null,
+    "preuves_parent": [],
+    "lien_evenement": {
+      "statut": "non_verifie",
+      "references_hors_evenement": [],
+      "note": "Vidéo, date et lieu non validés; titre et propos ne prouvent pas les faits."
+    },
+    "sujets_associes": [],
+    "relations_sujets": [],
+    "positions": [
+      {
+        "position_id": "N034-P1",
+        "cible": {
+          "type": "acteur",
+          "designation": "Police et armée"
+        },
+        "proposition_evaluee": "Usage souhaité de tirs réels contre les personnes visées",
+        "position": "favorable",
+        "statut_position": "explicite",
+        "preuves_position": [
+          "vivement que la police et l armée tire à balle reel"
+        ],
+        "argumentation": {
+          "statut": "interpretable",
+          "diagnostic": null,
+          "arguments": [
+            {
+              "code": "ARG_AUTRE",
+              "argument_precis": "Le recours à la force est présenté comme devant empêcher les personnes visées de sortir.",
+              "mode_expression": "explicite",
+              "preuves": [
+                "vous allez y restez chez vous"
+              ]
+            }
+          ]
+        },
+        "ironie": "non_detectee",
+        "incertitude": {
+          "cible": "faible",
+          "position": "faible",
+          "argument": "faible"
+        },
+        "exploitabilite_positions": "exploitable",
+        "note": "Souhait violent, pas un acte observé. Ne pas ajouter de cible ou de moyen absent du texte."
+      }
+    ],
+    "limites": [
+      "Lecture conversationnelle provisoire, sans évaluation humaine indépendante ni appel API.",
+      "Texte contenant des insultes racistes; elles sont conservées comme données, sans profilage de l’auteur ni approbation."
+    ]
+  },
+  {
+    "comment_id": "Ugwvh2qAUA1V6_ohW2l4AaABAg.Ac7G3d3vXiKAc88sHi7OX7",
+    "version_protocole": "pilote-1.0",
+    "version_dictionnaire": "arguments-provisoire-0.1",
+    "sujet": "Violences et dégâts",
+    "pertinence_thematique": "contextuelle",
+    "necessite_parent": "utile",
+    "fonction_reponse": null,
+    "preuves_parent": [],
+    "lien_evenement": {
+      "statut": "non_verifie",
+      "references_hors_evenement": [],
+      "note": "Vidéo, date et lieu non validés; titre et propos ne prouvent pas les faits."
+    },
+    "sujets_associes": [
+      "politique",
+      "racisme",
+      "justice"
+    ],
+    "relations_sujets": [],
+    "positions": [],
+    "limites": [
+      "Lecture conversationnelle provisoire, sans évaluation humaine indépendante ni appel API.",
+      "La réponse parle de prison et de politique; ne pas lui attribuer le scénario de matraquage des CRS du parent."
+    ]
+  },
+  {
+    "comment_id": "UgzmnBgBEwbQ1empI0Z4AaABAg.Ac8kD5d47ZGAcHfrq1JMXL",
+    "version_protocole": "pilote-1.0",
+    "version_dictionnaire": "arguments-provisoire-0.1",
+    "sujet": "Violences et dégâts",
+    "pertinence_thematique": "directe",
+    "necessite_parent": "indispensable",
+    "fonction_reponse": "Défense du comportement antérieur de la personne évoquée.",
+    "preuves_parent": [],
+    "lien_evenement": {
+      "statut": "non_verifie",
+      "references_hors_evenement": [],
+      "note": "Vidéo, date et lieu non validés; titre et propos ne prouvent pas les faits."
+    },
+    "sujets_associes": [],
+    "relations_sujets": [],
+    "positions": [
+      {
+        "position_id": "N036-P1",
+        "cible": {
+          "type": "acteur",
+          "designation": "Personne dont le comportement antérieur est demandé"
+        },
+        "proposition_evaluee": "Légitimité du comportement avant l’incident évoqué",
+        "position": "favorable",
+        "statut_position": "implicite_etayee",
+        "preuves_position": [
+          "il voulait juste defendre un lycéen des CRS"
+        ],
+        "argumentation": {
+          "statut": "interpretable",
+          "diagnostic": null,
+          "arguments": [
+            {
+              "code": "ARG_AUTRE",
+              "argument_precis": "La défense d’un lycéen est présentée comme un motif disculpant le comportement antérieur.",
+              "mode_expression": "implicite_etaye",
+              "preuves": [
+                "defendre un lycéen des CRS"
+              ]
+            }
+          ]
+        },
+        "ironie": "non_detectee",
+        "incertitude": {
+          "cible": "moderee",
+          "position": "moderee",
+          "argument": "faible"
+        },
+        "exploitabilite_positions": "a_revoir",
+        "note": "Ne suffit pas à classifier un acte précis des CRS ni à vérifier une agression."
+      }
+    ],
+    "limites": [
+      "Lecture conversationnelle provisoire, sans évaluation humaine indépendante ni appel API.",
+      "Le titre et le commentaire ne prouvent pas les faits; identité de la personne non nécessaire."
+    ]
+  },
+  {
+    "comment_id": "UgwhJKzWg0qVDh95VAp4AaABAg.AcHQjAQJWMTAcIcGU_bvAk",
+    "version_protocole": "pilote-1.0",
+    "version_dictionnaire": "arguments-provisoire-0.1",
+    "sujet": "Violences et dégâts",
+    "pertinence_thematique": "contextuelle",
+    "necessite_parent": "utile",
+    "fonction_reponse": "Appui à la critique du traitement médiatique du parent.",
+    "preuves_parent": [],
+    "lien_evenement": {
+      "statut": "non_verifie",
+      "references_hors_evenement": [],
+      "note": "Vidéo, date et lieu non validés; titre et propos ne prouvent pas les faits."
+    },
+    "sujets_associes": [
+      "médias",
+      "revendications"
+    ],
+    "relations_sujets": [],
+    "positions": [
+      {
+        "position_id": "N037-P1",
+        "cible": {
+          "type": "acteur",
+          "designation": "Médias"
+        },
+        "proposition_evaluee": "Présentation des violences au détriment des manifestations pacifiques",
+        "position": "critique",
+        "statut_position": "explicite",
+        "preuves_position": [
+          "Ces médias ne voient que le chaos partout."
+        ],
+        "argumentation": {
+          "statut": "interpretable",
+          "diagnostic": null,
+          "arguments": [
+            {
+              "code": "M01",
+              "argument_precis": "L’auteur oppose les images pacifiques et les revendications à une couverture centrée sur le chaos.",
+              "mode_expression": "explicite",
+              "preuves": [
+                "Ils n'ont jamais montré les images des centaines de milliers de manifestants pacifiques."
+              ]
+            },
+            {
+              "code": "ARG_AUTRE",
+              "argument_precis": "Un chiffre de casseurs est critiqué pour l’absence alléguée de vérification possible.",
+              "mode_expression": "explicite",
+              "preuves": [
+                "Jusqu'à parler de 30 000 casseurs sans moyens de vérification possible."
+              ]
+            }
+          ]
+        },
+        "ironie": "non_detectee",
+        "incertitude": {
+          "cible": "faible",
+          "position": "faible",
+          "argument": "faible"
+        },
+        "exploitabilite_positions": "non_exploitable",
+        "note": ""
+      }
+    ],
+    "limites": [
+      "Lecture conversationnelle provisoire, sans évaluation humaine indépendante ni appel API."
+    ]
+  },
+  {
+    "comment_id": "UgzkUANoCrsuaCiWDPZ4AaABAg.Ac4XTIZZPgoAc4kemNDc9p",
+    "version_protocole": "pilote-1.0",
+    "version_dictionnaire": "arguments-provisoire-0.1",
+    "sujet": "Violences et dégâts",
+    "pertinence_thematique": "contextuelle",
+    "necessite_parent": "insuffisant",
+    "fonction_reponse": "Maxime générale en réponse à une réaction de tristesse.",
+    "preuves_parent": [],
+    "lien_evenement": {
+      "statut": "non_verifie",
+      "references_hors_evenement": [],
+      "note": "Vidéo, date et lieu non validés; titre et propos ne prouvent pas les faits."
+    },
+    "sujets_associes": [],
+    "relations_sujets": [],
+    "positions": [
+      {
+        "position_id": "N038-P1",
+        "cible": {
+          "type": "affirmation",
+          "designation": "Gravité de la violence évoquée"
+        },
+        "proposition_evaluee": "Sens de la maxime sur la vie violente",
+        "position": "indeterminable",
+        "statut_position": "indeterminable",
+        "preuves_position": [
+          "La vie c'est violent."
+        ],
+        "argumentation": {
+          "statut": "ambigue",
+          "diagnostic": "ARG_AMBIGU",
+          "arguments": []
+        },
+        "ironie": "non_detectee",
+        "incertitude": {
+          "cible": "faible",
+          "position": "forte",
+          "argument": "forte"
+        },
+        "exploitabilite_positions": "non_exploitable",
+        "note": ""
+      }
+    ],
+    "limites": [
+      "Lecture conversationnelle provisoire, sans évaluation humaine indépendante ni appel API.",
+      "Peut banaliser ou simplement décrire la violence; attitude non décidée à partir de cette phrase seule."
+    ]
+  },
+  {
+    "comment_id": "UgyOmeyozSYYRUpocvl4AaABAg",
+    "version_protocole": "pilote-1.0",
+    "version_dictionnaire": "arguments-provisoire-0.1",
+    "sujet": "Violences et dégâts",
+    "pertinence_thematique": "directe",
+    "necessite_parent": "sans_parent",
+    "fonction_reponse": null,
+    "preuves_parent": [],
+    "lien_evenement": {
+      "statut": "non_verifie",
+      "references_hors_evenement": [],
+      "note": "Vidéo, date et lieu non validés; titre et propos ne prouvent pas les faits."
+    },
+    "sujets_associes": [],
+    "relations_sujets": [],
+    "positions": [
+      {
+        "position_id": "N039-P1",
+        "cible": {
+          "type": "acteur",
+          "designation": "Police"
+        },
+        "proposition_evaluee": "Opposition à des violences qualifiées d’illégitimes",
+        "position": "favorable",
+        "statut_position": "implicite_etayee",
+        "preuves_position": [
+          "Vive la police contre les violences illégitimes"
+        ],
+        "argumentation": {
+          "statut": "interpretable",
+          "diagnostic": null,
+          "arguments": [
+            {
+              "code": "ARG_AUTRE",
+              "argument_precis": "La qualification des violences comme illégitimes est un motif implicite du soutien à l’intervention.",
+              "mode_expression": "implicite_etaye",
+              "preuves": [
+                "Vive la police contre les violences illégitimes"
+              ]
+            }
+          ]
+        },
+        "ironie": "non_detectee",
+        "incertitude": {
+          "cible": "faible",
+          "position": "moderee",
+          "argument": "faible"
+        },
+        "exploitabilite_positions": "a_revoir",
+        "note": "Frontière entre simple position et argument normatif à valider; aucun moyen policier précis approuvé."
+      }
+    ],
+    "limites": [
+      "Lecture conversationnelle provisoire, sans évaluation humaine indépendante ni appel API."
+    ]
+  },
+  {
+    "comment_id": "Ugx6bp4dHMS7mzJ6RcV4AaABAg",
+    "version_protocole": "pilote-1.0",
+    "version_dictionnaire": "arguments-provisoire-0.1",
+    "sujet": "Violences et dégâts",
+    "pertinence_thematique": "directe",
+    "necessite_parent": "sans_parent",
+    "fonction_reponse": null,
+    "preuves_parent": [],
+    "lien_evenement": {
+      "statut": "non_verifie",
+      "references_hors_evenement": [],
+      "note": "Vidéo, date et lieu non validés; titre et propos ne prouvent pas les faits."
+    },
+    "sujets_associes": [],
+    "relations_sujets": [],
+    "positions": [
+      {
+        "position_id": "N040-P1",
+        "cible": {
+          "type": "acteur",
+          "designation": "Casseurs"
+        },
+        "proposition_evaluee": "Demande de mise hors d’état de nuire",
+        "position": "critique",
+        "statut_position": "explicite",
+        "preuves_position": [
+          "mettre ces voyous de casseurs hors d'état de nuire"
+        ],
+        "argumentation": {
+          "statut": "absente",
+          "diagnostic": "ARG_ABSENT",
+          "arguments": []
+        },
+        "ironie": "non_detectee",
+        "incertitude": {
+          "cible": "faible",
+          "position": "faible",
+          "argument": "faible"
+        },
+        "exploitabilite_positions": "exploitable",
+        "note": "Demande de neutralisation, mais agent et moyens non précisés; ne pas ajouter la police ou une punition particulière."
+      }
+    ],
+    "limites": [
+      "Lecture conversationnelle provisoire, sans évaluation humaine indépendante ni appel API."
+    ]
+  },
+  {
+    "comment_id": "UgzQY0OKsnHiqzjrKkx4AaABAg.Ac6CGDR5Ot0Ac6LylxVz1Z",
+    "version_protocole": "pilote-1.0",
+    "version_dictionnaire": "arguments-provisoire-0.1",
+    "sujet": "Violences et dégâts",
+    "pertinence_thematique": "directe",
+    "necessite_parent": "indispensable",
+    "fonction_reponse": "Conteste un lien causal gaz/pillage tout en demandant d’étudier les conditions des débordements.",
+    "preuves_parent": [],
+    "lien_evenement": {
+      "statut": "non_verifie",
+      "references_hors_evenement": [],
+      "note": "Vidéo, date et lieu non validés; titre et propos ne prouvent pas les faits."
+    },
+    "sujets_associes": [
+      "causalité des violences",
+      "enquête"
+    ],
+    "relations_sujets": [
+      {
+        "sujet_source": "groupes profitant des tensions",
+        "sujet_cible": "pillages",
+        "relation": "responsabilite_attribuee",
+        "resume": "Les pillages sont attribués à des groupes profitant des tensions.",
+        "preuves": [
+          "c'est le fait de bandes de casseurs et pilleurs qui profitent des tensions"
+        ]
+      }
+    ],
+    "positions": [
+      {
+        "position_id": "N041-P1",
+        "cible": {
+          "type": "affirmation",
+          "designation": "Lien causal entre gazage et pillages"
+        },
+        "proposition_evaluee": "Attribution des pillages à l’action policière",
+        "position": "critique",
+        "statut_position": "explicite",
+        "preuves_position": [
+          "Le pillage n'est pas une conséquences de l'emploi des gaz lacrymogènes"
+        ],
+        "argumentation": {
+          "statut": "interpretable",
+          "diagnostic": null,
+          "arguments": [
+            {
+              "code": "ARG_AUTRE",
+              "argument_precis": "L’auteur attribue les pillages à des groupes profitant des tensions, plutôt qu’aux gaz eux-mêmes.",
+              "mode_expression": "explicite",
+              "preuves": [
+                "c'est le fait de bandes de casseurs et pilleurs qui profitent des tensions"
+              ]
+            }
+          ]
+        },
+        "ironie": "non_detectee",
+        "incertitude": {
+          "cible": "faible",
+          "position": "faible",
+          "argument": "faible"
+        },
+        "exploitabilite_positions": "exploitable",
+        "note": "Ne pas convertir cette contestation causale en soutien à tous les actes policiers ou en constat de faits."
+      }
+    ],
+    "limites": [
+      "Lecture conversationnelle provisoire, sans évaluation humaine indépendante ni appel API."
+    ]
+  },
+  {
+    "comment_id": "Ugyzj10-FiRvUc75YsV4AaABAg.Ac75uUWRK7fAc8t0M5CHcK",
+    "version_protocole": "pilote-1.0",
+    "version_dictionnaire": "arguments-provisoire-0.1",
+    "sujet": "Violences et dégâts",
+    "pertinence_thematique": "directe",
+    "necessite_parent": "indispensable",
+    "fonction_reponse": "Conteste une attribution politique et avance une hypothèse alternative.",
+    "preuves_parent": [],
+    "lien_evenement": {
+      "statut": "non_verifie",
+      "references_hors_evenement": [],
+      "note": "Vidéo, date et lieu non validés; titre et propos ne prouvent pas les faits."
+    },
+    "sujets_associes": [
+      "responsabilité politique"
+    ],
+    "relations_sujets": [],
+    "positions": [
+      {
+        "position_id": "N042-P1",
+        "cible": {
+          "type": "affirmation",
+          "designation": "Attribution des casseurs à l’ultragauche"
+        },
+        "proposition_evaluee": "Fondement de l’étiquetage politique",
+        "position": "critique",
+        "statut_position": "explicite",
+        "preuves_position": [
+          "vous désignez comment leur positionnement politique sans enquête ?"
+        ],
+        "argumentation": {
+          "statut": "interpretable",
+          "diagnostic": null,
+          "arguments": [
+            {
+              "code": "A12",
+              "argument_precis": "L’absence d’enquête est invoquée pour contester l’attribution politique certaine.",
+              "mode_expression": "explicite",
+              "preuves": [
+                "sans enquête"
+              ]
+            }
+          ]
+        },
+        "ironie": "non_detectee",
+        "incertitude": {
+          "cible": "faible",
+          "position": "faible",
+          "argument": "faible"
+        },
+        "exploitabilite_positions": "exploitable",
+        "note": "Ni preuve d’innocence ni preuve de l’hypothèse alternative."
+      }
+    ],
+    "limites": [
+      "Lecture conversationnelle provisoire, sans évaluation humaine indépendante ni appel API.",
+      "L’hypothèse d’une implication d’extrême droite n’est pas annotée comme un fait ou une responsabilité établie."
+    ]
+  },
+  {
+    "comment_id": "UgyivRpJlDN7kTxuSjZ4AaABAg.Ac60fZZKm7TAcAy7rlz57s",
+    "version_protocole": "pilote-1.0",
+    "version_dictionnaire": "arguments-provisoire-0.1",
+    "sujet": "Violences et dégâts",
+    "pertinence_thematique": "directe",
+    "necessite_parent": "utile",
+    "fonction_reponse": "Explique les pillages et déplace l’attention vers les causes sociales.",
+    "preuves_parent": [],
+    "lien_evenement": {
+      "statut": "non_verifie",
+      "references_hors_evenement": [],
+      "note": "Vidéo, date et lieu non validés; titre et propos ne prouvent pas les faits."
+    },
+    "sujets_associes": [
+      "conditions sociales",
+      "capitalisme"
+    ],
+    "relations_sujets": [
+      {
+        "sujet_source": "frustration et colère",
+        "sujet_cible": "pillages",
+        "relation": "cause_attribuee",
+        "resume": "Les pillages sont expliqués par frustration et colère.",
+        "preuves": [
+          "Les pillages sont l'expression d'une frustration et d'une colère."
+        ]
+      }
+    ],
+    "positions": [
+      {
+        "position_id": "N043-P1",
+        "cible": {
+          "type": "acteur",
+          "designation": "Pillages"
+        },
+        "proposition_evaluee": "Expression de frustration et de colère",
+        "position": "descriptive",
+        "statut_position": "non_evaluative",
+        "preuves_position": [
+          "Les pillages sont l'expression d'une frustration et d'une colère."
+        ],
+        "argumentation": {
+          "statut": "interpretable",
+          "diagnostic": null,
+          "arguments": [
+            {
+              "code": "ARG_AUTRE",
+              "argument_precis": "Les pillages sont présentés comme expression de frustration, non comme moyen efficace d’améliorer la société.",
+              "mode_expression": "explicite",
+              "preuves": [
+                "Les pillages sont l'expression d'une frustration et d'une colère."
+              ]
+            }
+          ]
+        },
+        "ironie": "non_detectee",
+        "incertitude": {
+          "cible": "faible",
+          "position": "faible",
+          "argument": "faible"
+        },
+        "exploitabilite_positions": "non_exploitable",
+        "note": "Explication causale; ne pas coder une approbation morale ni reprendre automatiquement la condamnation du parent."
+      },
+      {
+        "position_id": "N043-P2",
+        "cible": {
+          "type": "affirmation",
+          "designation": "Jugement des pillages sans examen de leurs causes"
+        },
+        "proposition_evaluee": "Nécessité de comprendre les causes sociales",
+        "position": "critique",
+        "statut_position": "explicite",
+        "preuves_position": [
+          "les juger sans aller jusque dans leurs causes"
+        ],
+        "argumentation": {
+          "statut": "interpretable",
+          "diagnostic": null,
+          "arguments": [
+            {
+              "code": "ARG_AUTRE",
+              "argument_precis": "L’auteur juge insuffisante une condamnation qui écarte les effets négatifs qu’il attribue au modèle social.",
+              "mode_expression": "explicite",
+              "preuves": [
+                "notre modèle de société, le capitaliste, est délétère et létal pour nous."
+              ]
+            }
+          ]
+        },
+        "ironie": "non_detectee",
+        "incertitude": {
+          "cible": "faible",
+          "position": "faible",
+          "argument": "faible"
+        },
+        "exploitabilite_positions": "exploitable",
+        "note": "Attribution politique de l’auteur, pas validation d’une causalité économique."
+      }
+    ],
+    "limites": [
+      "Lecture conversationnelle provisoire, sans évaluation humaine indépendante ni appel API."
+    ]
+  },
+  {
+    "comment_id": "UgxIYrFimW0-3Y_njHB4AaABAg",
+    "version_protocole": "pilote-1.0",
+    "version_dictionnaire": "arguments-provisoire-0.1",
+    "sujet": "Violences et dégâts",
+    "pertinence_thematique": "directe",
+    "necessite_parent": "sans_parent",
+    "fonction_reponse": null,
+    "preuves_parent": [],
+    "lien_evenement": {
+      "statut": "non_verifie",
+      "references_hors_evenement": [],
+      "note": "Vidéo, date et lieu non validés; titre et propos ne prouvent pas les faits."
+    },
+    "sujets_associes": [],
+    "relations_sujets": [],
+    "positions": [
+      {
+        "position_id": "N044-P1",
+        "cible": {
+          "type": "action",
+          "designation": "Instauration de la loi martiale"
+        },
+        "proposition_evaluee": "Moyen souhaité pour arrêter les violences",
+        "position": "favorable",
+        "statut_position": "explicite",
+        "preuves_position": [
+          "MARTIAL LAW!!!!"
+        ],
+        "argumentation": {
+          "statut": "interpretable",
+          "diagnostic": null,
+          "arguments": [
+            {
+              "code": "ARG_AUTRE",
+              "argument_precis": "La cessation de la violence est l’objectif invoqué pour demander cette mesure.",
+              "mode_expression": "explicite",
+              "preuves": [
+                "STOP THE VIOLENCE!!!!"
+              ]
+            }
+          ]
+        },
+        "ironie": "non_detectee",
+        "incertitude": {
+          "cible": "faible",
+          "position": "faible",
+          "argument": "faible"
+        },
+        "exploitabilite_positions": "exploitable",
+        "note": "Souhait coercitif; pas de modalités juridiques ou opérationnelles ajoutées."
+      }
+    ],
+    "limites": [
+      "Lecture conversationnelle provisoire, sans évaluation humaine indépendante ni appel API."
+    ]
+  },
+  {
+    "comment_id": "Ugzg564nb6qKknvpXgF4AaABAg",
+    "version_protocole": "pilote-1.0",
+    "version_dictionnaire": "arguments-provisoire-0.1",
+    "sujet": "Violences et dégâts",
+    "pertinence_thematique": "incertaine",
+    "necessite_parent": "sans_parent",
+    "fonction_reponse": null,
+    "preuves_parent": [],
+    "lien_evenement": {
+      "statut": "non_verifie",
+      "references_hors_evenement": [],
+      "note": "Vidéo, date et lieu non validés; titre et propos ne prouvent pas les faits."
+    },
+    "sujets_associes": [
+      "vocabulaire politique"
+    ],
+    "relations_sujets": [],
+    "positions": [],
+    "limites": [
+      "Lecture conversationnelle provisoire, sans évaluation humaine indépendante ni appel API.",
+      "Métaphore sur le mot asymétrie et la macronie; pas de cible et position assez certaines sur un acte violent."
+    ]
+  },
+  {
+    "comment_id": "UgwCrAv9FCFgG_KS6yl4AaABAg",
+    "version_protocole": "pilote-1.0",
+    "version_dictionnaire": "arguments-provisoire-0.1",
+    "sujet": "Violences et dégâts",
+    "pertinence_thematique": "directe",
+    "necessite_parent": "sans_parent",
+    "fonction_reponse": null,
+    "preuves_parent": [],
+    "lien_evenement": {
+      "statut": "non_verifie",
+      "references_hors_evenement": [],
+      "note": "Vidéo, date et lieu non validés; titre et propos ne prouvent pas les faits."
+    },
+    "sujets_associes": [],
+    "relations_sujets": [],
+    "positions": [
+      {
+        "position_id": "N046-P1",
+        "cible": {
+          "type": "acteur",
+          "designation": "Dégradations d’une voiture"
+        },
+        "proposition_evaluee": "Rejet de l’atteinte au bien personnel envisagée",
+        "position": "critique",
+        "statut_position": "implicite_etayee",
+        "preuves_position": [
+          "comment mon pays est tombé si bas moi on me casse ma voiture ainsi"
+        ],
+        "argumentation": {
+          "statut": "interpretable",
+          "diagnostic": null,
+          "arguments": [
+            {
+              "code": "ARG_AUTRE",
+              "argument_precis": "L’atteinte hypothétique à sa propre voiture soutient le rejet des dégradations.",
+              "mode_expression": "implicite_etaye",
+              "preuves": [
+                "on me casse ma voiture"
+              ]
+            }
+          ]
+        },
+        "ironie": "non_detectee",
+        "incertitude": {
+          "cible": "faible",
+          "position": "moderee",
+          "argument": "faible"
+        },
+        "exploitabilite_positions": "a_revoir",
+        "note": "Ne pas coder automatiquement une méthode de représailles à partir de G..."
+      }
+    ],
+    "limites": [
+      "Lecture conversationnelle provisoire, sans évaluation humaine indépendante ni appel API.",
+      "Réaction personnelle hypothétique et abréviation G.. non résolue; ne pas déduire une arme précise."
+    ]
+  },
+  {
+    "comment_id": "UgxKQXJJW2kOP-2-zQR4AaABAg",
+    "version_protocole": "pilote-1.0",
+    "version_dictionnaire": "arguments-provisoire-0.1",
+    "sujet": "Violences et dégâts",
+    "pertinence_thematique": "directe",
+    "necessite_parent": "sans_parent",
+    "fonction_reponse": null,
+    "preuves_parent": [],
+    "lien_evenement": {
+      "statut": "non_verifie",
+      "references_hors_evenement": [],
+      "note": "Vidéo, date et lieu non validés; titre et propos ne prouvent pas les faits."
+    },
+    "sujets_associes": [
+      "responsabilité politique"
+    ],
+    "relations_sujets": [
+      {
+        "sujet_source": "ordres politiques",
+        "sujet_cible": "action policière",
+        "relation": "responsabilite_attribuee",
+        "resume": "Le blâme est déplacé de policiers exécutants vers Macron.",
+        "preuves": [
+          "police just being told what to do , macron is the problem"
+        ]
+      }
+    ],
+    "positions": [
+      {
+        "position_id": "N047-P1",
+        "cible": {
+          "type": "affirmation",
+          "designation": "Responsabilité directe attribuée à la police"
+        },
+        "proposition_evaluee": "Part d’autonomie de policiers obéissant à des ordres",
+        "position": "mitigee",
+        "statut_position": "implicite_etayee",
+        "preuves_position": [
+          "police just being told what to do"
+        ],
+        "argumentation": {
+          "statut": "interpretable",
+          "diagnostic": null,
+          "arguments": [
+            {
+              "code": "ARG_AUTRE",
+              "argument_precis": "L’obéissance à des ordres est invoquée pour déplacer le blâme vers Macron.",
+              "mode_expression": "implicite_etaye",
+              "preuves": [
+                "police just being told what to do"
+              ]
+            }
+          ]
+        },
+        "ironie": "non_detectee",
+        "incertitude": {
+          "cible": "faible",
+          "position": "moderee",
+          "argument": "faible"
+        },
+        "exploitabilite_positions": "a_revoir",
+        "note": "Relativisation de responsabilité, pas approbation morale de tous les actes ni preuve des ordres."
+      },
+      {
+        "position_id": "N047-P2",
+        "cible": {
+          "type": "acteur",
+          "designation": "Macron"
+        },
+        "proposition_evaluee": "Responsabilité politique dans les actions policières évoquées",
+        "position": "critique",
+        "statut_position": "implicite_etayee",
+        "preuves_position": [
+          "macron is the problem"
+        ],
+        "argumentation": {
+          "statut": "interpretable",
+          "diagnostic": null,
+          "arguments": [
+            {
+              "code": "ARG_AUTRE",
+              "argument_precis": "La police est présentée comme exécutante, ce qui soutient le blâme politique de Macron.",
+              "mode_expression": "implicite_etaye",
+              "preuves": [
+                "police just being told what to do"
+              ]
+            }
+          ]
+        },
+        "ironie": "non_detectee",
+        "incertitude": {
+          "cible": "faible",
+          "position": "moderee",
+          "argument": "faible"
+        },
+        "exploitabilite_positions": "a_revoir",
+        "note": "Lien exprimé dans le discours, pas chaîne de commandement vérifiée."
+      }
+    ],
+    "limites": [
+      "Lecture conversationnelle provisoire, sans évaluation humaine indépendante ni appel API."
+    ]
+  },
+  {
+    "comment_id": "UgxmQy_vv27X5TMfX6B4AaABAg",
+    "version_protocole": "pilote-1.0",
+    "version_dictionnaire": "arguments-provisoire-0.1",
+    "sujet": "Violences et dégâts",
+    "pertinence_thematique": "directe",
+    "necessite_parent": "sans_parent",
+    "fonction_reponse": null,
+    "preuves_parent": [],
+    "lien_evenement": {
+      "statut": "non_verifie",
+      "references_hors_evenement": [],
+      "note": "Vidéo, date et lieu non validés; titre et propos ne prouvent pas les faits."
+    },
+    "sujets_associes": [
+      "hiérarchie des violences"
+    ],
+    "relations_sujets": [],
+    "positions": [
+      {
+        "position_id": "N048-P1",
+        "cible": {
+          "type": "affirmation",
+          "designation": "Priorité donnée aux objets plutôt qu’aux humains"
+        },
+        "proposition_evaluee": "Hiérarchie des préjudices dans les réactions",
+        "position": "critique",
+        "statut_position": "explicite",
+        "preuves_position": [
+          "plus d'empathie pour des objets que pour des humains..."
+        ],
+        "argumentation": {
+          "statut": "interpretable",
+          "diagnostic": null,
+          "arguments": [
+            {
+              "code": "ARG_AUTRE",
+              "argument_precis": "Le préjudice humain est invoqué pour contester la gravité prioritaire accordée aux objets brûlés.",
+              "mode_expression": "explicite",
+              "preuves": [
+                "la vrai violence c est pas des lime qui brulent"
+              ]
+            }
+          ]
+        },
+        "ironie": "non_detectee",
+        "incertitude": {
+          "cible": "faible",
+          "position": "faible",
+          "argument": "faible"
+        },
+        "exploitabilite_positions": "exploitable",
+        "note": "Ne prouve pas l’approbation d’incendies ni une position précise envers la police."
+      }
+    ],
+    "limites": [
+      "Lecture conversationnelle provisoire, sans évaluation humaine indépendante ni appel API."
+    ]
+  },
+  {
+    "comment_id": "UgzTbPvklHpf3Uwq1H94AaABAg",
+    "version_protocole": "pilote-1.0",
+    "version_dictionnaire": "arguments-provisoire-0.1",
+    "sujet": "Violences et dégâts",
+    "pertinence_thematique": "directe",
+    "necessite_parent": "sans_parent",
+    "fonction_reponse": null,
+    "preuves_parent": [],
+    "lien_evenement": {
+      "statut": "non_verifie",
+      "references_hors_evenement": [],
+      "note": "Vidéo, date et lieu non validés; titre et propos ne prouvent pas les faits."
+    },
+    "sujets_associes": [
+      "responsabilité politique"
+    ],
+    "relations_sujets": [
+      {
+        "sujet_source": "répression",
+        "sujet_cible": "vandalisme",
+        "relation": "cause_attribuee",
+        "resume": "Le vandalisme est attribué à la répression du préfet.",
+        "preuves": [
+          "vous avez mis le feu aux poutres avec la repression"
+        ]
+      }
+    ],
+    "positions": [
+      {
+        "position_id": "N049-P1",
+        "cible": {
+          "type": "acteur",
+          "designation": "Préfet"
+        },
+        "proposition_evaluee": "Responsabilité attribuée dans le vandalisme",
+        "position": "critique",
+        "statut_position": "explicite",
+        "preuves_position": [
+          "vous vous etes le premier responsable  de ce vandalisme"
+        ],
+        "argumentation": {
+          "statut": "interpretable",
+          "diagnostic": null,
+          "arguments": [
+            {
+              "code": "ARG_AUTRE",
+              "argument_precis": "La répression systématique est présentée comme facteur du vandalisme et de la rupture avec le peuple.",
+              "mode_expression": "explicite",
+              "preuves": [
+                "vous avez mis le feu aux poutres avec la repression"
+              ]
+            }
+          ]
+        },
+        "ironie": "non_detectee",
+        "incertitude": {
+          "cible": "faible",
+          "position": "faible",
+          "argument": "faible"
+        },
+        "exploitabilite_positions": "exploitable",
+        "note": "Image causale de l’auteur; ne pas transformer en accusation d’incendie matériel par le préfet."
+      }
+    ],
+    "limites": [
+      "Lecture conversationnelle provisoire, sans évaluation humaine indépendante ni appel API."
+    ]
+  },
+  {
+    "comment_id": "Ugyi6OEI16SeJTC5z_Z4AaABAg.AcDcn9kHbFqAcGjeHjXzWy",
+    "version_protocole": "pilote-1.0",
+    "version_dictionnaire": "arguments-provisoire-0.1",
+    "sujet": "Violences et dégâts",
+    "pertinence_thematique": "directe",
+    "necessite_parent": "utile",
+    "fonction_reponse": "Conteste la proposition systémique du parent et anticipe une conséquence autoritaire.",
+    "preuves_parent": [],
+    "lien_evenement": {
+      "statut": "non_verifie",
+      "references_hors_evenement": [],
+      "note": "Vidéo, date et lieu non validés; titre et propos ne prouvent pas les faits."
+    },
+    "sujets_associes": [
+      "politique",
+      "conséquences des dégâts"
+    ],
+    "relations_sujets": [],
+    "positions": [
+      {
+        "position_id": "N050-P1",
+        "cible": {
+          "type": "acteur",
+          "designation": "Auteurs des dégradations"
+        },
+        "proposition_evaluee": "Conséquence autoritaire anticipée des dégâts",
+        "position": "critique",
+        "statut_position": "implicite_etayee",
+        "preuves_position": [
+          "Ceux qui ont tout cassé pourront se féliciter d’avoir apporté un régime autoritaire"
+        ],
+        "argumentation": {
+          "statut": "interpretable",
+          "diagnostic": null,
+          "arguments": [
+            {
+              "code": "ARG_AUTRE",
+              "argument_precis": "Les destructions sont présentées comme favorisant un futur régime autoritaire.",
+              "mode_expression": "implicite_etaye",
+              "preuves": [
+                "Ceux qui ont tout cassé pourront se féliciter d’avoir apporté un régime autoritaire"
+              ]
+            }
+          ]
+        },
+        "ironie": "probable",
+        "incertitude": {
+          "cible": "faible",
+          "position": "moderee",
+          "argument": "faible"
+        },
+        "exploitabilite_positions": "a_revoir",
+        "note": "Prédiction de l’auteur; pas un fait établi, pas un remerciement littéral aux auteurs de dégâts."
+      }
+    ],
+    "limites": [
+      "Lecture conversationnelle provisoire, sans évaluation humaine indépendante ni appel API."
+    ]
+  }
+]

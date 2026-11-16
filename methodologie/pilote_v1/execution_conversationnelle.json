@@ -1,0 +1,14 @@
+{
+  "statut": "essai_conversationnel_provisoire_non_valide",
+  "n_commentaires": 50,
+  "positions": 48,
+  "mode": "Lecture directe par assistant conversationnel avec protocoleV1; aucun appel API ni modèle/version figés.",
+  "source_sha256": "48aaa8f4268d34e63451aac34d87118764f3a4ac36a618df9231fa51729819a4",
+  "protocole_sha256": "9a582eaf0e01ae8a881706b8af71a2028bc16a400bbf3d051454abee04063b0b",
+  "dictionnaire_sha256": "1a168f6b11c654193fcd29c3c4737483fe3723e2ec836e4aa6123bc7060d185c",
+  "schema_sha256": "a4bae06c2c4e53114f5f0214071718b5403ea877e0906707e2c5292a9a143202",
+  "validation_humaine": "aucune sur ce lot50",
+  "lien_evenement": "non vérifié; références étrangères/historiques ou à d’autres dates signalées",
+  "limite": "Essai de protocole, pas évaluation de performance indépendante ni entraînement.",
+  "annotations_sha256": "111ac3993a5438e431bfa822d5ae2f78c116cadcf7a44cd3f4f9d30f21244586"
+}

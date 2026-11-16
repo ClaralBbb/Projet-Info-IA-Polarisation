@@ -1,0 +1,168 @@
+{
+  "version": "arguments-provisoire-0.1",
+  "statut": "provisoire_non_valide",
+  "origine": "Lecture exploratoire des90 textes; définitions proposées dans la conversation, pas catégories apprises.",
+  "categories": [
+    {
+      "code": "A01",
+      "intitule": "Défaillance du maintien de l’ordre",
+      "definition": "Absence, incapacité ou inefficacité supposée face aux dégâts.",
+      "inclusion": "Absence ou défaut de prévention lié aux dégradations.",
+      "exclusion": "Complicité volontaire à distinguer; force excessive.",
+      "exemple1": "L003 : police impuissante",
+      "exemple2": "L068 : dégâts et absence policière"
+    },
+    {
+      "code": "A02",
+      "intitule": "Laisser-faire ou complicité attribués aux autorités",
+      "definition": "Absence de réaction présentée comme voulue ou complice.",
+      "inclusion": "Intention ou complicité exprimée.",
+      "exclusion": "Ne pas déduire une intention de la seule absence.",
+      "exemple1": "L007 : État complice faute de sanctions",
+      "exemple2": "L090 : laisser-faire voulu"
+    },
+    {
+      "code": "A03",
+      "intitule": "Force non ciblée contre des personnes présentées comme pacifiques",
+      "definition": "Critique du traitement de personnes pacifiques ou non impliquées.",
+      "inclusion": "Absence de distinction entre fauteurs de troubles et autres personnes.",
+      "exclusion": "Insulte générale; blessure sans raisonnement de non-ciblage.",
+      "exemple1": "L015 : why attack everyone?",
+      "exemple2": "L033 : marches pacifiques gazées"
+    },
+    {
+      "code": "A04",
+      "intitule": "Violences antérieures invoquées pour justifier une riposte",
+      "definition": "Une réaction est défendue comme réponse à une violence antérieure.",
+      "inclusion": "Lien entre agression préalable alléguée et réponse justifiée.",
+      "exclusion": "Prédiction seule; mérite punitif sans raison précise.",
+      "exemple1": "L042 : violences contre policiers invoquées",
+      "exemple2": "L087 : violences contre enfants invoquées"
+    },
+    {
+      "code": "A05",
+      "intitule": "Coût collectif et dépenses détournées des besoins sociaux",
+      "definition": "Critique des dégâts par leur financement ou les arbitrages de dépenses.",
+      "inclusion": "Repayer les biens; réparation en concurrence avec besoins collectifs.",
+      "exclusion": "Perte d’emploi individuelle sans raisonnement collectif.",
+      "exemple1": "L027 : biens à repayer",
+      "exemple2": "L083 : réparations contre budget scolaire"
+    },
+    {
+      "code": "A06",
+      "intitule": "Préjudice économique aux travailleurs et commerçants",
+      "definition": "Critique par les pertes subies par des tiers.",
+      "inclusion": "Commerces, emplois, investissement personnel.",
+      "exclusion": "Coût fiscal général; mécanisme économique non explicité.",
+      "exemple1": "L043 : commerces financés par leurs propriétaires",
+      "exemple2": "L069 : perte d’emploi rapportée"
+    },
+    {
+      "code": "A07",
+      "intitule": "Décalage entre les actes et les revendications affichées",
+      "definition": "Les actes sont présentés comme étrangers ou contraires à la cause.",
+      "inclusion": "Contradiction actes / cause revendiquée.",
+      "exclusion": "Simple insulte; majorité / minorité sans ce raisonnement.",
+      "exemple1": "L028 : aucun rapport avec revendications lycéennes",
+      "exemple2": "L064 : biens pillés opposés à la vie chère"
+    },
+    {
+      "code": "A08",
+      "intitule": "Refus de généraliser les violences à l’ensemble du mouvement",
+      "definition": "Distinction entre majorité pacifique et partie violente.",
+      "inclusion": "Contestation d’une condamnation collective.",
+      "exclusion": "Négation de toute violence; justification du pillage.",
+      "exemple1": "L031 : majorité pacifique",
+      "exemple2": "L055 : marches pacifiques et violences reconnues"
+    },
+    {
+      "code": "A09",
+      "intitule": "Absence d’écoute ou de dialogue alimentant l’escalade",
+      "definition": "Manque d’écoute relié aux dégâts ou dialogue opposé à la confrontation.",
+      "inclusion": "Lien causal ou alternative exprimés.",
+      "exclusion": "Critique générale du gouvernement; soutien à la casse inféré.",
+      "exemple1": "L074 : jeunes ignorés puis casse",
+      "exemple2": "L077 : dialogue plutôt que répression"
+    },
+    {
+      "code": "A10",
+      "intitule": "Provocations ou dégradations attribuées à des infiltrés liés aux autorités",
+      "definition": "Désordres expliqués par des provocations ou une instrumentalisation alléguées.",
+      "inclusion": "Lien explicite entre groupes, autorités et provocation / dégâts.",
+      "exclusion": "Force excessive ordinaire; infiltrés sans lien identifiable.",
+      "exemple1": "L036 : groupes dans des rangs policiers accusés",
+      "exemple2": "L045 : casseurs policiers infiltrés allégués"
+    },
+    {
+      "code": "A11",
+      "intitule": "Incitation politique alléguée aux violences",
+      "definition": "Acteurs politiques ou relais accusés d’encourager ou organiser la violence.",
+      "inclusion": "Appels, organisation, incitation attribués.",
+      "exclusion": "Affiliation seule; critique politique sans lien avec la violence.",
+      "exemple1": "L007 : influenceurs accusés de relayer des appels",
+      "exemple2": "L062 : incitation attribuée à Mélenchon et LFI"
+    },
+    {
+      "code": "A12",
+      "intitule": "Attribution de responsabilité jugée insuffisamment fondée",
+      "definition": "Accusation contestée par demande de preuve ou contre-exemple.",
+      "inclusion": "Contestation du fondement causal ou de la preuve.",
+      "exclusion": "Désaccord sans raison; demande de preuve prise pour preuve d’innocence.",
+      "exemple1": "L072 : demande de preuves",
+      "exemple2": "L036 : casse antérieure à LFI invoquée"
+    },
+    {
+      "code": "M01",
+      "intitule": "Surexposition médiatique des violences au détriment du mouvement",
+      "definition": "Sélection médiatique supposée occulter revendications ou marches pacifiques.",
+      "inclusion": "Violences privilégiées au détriment du reste du mouvement.",
+      "exclusion": "Minimisation des violences; critique générale sans raison.",
+      "exemple1": "L001 : revendications absentes",
+      "exemple2": "L019 : pillages montrés, marches ignorées"
+    },
+    {
+      "code": "ARG_ABSENT",
+      "intitule": "Argument absent",
+      "definition": "Position présente sans raison identifiable.",
+      "inclusion": "Absence de justification après lecture.",
+      "exclusion": "Non annoté ne signifie pas absent.",
+      "exemple1": "L037 : I don’t like Paris police",
+      "exemple2": "L013 : description sans justification évaluative"
+    },
+    {
+      "code": "ARG_AUTRE",
+      "intitule": "Autre argument",
+      "definition": "Raisonnement interprétable non couvert par une famille provisoire.",
+      "inclusion": "Résumé précis et preuve obligatoires.",
+      "exclusion": "Ne pas employer pour une lecture indécidable.",
+      "exemple1": "L059 : utilité préventive",
+      "exemple2": "L029 : objet dit volé opposé au déni"
+    },
+    {
+      "code": "ARG_AMBIGU",
+      "intitule": "Argument ambigu",
+      "definition": "Plusieurs raisonnements restent possibles.",
+      "inclusion": "Impossible de choisir sans hypothèse externe.",
+      "exclusion": "Ne pas choisir un mécanisme arbitraire.",
+      "exemple1": "L002 : Amazon / Zalando",
+      "exemple2": "Pas de second exemple imposé"
+    }
+  ],
+  "candidats_non_actifs": [
+    [
+      "CANDIDAT — utilité préventive de l’intervention",
+      "L’intervention est défendue parce que son absence permettrait des dégâts.",
+      "ARG_AUTRE maintenu; ne pas assimiler à une critique d’inefficacité A01.",
+      "L059",
+      "Un exemple clair dans ce lot20; ne pas créer une famille active automatiquement."
+    ],
+    [
+      "CANDIDAT — motivations opportunistes attribuées aux auteurs de dégâts",
+      "Le comportement est expliqué par le plaisir de casser ou un intérêt propre, plutôt que par une cause.",
+      "ARG_AUTRE maintenu pour L063-P1; définition et frontière avec A07 à valider.",
+      "L063 ; L046 ; L085",
+      "Extraits des textes déjà collectés, pas des faits établis."
+    ]
+  ],
+  "regle": "ARG_AUTRE si argument identifiable non couvert; ARG_ABSENT et ARG_AMBIGU ne comptent pas comme arguments."
+}
