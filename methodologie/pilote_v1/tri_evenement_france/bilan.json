@@ -1,0 +1,25 @@
+{
+  "nombre_commentaires": 50,
+  "metadonnees_videos_accessibles": 50,
+  "statuts_commentaires": {
+    "autre_evenement_explicite": 4,
+    "lien_plausible_non_confirme": 17,
+    "contexte_general_ou_comparaison": 23,
+    "informations_insuffisantes": 6
+  },
+  "statuts_videos": {
+    "lien_plausible_non_confirme": 43,
+    "autre_evenement_explicite": 1,
+    "suite_ou_autre_date_liee": 4,
+    "date_contradictoire_a_verifier": 1,
+    "informations_insuffisantes": 1
+  },
+  "dispositions_proposees": {
+    "hors_corpus_principal": 4,
+    "candidat_non_verifie": 14,
+    "contexte_separe": 21,
+    "rattachement_a_verifier": 8,
+    "candidat_avec_signalement": 3
+  },
+  "faits_confirmes_independamment": 0
+}

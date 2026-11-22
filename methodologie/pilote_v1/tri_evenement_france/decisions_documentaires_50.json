@@ -1,0 +1,656 @@
+{
+  "perimetre": "France entière, mobilisation recherchée du17octobre2026; suites et contexte séparés",
+  "methode": "Revue documentaire explicite par assistant, titres/dates/descriptions API et textes/parents; pas visionnage ni classificateur généralisable.",
+  "decisions": [
+    {
+      "comment_id": "Ugx-KhRXwuCgl4D4IyN4AaABAg",
+      "video_id": "mkLjZK7jS5w",
+      "repere": "N001",
+      "statut_commentaire": "autre_evenement_explicite",
+      "motif": "Le commentaire vise explicitement la police indienne et fait une comparaison; la vidéo décrit la France.",
+      "lieu_du_propos": "India",
+      "preuve_commentaire_ou_parent": {
+        "source": "commentaire",
+        "extrait": "Indian Police"
+      },
+      "verification_factuelle": false
+    },
+    {
+      "comment_id": "UgwhYd8xmzzBUJxlwTx4AaABAg.Ac5nwcO1EcrAc5oHiYeQ1v",
+      "video_id": "JiNkUhTwde8",
+      "repere": "N002",
+      "statut_commentaire": "lien_plausible_non_confirme",
+      "motif": "Réponse sur l’identité supposée des casseurs dans le fil d’une vidéo sur Limoges; attribution non vérifiée.",
+      "lieu_du_propos": "Limoges",
+      "preuve_commentaire_ou_parent": {
+        "source": "commentaire",
+        "extrait": "Ce sont eux les casseurs."
+      },
+      "verification_factuelle": false
+    },
+    {
+      "comment_id": "Ugwf84g8BVQ2T44-7K94AaABAg",
+      "video_id": "7seIp_kR-8k",
+      "repere": "N003",
+      "statut_commentaire": "lien_plausible_non_confirme",
+      "motif": "Réaction possiblement ironique aux personnes masquées des images de touristes; rattachement plausible, pas acte vérifié.",
+      "lieu_du_propos": "Paris",
+      "preuve_commentaire_ou_parent": {
+        "source": "commentaire",
+        "extrait": "Ils avancent masqués"
+      },
+      "verification_factuelle": false
+    },
+    {
+      "comment_id": "Ugw_BLfiOrlEzzFCaXZ4AaABAg",
+      "video_id": "0S4IV3mdH2w",
+      "repere": "N004",
+      "statut_commentaire": "contexte_general_ou_comparaison",
+      "motif": "Comparaison historique et jugement sur le recours aux forces; aucun acte du17 précisément daté dans le texte.",
+      "lieu_du_propos": "non précisé",
+      "preuve_commentaire_ou_parent": {
+        "source": "commentaire",
+        "extrait": "se comporte comme un préfet de police napoléonien"
+      },
+      "verification_factuelle": false
+    },
+    {
+      "comment_id": "UgzMUyUdWjNHbDfzBNJ4AaABAg",
+      "video_id": "2Id5JOV0c3s",
+      "repere": "N005",
+      "statut_commentaire": "informations_insuffisantes",
+      "motif": "Fragment sans sujet identifié; impossible de relier avec certitude les publicités évoquées à cet événement.",
+      "lieu_du_propos": "non précisé",
+      "preuve_commentaire_ou_parent": {
+        "source": "commentaire",
+        "extrait": "Faisait même des publicités"
+      },
+      "verification_factuelle": false
+    },
+    {
+      "comment_id": "Ugxr4I2Y1j-y7FL7UCZ4AaABAg",
+      "video_id": "Q7Jn1wJM1_k",
+      "repere": "N006",
+      "statut_commentaire": "lien_plausible_non_confirme",
+      "motif": "Réaction à une image présentée dans une vidéo de décryptage. La description conteste la prétendue agression; le lien discursif ne valide pas les faits.",
+      "lieu_du_propos": "Paris",
+      "preuve_commentaire_ou_parent": {
+        "source": "commentaire",
+        "extrait": "Symboliquement"
+      },
+      "verification_factuelle": false
+    },
+    {
+      "comment_id": "UgwbgA8QzIBElSN6wTp4AaABAg.Ac3vIr7Br2nAc4KyzSUiQc",
+      "video_id": "G0Pdgn_-EEs",
+      "repere": "N007",
+      "statut_commentaire": "lien_plausible_non_confirme",
+      "motif": "Réattribution de la casse par rapport au parent accusant Macron, dans un fil sur Clermont-Ferrand le17.",
+      "lieu_du_propos": "Clermont-Ferrand",
+      "preuve_commentaire_ou_parent": {
+        "source": "commentaire",
+        "extrait": "qui casse tous"
+      },
+      "verification_factuelle": false
+    },
+    {
+      "comment_id": "UgyuFa1_Ak79nhQ1Bvl4AaABAg.Ac7Bt_HnWkAAc89RAmQcPl",
+      "video_id": "41xyGJOJUsQ",
+      "repere": "N008",
+      "statut_commentaire": "lien_plausible_non_confirme",
+      "motif": "Dates17/18 et bilan national/Marseille explicitement discutés. Berlin/Madrid sont des points de vue médiatiques, pas un motif d’exclure la France.",
+      "lieu_du_propos": "France / Marseille",
+      "preuve_commentaire_ou_parent": {
+        "source": "commentaire",
+        "extrait": "samedi 17/10"
+      },
+      "verification_factuelle": false
+    },
+    {
+      "comment_id": "UgxQTVw9x3N6lCd1AeF4AaABAg.Ac4RZj7MLs1Ac4VonbZ31P",
+      "video_id": "LjJFZKshQI8",
+      "repere": "N009",
+      "statut_commentaire": "autre_evenement_explicite",
+      "motif": "Discussion explicitement américaine et historique dans une vidéo concernant Paris. Ne pas attribuer le propos à la police française.",
+      "lieu_du_propos": "États-Unis",
+      "preuve_commentaire_ou_parent": {
+        "source": "commentaire",
+        "extrait": "1960s Civil Rights movement"
+      },
+      "verification_factuelle": false
+    },
+    {
+      "comment_id": "UgxkZXwoRaOH5vKDqvR4AaABAg.Ac3mCMdpqgWAc4AbTsP45T",
+      "video_id": "UtcVv-_Dcuk",
+      "repere": "N010",
+      "statut_commentaire": "informations_insuffisantes",
+      "motif": "Réponse fragmentaire; le parent principal ne permet pas de déterminer l’action ou le message effectivement visé.",
+      "lieu_du_propos": "non précisé",
+      "preuve_commentaire_ou_parent": {
+        "source": "commentaire",
+        "extrait": "Il vient de te dire les CRS"
+      },
+      "verification_factuelle": false
+    },
+    {
+      "comment_id": "UgzwSGCS_NR4I4xjbs14AaABAg",
+      "video_id": "yiYE9YWrWvI",
+      "repere": "N011",
+      "statut_commentaire": "autre_evenement_explicite",
+      "motif": "Titre et commentaire commémorent1961. Publication en2026 ne signifie pas scènes de2026.",
+      "lieu_du_propos": "Paris,1961",
+      "preuve_commentaire_ou_parent": {
+        "source": "commentaire",
+        "extrait": "Maurice Papon"
+      },
+      "verification_factuelle": false
+    },
+    {
+      "comment_id": "Ugx2e7rYsjW1Sbn8v6h4AaABAg",
+      "video_id": "zmQI1RK5HD8",
+      "repere": "N012",
+      "statut_commentaire": "informations_insuffisantes",
+      "motif": "Ce genre d’événements ne permet pas d’identifier les faits évoqués, même sous une vidéo étiquetée17octobre.",
+      "lieu_du_propos": "non précisé",
+      "preuve_commentaire_ou_parent": {
+        "source": "commentaire",
+        "extrait": "ce genre d'événements"
+      },
+      "verification_factuelle": false
+    },
+    {
+      "comment_id": "Ugw4q9rXIjvTYNj6uGp4AaABAg",
+      "video_id": "RBTgffFKkwg",
+      "repere": "N013",
+      "statut_commentaire": "contexte_general_ou_comparaison",
+      "motif": "Défense générale de l’utilité de la police, explicitement en dehors de toute manifestation.",
+      "lieu_du_propos": "non précisé",
+      "preuve_commentaire_ou_parent": {
+        "source": "commentaire",
+        "extrait": "en dehors de toute manifestation"
+      },
+      "verification_factuelle": false
+    },
+    {
+      "comment_id": "UgwAncdh3U66qbIjNPx4AaABAg",
+      "video_id": "YDsCOd9IixA",
+      "repere": "N014",
+      "statut_commentaire": "contexte_general_ou_comparaison",
+      "motif": "Débat sur expression et spectacles avec comparaison aux manifestations, pas description du17.",
+      "lieu_du_propos": "non précisé",
+      "preuve_commentaire_ou_parent": {
+        "source": "commentaire",
+        "extrait": "liberté d expression"
+      },
+      "verification_factuelle": false
+    },
+    {
+      "comment_id": "UgzVZsROGIcOpq68TXh4AaABAg",
+      "video_id": "h-D3ArQPwqc",
+      "repere": "N015",
+      "statut_commentaire": "lien_plausible_non_confirme",
+      "motif": "Réaction sur des actes allégués ce week-end sous une vidéo de bilan du17; accusation grave non corroborée ici.",
+      "lieu_du_propos": "non précisé",
+      "preuve_commentaire_ou_parent": {
+        "source": "commentaire",
+        "extrait": "la police a tué ce week-end"
+      },
+      "verification_factuelle": false
+    },
+    {
+      "comment_id": "Ugwlrxh7dkzGSVxyH0N4AaABAg.Ac93PqWBcdBAcAjqe5s2HA",
+      "video_id": "ajB3OzOYeuI",
+      "repere": "N016",
+      "statut_commentaire": "lien_plausible_non_confirme",
+      "motif": "Réaction aux dégâts et au soutien aux commerçants; Limoges et comparaisons patrimoniales mentionnées.",
+      "lieu_du_propos": "Paris / Limoges",
+      "preuve_commentaire_ou_parent": {
+        "source": "commentaire",
+        "extrait": "la mairie de Limoges"
+      },
+      "verification_factuelle": false
+    },
+    {
+      "comment_id": "UgxEzWMIRUf2KOQNOV54AaABAg",
+      "video_id": "xtAv962QL-0",
+      "repere": "N017",
+      "statut_commentaire": "contexte_general_ou_comparaison",
+      "motif": "Raisonnement général sur dépenses publiques et répression; vidéo rétrospective liée au17 selon sa description.",
+      "lieu_du_propos": "non précisé",
+      "preuve_commentaire_ou_parent": {
+        "source": "commentaire",
+        "extrait": "un état répressif, autoritaire coûte souvent bien plus cher"
+      },
+      "verification_factuelle": false
+    },
+    {
+      "comment_id": "UgxNJFojaR2cSIZwqAR4AaABAg.AcEh4c987YoAcEh5VzrbxC",
+      "video_id": "CQOZLID8iP4",
+      "repere": "N018",
+      "statut_commentaire": "contexte_general_ou_comparaison",
+      "motif": "Critique ironique de doctrine et responsabilité politique; ne décrit pas un fait précisément daté.",
+      "lieu_du_propos": "non précisé",
+      "preuve_commentaire_ou_parent": {
+        "source": "commentaire",
+        "extrait": "matraquage aveugle"
+      },
+      "verification_factuelle": false
+    },
+    {
+      "comment_id": "UgwRLN3jf4FAHKhdD5V4AaABAg.Ac483HlV1j4Ac6M4UZ6Lgv",
+      "video_id": "zegInBONnoE",
+      "repere": "N019",
+      "statut_commentaire": "lien_plausible_non_confirme",
+      "motif": "Discussion de l’incendie de mairie et des élus dans le fil Limoges17. Les références historiques restent des arguments, non une exclusion globale.",
+      "lieu_du_propos": "Limoges",
+      "preuve_commentaire_ou_parent": {
+        "source": "commentaire",
+        "extrait": "Hier, personne des élus majoritaires"
+      },
+      "verification_factuelle": false
+    },
+    {
+      "comment_id": "Ugz4jYU6NiewkrLHg-V4AaABAg.Ac7w8ikcJsiAc84FbnzdDC",
+      "video_id": "TQRpopieF2Y",
+      "repere": "N020",
+      "statut_commentaire": "informations_insuffisantes",
+      "motif": "L’absence policière et ses raisons sont évoquées sans situation assez précise; parent insuffisant pour dater ou localiser.",
+      "lieu_du_propos": "non précisé",
+      "preuve_commentaire_ou_parent": {
+        "source": "commentaire",
+        "extrait": "Plus assez de monde"
+      },
+      "verification_factuelle": false
+    },
+    {
+      "comment_id": "UgzTEzox6MoEQIyE86N4AaABAg.Ac5xUxk0L7wAc6HIMWSDgh",
+      "video_id": "Qo5yyhng83M",
+      "repere": "N021",
+      "statut_commentaire": "contexte_general_ou_comparaison",
+      "motif": "Échange sur citations et interprétations; pas de fait daté établi par le texte.",
+      "lieu_du_propos": "non précisé",
+      "preuve_commentaire_ou_parent": {
+        "source": "commentaire",
+        "extrait": "Mussolini"
+      },
+      "verification_factuelle": false
+    },
+    {
+      "comment_id": "Ugwnx-j1q4HqiC4_0aN4AaABAg",
+      "video_id": "BToKBB1ISWg",
+      "repere": "N022",
+      "statut_commentaire": "contexte_general_ou_comparaison",
+      "motif": "Déclarations et jugements généraux sur répression, société et dégâts dans une vidéo explicitement rétrospective du17.",
+      "lieu_du_propos": "non précisé",
+      "preuve_commentaire_ou_parent": {
+        "source": "commentaire",
+        "extrait": "Je rejette la casse et les vols"
+      },
+      "verification_factuelle": false
+    },
+    {
+      "comment_id": "Ugw1SkG7fY9Jd6XBwpJ4AaABAg.AcGsDiifH4pAcHCco_Z06v",
+      "video_id": "wTKt7MyqZHE",
+      "repere": "N023",
+      "statut_commentaire": "contexte_general_ou_comparaison",
+      "motif": "Crainte personnelle dans un fil consacré au22, avec appel au24 dans le parent. À séparer du noyau du17.",
+      "lieu_du_propos": "Paris",
+      "preuve_commentaire_ou_parent": {
+        "source": "parent",
+        "extrait": "Tous là le 24"
+      },
+      "verification_factuelle": false
+    },
+    {
+      "comment_id": "UgwJ3ByKASfly9Tjuv14AaABAg.Ac46WxIYK_QAc4Xehwp6uy",
+      "video_id": "bwqhZS799V4",
+      "repere": "N024",
+      "statut_commentaire": "contexte_general_ou_comparaison",
+      "motif": "Scénario politique futur et hypothèses; Ukraine ne suffit pas à rendre tout le commentaire une description étrangère.",
+      "lieu_du_propos": "non précisé",
+      "preuve_commentaire_ou_parent": {
+        "source": "commentaire",
+        "extrait": "si les CRS font tombé ce mouvement"
+      },
+      "verification_factuelle": false
+    },
+    {
+      "comment_id": "Ugw9MjVOPWT9NO5Jywt4AaABAg",
+      "video_id": "htfndCEFJBs",
+      "repere": "N025",
+      "statut_commentaire": "lien_plausible_non_confirme",
+      "motif": "Allégation située à l’Arc de Triomphe sous une vidéo du lendemain du17. Ni décès ni circonstances établis ici.",
+      "lieu_du_propos": "Paris",
+      "preuve_commentaire_ou_parent": {
+        "source": "commentaire",
+        "extrait": "arc de triomphe"
+      },
+      "verification_factuelle": false
+    },
+    {
+      "comment_id": "UgxmxsTpbc_gC_4gxnZ4AaABAg.Ac4O_hiKioJAc6flQRR5v8",
+      "video_id": "TRLtPjjOArw",
+      "repere": "N026",
+      "statut_commentaire": "contexte_general_ou_comparaison",
+      "motif": "Raisonnement général sur les impôts et tous les pays/années. Titre7octobre mais description17 : divergence à vérifier.",
+      "lieu_du_propos": "non précisé",
+      "preuve_commentaire_ou_parent": {
+        "source": "commentaire",
+        "extrait": "peux importe les années"
+      },
+      "verification_factuelle": false
+    },
+    {
+      "comment_id": "UgzyyM67XjnZ-CBaE3R4AaABAg.Ac9-hHkBaGUAc9UuxDR4ka",
+      "video_id": "vk5h5-tqZgs",
+      "repere": "N027",
+      "statut_commentaire": "lien_plausible_non_confirme",
+      "motif": "Défense explicite du traitement de cette vidéo et de ses faits insolites; lien discursif plausible avec la journée mentionnée.",
+      "lieu_du_propos": "non précisé",
+      "preuve_commentaire_ou_parent": {
+        "source": "commentaire",
+        "extrait": "C'est le titre de la vidéo."
+      },
+      "verification_factuelle": false
+    },
+    {
+      "comment_id": "Ugxh4BlP5KUvDY2LHbp4AaABAg.Ac3v_iff0D6Ac4LriM2val",
+      "video_id": "UblA2O-gDUs",
+      "repere": "N028",
+      "statut_commentaire": "contexte_general_ou_comparaison",
+      "motif": "Jugement général contre les CRS et souhait d’intervention de l’armée; pas d’incident précis identifié.",
+      "lieu_du_propos": "non précisé",
+      "preuve_commentaire_ou_parent": {
+        "source": "commentaire",
+        "extrait": "violations constantes des droit de l'homme"
+      },
+      "verification_factuelle": false
+    },
+    {
+      "comment_id": "Ugy5WVfg2HVu5GC6G_Z4AaABAg",
+      "video_id": "13XpoNzL7To",
+      "repere": "N029",
+      "statut_commentaire": "contexte_general_ou_comparaison",
+      "motif": "Proposition stratégique et jugement sur l’efficacité de la casse; pas récit d’un incident daté.",
+      "lieu_du_propos": "France",
+      "preuve_commentaire_ou_parent": {
+        "source": "commentaire",
+        "extrait": "la casse,ça ne changera rien."
+      },
+      "verification_factuelle": false
+    },
+    {
+      "comment_id": "Ugy45CySIhI1rijKtt14AaABAg",
+      "video_id": "SPjpt1oMWTs",
+      "repere": "N030",
+      "statut_commentaire": "autre_evenement_explicite",
+      "motif": "Comparaison avec les émeutes BLM aux États-Unis; ne pas transformer les participants américains en participants français.",
+      "lieu_du_propos": "États-Unis",
+      "preuve_commentaire_ou_parent": {
+        "source": "commentaire",
+        "extrait": "our blm riots"
+      },
+      "verification_factuelle": false
+    },
+    {
+      "comment_id": "UgzlR70zkAAQNqZ0aeJ4AaABAg",
+      "video_id": "OaDTIYsMWOg",
+      "repere": "N031",
+      "statut_commentaire": "lien_plausible_non_confirme",
+      "motif": "Accusation dans un fil de bilan parisien du17; lien implicite plausible, appartenances et causalités non vérifiées.",
+      "lieu_du_propos": "Paris",
+      "preuve_commentaire_ou_parent": {
+        "source": "commentaire",
+        "extrait": "Violent farleft"
+      },
+      "verification_factuelle": false
+    },
+    {
+      "comment_id": "UgzwpGv52fSp0q69Tal4AaABAg.Ac8mR-ty0yvAc9EKXq17Ec",
+      "video_id": "JzMgpCBOAx8",
+      "repere": "N032",
+      "statut_commentaire": "contexte_general_ou_comparaison",
+      "motif": "Comparaison entre politique de guerre et casse, sous une annonce pour le24. Conserver comme contexte, pas observation du17.",
+      "lieu_du_propos": "non précisé",
+      "preuve_commentaire_ou_parent": {
+        "source": "commentaire",
+        "extrait": "la guerre contre la Russie"
+      },
+      "verification_factuelle": false
+    },
+    {
+      "comment_id": "UgzUnlgACJjVTDKxbYh4AaABAg.Ac6V_-mlzcZAcBu4kBga5z",
+      "video_id": "V2nrIdK2n1c",
+      "repere": "N033",
+      "statut_commentaire": "informations_insuffisantes",
+      "motif": "Référence à un propos d’un interlocuteur absent du parent principal; objet et lien exacts à l’événement non établis.",
+      "lieu_du_propos": "non précisé",
+      "preuve_commentaire_ou_parent": {
+        "source": "commentaire",
+        "extrait": "vote bien sinon on casse tout"
+      },
+      "verification_factuelle": false
+    },
+    {
+      "comment_id": "Ugwmq0NKElzpOg3TChp4AaABAg",
+      "video_id": "PdjhewLTV_0",
+      "repere": "N034",
+      "statut_commentaire": "contexte_general_ou_comparaison",
+      "motif": "Appel à un recours futur à la force; ne prouve pas qu’un acte ou une identité des personnes visées est établi.",
+      "lieu_du_propos": "non précisé",
+      "preuve_commentaire_ou_parent": {
+        "source": "commentaire",
+        "extrait": "vivement que la police et l armée"
+      },
+      "verification_factuelle": false
+    },
+    {
+      "comment_id": "Ugwvh2qAUA1V6_ohW2l4AaABAg.Ac7G3d3vXiKAc88sHi7OX7",
+      "video_id": "Qh2Zoo25yiI",
+      "repere": "N035",
+      "statut_commentaire": "contexte_general_ou_comparaison",
+      "motif": "Propos politiques et pénaux sous une vidéo du lendemain; ne reprend pas nécessairement le scénario violent du parent.",
+      "lieu_du_propos": "non précisé",
+      "preuve_commentaire_ou_parent": {
+        "source": "commentaire",
+        "extrait": "LEPEN va en prison"
+      },
+      "verification_factuelle": false
+    },
+    {
+      "comment_id": "UgzmnBgBEwbQ1empI0Z4AaABAg.Ac8kD5d47ZGAcHfrq1JMXL",
+      "video_id": "J1GlXnJaNP4",
+      "repere": "N036",
+      "statut_commentaire": "lien_plausible_non_confirme",
+      "motif": "Réponse sur le comportement préalable à l’incident évoqué; titre et description le rattachent explicitement au17.",
+      "lieu_du_propos": "Paris",
+      "preuve_commentaire_ou_parent": {
+        "source": "commentaire",
+        "extrait": "defendre un lycéen des CRS"
+      },
+      "verification_factuelle": false
+    },
+    {
+      "comment_id": "UgwhJKzWg0qVDh95VAp4AaABAg.AcHQjAQJWMTAcIcGU_bvAk",
+      "video_id": "2poXOix3q3s",
+      "repere": "N037",
+      "statut_commentaire": "contexte_general_ou_comparaison",
+      "motif": "Critique de couverture médiatique sous une émission sur le24; références aux chiffres et manifestations sans date propre explicite.",
+      "lieu_du_propos": "non précisé",
+      "preuve_commentaire_ou_parent": {
+        "source": "commentaire",
+        "extrait": "Ces médias ne voient que le chaos partout."
+      },
+      "verification_factuelle": false
+    },
+    {
+      "comment_id": "UgzkUANoCrsuaCiWDPZ4AaABAg.Ac4XTIZZPgoAc4kemNDc9p",
+      "video_id": "NjgZZjrplwk",
+      "repere": "N038",
+      "statut_commentaire": "contexte_general_ou_comparaison",
+      "motif": "Maxime générale; absence de récit spécifique de la mobilisation.",
+      "lieu_du_propos": "non précisé",
+      "preuve_commentaire_ou_parent": {
+        "source": "commentaire",
+        "extrait": "La vie c'est violent."
+      },
+      "verification_factuelle": false
+    },
+    {
+      "comment_id": "UgyOmeyozSYYRUpocvl4AaABAg",
+      "video_id": "nutckpxgXuA",
+      "repere": "N039",
+      "statut_commentaire": "contexte_general_ou_comparaison",
+      "motif": "Soutien général à la police contre les violences; pas description d’une intervention précise.",
+      "lieu_du_propos": "non précisé",
+      "preuve_commentaire_ou_parent": {
+        "source": "commentaire",
+        "extrait": "Vive la police contre les violences illégitimes"
+      },
+      "verification_factuelle": false
+    },
+    {
+      "comment_id": "Ugx6bp4dHMS7mzJ6RcV4AaABAg",
+      "video_id": "tTOLXnBHvDE",
+      "repere": "N040",
+      "statut_commentaire": "lien_plausible_non_confirme",
+      "motif": "Réaction aux casseurs sous une vidéo d’une voiture incendiée le17; mesures souhaitées ne sont pas des faits observés.",
+      "lieu_du_propos": "Paris",
+      "preuve_commentaire_ou_parent": {
+        "source": "commentaire",
+        "extrait": "mon pays dans cet état"
+      },
+      "verification_factuelle": false
+    },
+    {
+      "comment_id": "UgzQY0OKsnHiqzjrKkx4AaABAg.Ac6CGDR5Ot0Ac6LylxVz1Z",
+      "video_id": "S3cnVOG-IEM",
+      "repere": "N041",
+      "statut_commentaire": "lien_plausible_non_confirme",
+      "motif": "Parent daté17/10 et lieux toulousains; contestation d’une causalité des pillages, pas vérification des accusations.",
+      "lieu_du_propos": "Toulouse",
+      "preuve_commentaire_ou_parent": {
+        "source": "parent",
+        "extrait": "17/10"
+      },
+      "verification_factuelle": false
+    },
+    {
+      "comment_id": "Ugyzj10-FiRvUc75YsV4AaABAg.Ac75uUWRK7fAc8t0M5CHcK",
+      "video_id": "JgYrYF9NGU0",
+      "repere": "N042",
+      "statut_commentaire": "lien_plausible_non_confirme",
+      "motif": "Contestation de l’étiquetage politique des auteurs de la journée, dans un fil sur la déclaration après le17.",
+      "lieu_du_propos": "France",
+      "preuve_commentaire_ou_parent": {
+        "source": "commentaire",
+        "extrait": "la journée de manif"
+      },
+      "verification_factuelle": false
+    },
+    {
+      "comment_id": "UgyivRpJlDN7kTxuSjZ4AaABAg.Ac60fZZKm7TAcAy7rlz57s",
+      "video_id": "yrp2OmjbBzM",
+      "repere": "N043",
+      "statut_commentaire": "contexte_general_ou_comparaison",
+      "motif": "Explication sociale et comparaison des violences; la référence2025 du parent n’annule pas le contexte de débat du17.",
+      "lieu_du_propos": "non précisé",
+      "preuve_commentaire_ou_parent": {
+        "source": "commentaire",
+        "extrait": "Les pillages sont l'expression d'une frustration"
+      },
+      "verification_factuelle": false
+    },
+    {
+      "comment_id": "UgxIYrFimW0-3Y_njHB4AaABAg",
+      "video_id": "StreN75aQRg",
+      "repere": "N044",
+      "statut_commentaire": "contexte_general_ou_comparaison",
+      "motif": "Demande de mesure coercitive générale face à la violence; pas de récit ou de preuve factuelle d’un incident.",
+      "lieu_du_propos": "non précisé",
+      "preuve_commentaire_ou_parent": {
+        "source": "commentaire",
+        "extrait": "MARTIAL LAW"
+      },
+      "verification_factuelle": false
+    },
+    {
+      "comment_id": "Ugzg564nb6qKknvpXgF4AaABAg",
+      "video_id": "cwKSHmBub54",
+      "repere": "N045",
+      "statut_commentaire": "informations_insuffisantes",
+      "motif": "Métaphore sur le mot asymétrie; contexte trop pauvre pour rattacher une proposition précise à l’événement.",
+      "lieu_du_propos": "non précisé",
+      "preuve_commentaire_ou_parent": {
+        "source": "commentaire",
+        "extrait": "asymétrie"
+      },
+      "verification_factuelle": false
+    },
+    {
+      "comment_id": "UgwCrAv9FCFgG_KS6yl4AaABAg",
+      "video_id": "FQ7-YQ-1Um8",
+      "repere": "N046",
+      "statut_commentaire": "lien_plausible_non_confirme",
+      "motif": "Réaction hypothétique à une voiture cassée dans le fil d’une vidéo de l’épisode parisien; pas témoignage d’une victime personnelle établie.",
+      "lieu_du_propos": "Paris",
+      "preuve_commentaire_ou_parent": {
+        "source": "commentaire",
+        "extrait": "on me casse ma voiture ainsi"
+      },
+      "verification_factuelle": false
+    },
+    {
+      "comment_id": "UgxKQXJJW2kOP-2-zQR4AaABAg",
+      "video_id": "HLgWC5mCvNc",
+      "repere": "N047",
+      "statut_commentaire": "contexte_general_ou_comparaison",
+      "motif": "Attribution générale du blâme politique à Macron et aux ordres; pas d’acte précisément daté.",
+      "lieu_du_propos": "non précisé",
+      "preuve_commentaire_ou_parent": {
+        "source": "commentaire",
+        "extrait": "macron is the problem"
+      },
+      "verification_factuelle": false
+    },
+    {
+      "comment_id": "UgxmQy_vv27X5TMfX6B4AaABAg",
+      "video_id": "SHni1klVJjg",
+      "repere": "N048",
+      "statut_commentaire": "contexte_general_ou_comparaison",
+      "motif": "Hiérarchie générale des préjudices humains et matériels; pas preuve d’un incident particulier.",
+      "lieu_du_propos": "non précisé",
+      "preuve_commentaire_ou_parent": {
+        "source": "commentaire",
+        "extrait": "plus d'empathie pour des objets"
+      },
+      "verification_factuelle": false
+    },
+    {
+      "comment_id": "UgzTbPvklHpf3Uwq1H94AaABAg",
+      "video_id": "q2GiX6VKgy0",
+      "repere": "N049",
+      "statut_commentaire": "lien_plausible_non_confirme",
+      "motif": "Préfecture et vandalisme local mis en cause sous un reportage sur Marseille le17 selon la description.",
+      "lieu_du_propos": "Marseille",
+      "preuve_commentaire_ou_parent": {
+        "source": "commentaire",
+        "extrait": "ce vandalisme"
+      },
+      "verification_factuelle": false
+    },
+    {
+      "comment_id": "Ugyi6OEI16SeJTC5z_Z4AaABAg.AcDcn9kHbFqAcGjeHjXzWy",
+      "video_id": "QnfLcjk4x_s",
+      "repere": "N050",
+      "statut_commentaire": "contexte_general_ou_comparaison",
+      "motif": "Scénario politique et conséquences futures des dégâts. La description rattache bien l’émission au17, sans rendre le texte un récit de faits.",
+      "lieu_du_propos": "non précisé",
+      "preuve_commentaire_ou_parent": {
+        "source": "commentaire",
+        "extrait": "un régime autoritaire"
+      },
+      "verification_factuelle": false
+    }
+  ]
+}

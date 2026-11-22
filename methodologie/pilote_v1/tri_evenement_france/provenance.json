@@ -1,0 +1,8 @@
+{
+  "generation": "Export déterministe hors ligne des décisions manuelles explicites; aucun appel LLM.",
+  "sources_sha256": {
+    "commentaires_50.jsonl": "48aaa8f4268d34e63451aac34d87118764f3a4ac36a618df9231fa51729819a4",
+    "tri_evenement_france/metadata_api_snapshot.json": "1e85ec784cfad93a2d39f44522f902987c0a5b1f3fae1992c9cdaa73992fc2bb",
+    "tri_evenement_france/decisions_documentaires_50.json": "a58fcf819dc39b1d4ddf740a48d2e943217894cfc41ac984eac192ee3a0fabdb"
+  }
+}
