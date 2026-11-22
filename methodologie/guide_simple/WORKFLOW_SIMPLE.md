@@ -125,14 +125,41 @@ Résultat pour les commentaires : 17 liens plausibles avec la mobilisation, 23 c
 
 À consulter : [Export du tri : build(), sans nouveau classificateur](https://github.com/ClaralBbb/Projet-Info-IA-Polarisation/blob/main/methodologie/pilote_v1/tri_evenement_france/construire_tri.py)
 
-## 9. Ce qui vient ensuite — PAS ENCORE EXÉCUTÉ
 
-D’abord : stabiliser le traitement des cas incertains, des suites et du contexte. Puis adapter classify_opinions.py, qui utilise encore l’ancienne grille 0.2, au JSON V1. Choisir et enregistrer le modèle, le prompt, les exemples, les paramètres, les coûts et les sorties. Le script dispose déjà d’une fonction make_request() pour les Structured Outputs, mais n’a pas produit les annotations actuelles.
+---
 
-À consulter : [Futur exécuteur API : make_request(), main()](https://github.com/ClaralBbb/Projet-Info-IA-Polarisation/blob/main/classify_opinions.py)
+## 9. Préparer la classification automatique — FAIT, sans appel payant
 
-Ensuite : comparer les sorties automatiques à un échantillon humain indépendant, si possible sans montrer les réponses IA avant la relecture. Les passes précédentes ont servi à construire la grille, pas à mesurer une précision indépendante. Si la qualité et le budget conviennent, étendre à 500–1 000 textes avant davantage. Aucun appel LLM payant n’a été lancé ici.
+Mise à jour du 22 novembre 2026. Le script a maintenant été adapté à la grille V1. Ce travail prépare la prochaine analyse ; il ne crée pas encore de nouvelles annotations.
 
-Enfin : alimenter le dashboard avec les résultats contrôlés, comparer les arguments sur une même proposition, puis définir un indicateur de polarisation. Aucun indice n’est encore validé ; le nombre de critiques ou un score arbitraire de 1 à 10 ne suffit pas. L’étude d’autres sujets et de leurs liens viendra après cette première étape.
+Les règles de tri sont écrites : un commentaire lié de façon plausible au 17 octobre peut être candidat à l’analyse principale. Les cas incertains restent à vérifier. Les rassemblements suivants sont conservés comme suites. Les opinions générales et les comparaisons restent à part. Une information contestée ou une allégation signalée est mise à revoir avant de l’inclure dans les chiffres principaux. Rien de cela ne confirme les faits racontés.
 
-À modifier par toi : tu peux corriger directement ce document, activer le suivi des modifications dans Word ou ajouter des commentaires. Cette relecture porte sur l’explication du workflow ; elle ne te demande pas une nouvelle passe de 50 annotations.
+À consulter : [Les règles de tri, expliquées simplement](https://github.com/ClaralBbb/Projet-Info-IA-Polarisation/blob/main/classification_v1/REGLES_PERIMETRE_V1.md)
+
+Le script prépare un dossier pour le modèle : commentaire complet, parent disponible, titre de la vidéo et informations du tri. Les anciennes réponses de l’IA sur ces 50 textes ne lui sont pas fournies. Les consignes lui demandent de distinguer la cible, la proposition évaluée, la position et les arguments, sans inventer une raison lorsque le texte est ambigu.
+
+Le JSON V1 est un formulaire informatique à cases définies. Le modèle doit remplir ce formulaire, avec plusieurs positions si nécessaire, plutôt que répondre par un texte libre. C’est le principe des Structured Outputs. Le programme contrôle ensuite la forme et vérifie que les citations se trouvent bien dans le commentaire ou le parent indiqué.
+
+À consulter : [Consignes données au futur modèle](https://github.com/ClaralBbb/Projet-Info-IA-Polarisation/blob/main/classification_v1/prompt_v1.md)
+
+À consulter : [Code : classify_opinions.py et construction de la requête](https://github.com/ClaralBbb/Projet-Info-IA-Polarisation/blob/main/classify_opinions.py)
+
+À consulter : [Code : préparation des données, contrôles et enregistrement](https://github.com/ClaralBbb/Projet-Info-IA-Polarisation/blob/main/classification_v1/pipeline.py)
+
+Les essais ont été faits sans contacter de modèle : le programme a préparé les entrées des 50 commentaires pendant les tests, et un exemple de 10 requêtes a été enregistré pour consultation. Les autres tests utilisent des réponses factices pour vérifier les erreurs, les refus et les reprises. Au total, 31 tests passent. Cela montre que le code se comporte comme prévu dans ces cas, pas que les futures interprétations seront justes.
+
+Le programme garde la version des consignes, le modèle choisi et les données utilisées. Lors d’un futur appel réel, il enregistrera aussi la réponse et la consommation API. Si un appel échoue ou donne une réponse invalide, il s’arrête : il ne recommence pas automatiquement en risquant de facturer deux fois.
+
+À consulter : [Guide et exemple des 10 requêtes préparées](https://github.com/ClaralBbb/Projet-Info-IA-Polarisation/blob/main/classification_v1/README.md)
+
+## 10. Ce qui reste à faire — PAS ENCORE EXÉCUTÉ
+
+1. Choisir un modèle compatible et estimer le prix d’un petit essai réel. Aucun modèle API n’est encore choisi pour cette nouvelle grille, et aucun appel payant n’a été lancé.
+
+2. Après accord sur le coût, lancer ce petit essai et examiner les erreurs : mauvaise cible, position forcée, argument inventé ou contexte mal compris. Pour mesurer la qualité, prévoir un contrôle humain indépendant ; tes relectures précédentes ont surtout servi à construire la méthode.
+
+3. Si la qualité et le budget conviennent, étendre à 500–1 000 commentaires, puis davantage. Mettre ensuite le dashboard à jour avec les résultats contrôlés. Il n’a pas changé à cette étape.
+
+4. Comparer les arguments sur une même proposition pour étudier convergences et divergences, puis définir comment mesurer la polarisation. Aucun indice n’est encore validé. Les autres sujets et leurs liens pourront être étudiés ensuite.
+
+Tu peux modifier ce Word et ajouter tes commentaires. Il n’y a pas de nouveau fichier de 50 annotations à remplir maintenant.
