@@ -1,0 +1,12 @@
+{
+  "mode": "SIMULATION_SANS_APPEL_API",
+  "commentaires": 10,
+  "lot_disponible": 50,
+  "structured_outputs": true,
+  "empreinte_protocole": "d47dc48c9e20220310aba4844ea9d363ed92a9782dcd367a711945cc33126f6e",
+  "modele": null,
+  "annotations_produites": 0,
+  "cout_api": 0,
+  "sortie": "classification_v1/preparation_10_sans_api",
+  "avertissement": "Requêtes préparées, pas de classification ni mesure de qualité."
+}
