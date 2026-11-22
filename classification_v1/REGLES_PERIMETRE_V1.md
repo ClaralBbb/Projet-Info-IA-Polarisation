@@ -21,3 +21,7 @@ Le tri documentaire est joint séparément aux données envoyées au modèle. Le
 L’admissibilité documentaire est calculée par Python : candidat seulement si vidéo et commentaire ont un lien plausible, sans signalement. Une position n’est qu’une **candidate aux statistiques** si, en plus, elle est thématiquement directe, favorable/critique/mitigée, avec exploitabilité « exploitable » et sans forte incertitude de cible ou de position. Ce marqueur ne remplace pas la validation de qualité du modèle. Aucune statistique publique ni mise à jour du dashboard n’est produite ici.
 
 Ces règles sont provisoires et versionnées. Les modifier nécessite un nouveau dossier d’exécution et une réévaluation des comparaisons. Les annotations historiques restent intactes.
+
+## Contrôle vidéo ajouté le 22 novembre 2026
+
+Le précontrôle et les preuves examinées sont désormais joints par vidéo via le registre de `verification_evenement/controle.py`. Pour marquer une position candidate aux statistiques principales, le rattachement de la vidéo doit être `rattachement_etaye`, en plus de toutes les conditions précédentes. Un lien seulement plausible reste utilisable pour l’exploration, pas pour ce marqueur statistique. Les métadonnées seules ne produisent jamais ce statut. Le registre des 50 est à vérifier : aucun visionnage ou recoupement indépendant n’a été effectué.

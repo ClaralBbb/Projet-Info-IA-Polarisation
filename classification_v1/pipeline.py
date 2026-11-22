@@ -7,6 +7,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 from urllib.request import Request, urlopen
 from urllib.error import HTTPError, URLError
+from verification_evenement.controle import attach
 
 ROOT = Path(__file__).resolve().parents[1]
 BASE = Path(__file__).resolve().parent
@@ -39,7 +40,7 @@ def scope_context(row,tri):
         'documentaire_candidat':treatment=='candidat_non_verifie','traitement':treatment,
         'verification_factuelle':False}
 
-def prepare(row,tri):
+def prepare(row,tri,verification=None):
     required=['comment_id','video_id','texte','parent_id','texte_parent']
     if not set(required)<=set(row):raise ValueError('Champs source manquants')
     if not isinstance(row['texte'],str) or not row['texte'].strip():raise ValueError('Texte source vide ou invalide')
@@ -48,7 +49,8 @@ def prepare(row,tri):
     for key in ['parent_id','texte_parent']:
         if row[key] is not None and not isinstance(row[key],str):raise ValueError('Parent source invalide')
     return {'commentaire':{k:row.get(k) for k in required+['titre_video','chaine','statut_parent']},
-            'contexte_documentaire':scope_context(row,tri)}
+            'contexte_documentaire':attach(
+                scope_context(row,tri),verification,row['video_id'])}
 
 def instructions():
     files=[BASE/'prompt_v1.md',BASE/'REGLES_PERIMETRE_V1.md',PILOTE/'PROTOCOLE_V1.md',
@@ -82,6 +84,7 @@ def main():
     parser=argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--input',type=Path,default=PILOTE/'commentaires_50.jsonl')
     parser.add_argument('--tri',type=Path,help='tri_50.json ou même format ; sinon seul le lot50 utilise son tri par défaut')
+    parser.add_argument('--verification',type=Path,help='Registre de contrôles vidéo; défaut : précontrôle du pilote uniquement')
     parser.add_argument('--output',type=Path,help='Dossier neuf dédié, ou reprise de la même configuration')
     parser.add_argument('--model',help='Identifiant exact du modèle à vérifier avant un appel réel')
     parser.add_argument('--reasoning-effort',choices=['low','medium','high'])
@@ -100,15 +103,22 @@ def main():
     tri={r['comment_id']:r for r in entries}
     if len(tri)!=len(entries):raise ValueError('Identifiants dupliqués dans le tri')
     selected=rows[:args.limit]
-    prepared=[prepare(r,tri.get(r['comment_id'])) for r in selected]
+    verification_path=args.verification
+    if verification_path is None and args.input.resolve()==(PILOTE/'commentaires_50.jsonl').resolve():
+        verification_path=ROOT/'verification_evenement/precontrole_50.json'
+    reviews=load(verification_path)['videos'] if verification_path else []
+    byvideo={v['video_id']:v for v in reviews}
+    if len(byvideo)!=len(reviews):raise ValueError('Vérification vidéo dupliquée')
+    prepared=[prepare(r,tri.get(r['comment_id']),byvideo.get(r['video_id'])) for r in selected]
     schema=load(PILOTE/'schema_annotation_v1.json');prompt=instructions()
     config={'version':'api-v1.0','model':args.model,'reasoning_effort':args.reasoning_effort,
         'schema':schema,'prompt':prompt,'input_sha256':hashlib.sha256(args.input.read_bytes()).hexdigest(),
+        'verification_sha256':hashlib.sha256(verification_path.read_bytes()).hexdigest() if verification_path else None,
         'tri_sha256':hashlib.sha256(tri_path.read_bytes()).hexdigest() if tri_path else None,
         'selection_comment_ids':[r['comment_id'] for r in selected],
         'donnees_envoyees_sha256':digest(prepared),'max_output_tokens':6000,
         'code_sha256':{str(p.relative_to(ROOT)):hashlib.sha256(p.read_bytes()).hexdigest()
-            for p in [BASE/'pipeline.py',ROOT/'classify_opinions.py',PILOTE/'valider_annotations.py']}}
+            for p in [BASE/'pipeline.py',ROOT/'classify_opinions.py',PILOTE/'valider_annotations.py',ROOT/'verification_evenement/controle.py']}}
     fingerprint=digest(config)
     output=args.output or BASE/('execution' if args.execute else 'simulation')
     # Un dossier dédié ne doit jamais écraser un fichier existant sans protocole connu.

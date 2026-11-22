@@ -1,0 +1,1779 @@
+{
+  "version": "verification-evenement-1.0",
+  "objet": "Vidéo traitant de la mobilisation du 17 octobre 2026 en France; pas authentification de chaque scène.",
+  "methode": "Extraction de repères dans titre/description; publication conservée séparément. Aucun visionnage, transcription ou recoupement exécuté.",
+  "source_sha256": "1e85ec784cfad93a2d39f44522f902987c0a5b1f3fae1992c9cdaa73992fc2bb",
+  "metadata_recuperees_le": "2026-11-22T11:22:14.236282+00:00",
+  "generation_utc": "2026-11-22T13:31:32.851973+00:00",
+  "videos": [
+    {
+      "video_id": "mkLjZK7jS5w",
+      "url": "https://www.youtube.com/watch?v=mkLjZK7jS5w",
+      "titre": "France Protest में भीड़ का खूनी तांडव, Police को दौड़ाया, Paris धधकने की 3 बड़ी वजह क्या| France Riots",
+      "publication_utc": "2026-10-19T12:45:06Z",
+      "indices_documentaires": [
+        {
+          "champ": "title",
+          "extrait": "France Protest में भीड़ का खूनी तांडव, Police को दौड़ाया, Paris धधकने की 3 बड़ी वजह क्या| France R"
+        },
+        {
+          "champ": "title",
+          "extrait": "Protest में भीड़ का खूनी तांडव, Police को दौड़ाया, Paris धधकने की 3 बड़ी वजह क्या| France Riots"
+        },
+        {
+          "champ": "title",
+          "extrait": " Police को दौड़ाया, Paris धधकने की 3 बड़ी वजह क्या| France Riots"
+        },
+        {
+          "champ": "description",
+          "extrait": "17 अक्टूबर 2026 को फ्रांस की सड़कों पर उतरे साढ़े पांच लाख से ज्यादा प्रदर्शनकारियों ने पेरिस, लिमोज और ल"
+        },
+        {
+          "champ": "description",
+          "extrait": "\nA massive wave of protests and violent riots hit France on October 17, 2026, with over 550,000 to 800,000 citizens taking to the streets across P"
+        },
+        {
+          "champ": "description",
+          "extrait": "tests and violent riots hit France on October 17, 2026, with over 550,000 to 800,000 citizens taking to the streets across Paris, Limoges, Marse"
+        },
+        {
+          "champ": "description",
+          "extrait": " to 800,000 citizens taking to the streets across Paris, Limoges, Marseille, and Lyon. Originally triggered by poor conditions in secondary schoo"
+        },
+        {
+          "champ": "description",
+          "extrait": ",000 citizens taking to the streets across Paris, Limoges, Marseille, and Lyon. Originally triggered by poor conditions in secondary schools (Lycée"
+        },
+        {
+          "champ": "description",
+          "extrait": "zens taking to the streets across Paris, Limoges, Marseille, and Lyon. Originally triggered by poor conditions in secondary schools (Lycées) and a la"
+        }
+      ],
+      "signalements_automatiques": [],
+      "statut": "a_verifier",
+      "preuves_examinees": [],
+      "date_controle": null,
+      "responsable_controle": null,
+      "motif": "Indices extraits automatiquement; décision documentaire encore nécessaire.",
+      "images_authentifiees": false
+    },
+    {
+      "video_id": "JiNkUhTwde8",
+      "url": "https://www.youtube.com/watch?v=JiNkUhTwde8",
+      "titre": "🔴 17 octobre : \"Le feu est circonscrit\", à l'hôtel de ville de Limoges｜LCI",
+      "publication_utc": "2026-10-18T07:43:48Z",
+      "indices_documentaires": [
+        {
+          "champ": "title",
+          "extrait": "🔴 17 octobre : \"Le feu est circonscrit\", à l'hôtel de ville de Limoges｜LCI"
+        },
+        {
+          "champ": "title",
+          "extrait": ": \"Le feu est circonscrit\", à l'hôtel de ville de Limoges｜LCI"
+        },
+        {
+          "champ": "description",
+          "extrait": "la situation de l'incendie de l'hôtel de ville de Limoges, ce dimanche 18 octobre\n\n➡️ L'hôtel de ville, datant du 19e siècle, a été ciblé et incend"
+        },
+        {
+          "champ": "description",
+          "extrait": "endie de l'hôtel de ville de Limoges, ce dimanche 18 octobre\n\n➡️ L'hôtel de ville, datant du 19e siècle, a été ciblé et incendié par des individus sam"
+        }
+      ],
+      "signalements_automatiques": [
+        "autre_date_ou_suite_a_examiner"
+      ],
+      "statut": "a_verifier",
+      "preuves_examinees": [],
+      "date_controle": null,
+      "responsable_controle": null,
+      "motif": "Indices extraits automatiquement; décision documentaire encore nécessaire.",
+      "images_authentifiees": false
+    },
+    {
+      "video_id": "7seIp_kR-8k",
+      "url": "https://www.youtube.com/watch?v=7seIp_kR-8k",
+      "titre": "Ces images de touristes à Paris pendant le 17 octobre font le tour du monde",
+      "publication_utc": "2026-10-19T18:16:44Z",
+      "indices_documentaires": [
+        {
+          "champ": "title",
+          "extrait": "Ces images de touristes à Paris pendant le 17 octobre font le tour du monde"
+        },
+        {
+          "champ": "title",
+          "extrait": "Ces images de touristes à Paris pendant le 17 octobre font le tour du monde"
+        },
+        {
+          "champ": "description",
+          "extrait": "Ces images de touristes à Paris pendant le 17 octobre font le tour du monde."
+        },
+        {
+          "champ": "description",
+          "extrait": "Ces images de touristes à Paris pendant le 17 octobre font le tour du monde."
+        }
+      ],
+      "signalements_automatiques": [],
+      "statut": "a_verifier",
+      "preuves_examinees": [],
+      "date_controle": null,
+      "responsable_controle": null,
+      "motif": "Indices extraits automatiquement; décision documentaire encore nécessaire.",
+      "images_authentifiees": false
+    },
+    {
+      "video_id": "0S4IV3mdH2w",
+      "url": "https://www.youtube.com/watch?v=0S4IV3mdH2w",
+      "titre": "17 octobre: la secrétaire nationale du syndicat de police UN1TÉ fait état d'un \"épuisement massif\"",
+      "publication_utc": "2026-10-21T07:04:45Z",
+      "indices_documentaires": [
+        {
+          "champ": "title",
+          "extrait": "17 octobre: la secrétaire nationale du syndicat de police UN1TÉ fait état d'un \"épuisement massif\""
+        },
+        {
+          "champ": "description",
+          "extrait": "t l'invitée du Face à Face ce mercredi 21 octobre 2026. Elle évoque le maintien de l'ordre lors de la mobilisation du 17 octobre et le prochain "
+        },
+        {
+          "champ": "description",
+          "extrait": "le maintien de l'ordre lors de la mobilisation du 17 octobre et le prochain rassemblement prévu le 24 octobre."
+        },
+        {
+          "champ": "description",
+          "extrait": " 17 octobre et le prochain rassemblement prévu le 24 octobre."
+        }
+      ],
+      "signalements_automatiques": [
+        "autre_date_ou_suite_a_examiner"
+      ],
+      "statut": "a_verifier",
+      "preuves_examinees": [],
+      "date_controle": null,
+      "responsable_controle": null,
+      "motif": "Indices extraits automatiquement; décision documentaire encore nécessaire.",
+      "images_authentifiees": false
+    },
+    {
+      "video_id": "2Id5JOV0c3s",
+      "url": "https://www.youtube.com/watch?v=2Id5JOV0c3s",
+      "titre": "Des objets pillés lors des manifestations du 17 octobre en vente sur plusieurs plateformes.",
+      "publication_utc": "2026-10-19T16:32:47Z",
+      "indices_documentaires": [
+        {
+          "champ": "title",
+          "extrait": "Des objets pillés lors des manifestations du 17 octobre en vente sur plusieurs plateformes."
+        },
+        {
+          "champ": "description",
+          "extrait": "Des objets pillés lors des manifestations du 17 octobre en vente sur les plateformes de Vinted, LeBonCoin ou encore eBay, le gouvernement interpe"
+        }
+      ],
+      "signalements_automatiques": [],
+      "statut": "a_verifier",
+      "preuves_examinees": [],
+      "date_controle": null,
+      "responsable_controle": null,
+      "motif": "Indices extraits automatiquement; décision documentaire encore nécessaire.",
+      "images_authentifiees": false
+    },
+    {
+      "video_id": "Q7Jn1wJM1_k",
+      "url": "https://www.youtube.com/watch?v=Q7Jn1wJM1_k",
+      "titre": "17 octobre : un couple d'octogénaires agressé et laissé dénudé à Paris ? • FRANCE 24",
+      "publication_utc": "2026-10-19T21:36:38Z",
+      "indices_documentaires": [
+        {
+          "champ": "title",
+          "extrait": "17 octobre : un couple d'octogénaires agressé et laissé dénudé à Paris ? • FRANCE 24"
+        },
+        {
+          "champ": "title",
+          "extrait": " couple d'octogénaires agressé et laissé dénudé à Paris ? • FRANCE 24"
+        },
+        {
+          "champ": "title",
+          "extrait": "octogénaires agressé et laissé dénudé à Paris ? • FRANCE 24"
+        },
+        {
+          "champ": "description",
+          "extrait": "Depuis la manifestation du 17 octobre à Paris, des clichés montrant un couple de personnes âgées en sous-vêtements, prétendumen"
+        },
+        {
+          "champ": "description",
+          "extrait": "Depuis la manifestation du 17 octobre à Paris, des clichés montrant un couple de personnes âgées en sous-vêtements, prétendument dépoui"
+        },
+        {
+          "champ": "description",
+          "extrait": "ouTube : https://f24.my/YTfr\n🔴 En DIRECT - Suivez FRANCE 24 ici : https://f24.my/YTliveFR\n\n🌍 Retrouvez toute l’actualité internationale sur notre "
+        }
+      ],
+      "signalements_automatiques": [
+        "contenu_conteste_a_examiner"
+      ],
+      "statut": "a_verifier",
+      "preuves_examinees": [],
+      "date_controle": null,
+      "responsable_controle": null,
+      "motif": "Indices extraits automatiquement; décision documentaire encore nécessaire.",
+      "images_authentifiees": false
+    },
+    {
+      "video_id": "G0Pdgn_-EEs",
+      "url": "https://www.youtube.com/watch?v=G0Pdgn_-EEs",
+      "titre": "À Clermont-Ferrand, une tornade de feu s'est formée lors de la manifestation du 17 octobre",
+      "publication_utc": "2026-10-17T14:01:13Z",
+      "indices_documentaires": [
+        {
+          "champ": "title",
+          "extrait": "À Clermont-Ferrand, une tornade de feu s'est formée lors de la manifestation du 17 octobre"
+        },
+        {
+          "champ": "title",
+          "extrait": "e de feu s'est formée lors de la manifestation du 17 octobre"
+        },
+        {
+          "champ": "description",
+          "extrait": "À Clermont-Ferrand, une tornade de feu s'est formée momentanément lors de la manifestation du 17 oct"
+        },
+        {
+          "champ": "description",
+          "extrait": " formée momentanément lors de la manifestation du 17 octobre.\n\n#Clermont #tornade #feu #manifestation #17octobre \n\n[Images réseaus sociaux]"
+        },
+        {
+          "champ": "description",
+          "extrait": "anément lors de la manifestation du 17 octobre.\n\n#Clermont #tornade #feu #manifestation #17octobre \n\n[Images réseaus sociaux]"
+        },
+        {
+          "champ": "description",
+          "extrait": "octobre.\n\n#Clermont #tornade #feu #manifestation #17octobre \n\n[Images réseaus sociaux]"
+        }
+      ],
+      "signalements_automatiques": [],
+      "statut": "a_verifier",
+      "preuves_examinees": [],
+      "date_controle": null,
+      "responsable_controle": null,
+      "motif": "Indices extraits automatiquement; décision documentaire encore nécessaire.",
+      "images_authentifiees": false
+    },
+    {
+      "video_id": "41xyGJOJUsQ",
+      "url": "https://www.youtube.com/watch?v=41xyGJOJUsQ",
+      "titre": "Paris vu de Berlin et de Madrid : pas le même 17 octobre",
+      "publication_utc": "2026-10-18T16:38:42Z",
+      "indices_documentaires": [
+        {
+          "champ": "title",
+          "extrait": "Paris vu de Berlin et de Madrid : pas le même 17 octobre"
+        },
+        {
+          "champ": "title",
+          "extrait": "Paris vu de Berlin et de Madrid : pas le même 17 octobre"
+        },
+        {
+          "champ": "description",
+          "extrait": "La France vue de l'étranger\n\nMême manif, deux télés : l'ARD allemande (JT de 20h34) raconte l'escal"
+        },
+        {
+          "champ": "description",
+          "extrait": "'ARD allemande (JT de 20h34) raconte l'escalade à Paris et compte plus de 270 interpellations ; la RTVE espagnole (21h58) parle de la colère soci"
+        },
+        {
+          "champ": "description",
+          "extrait": "ptes quoi ? Dis-le en commentaire.\n\n#TasLaSource #17octobre #manifestation #ARD #RTVE #médias\n\nSOURCES (heure de Paris)\n- ARD · tagesschau 20 Uhr · 1"
+        },
+        {
+          "champ": "description",
+          "extrait": "nifestation #ARD #RTVE #médias\n\nSOURCES (heure de Paris)\n- ARD · tagesschau 20 Uhr · 17/10/2026 · 20h34 — « Michael Strempel, ARD Paris, über die"
+        },
+        {
+          "champ": "description",
+          "extrait": "RCES (heure de Paris)\n- ARD · tagesschau 20 Uhr · 17/10/2026 · 20h34 — « Michael Strempel, ARD Paris, über die gewalttätigen Proteste in Frankrei"
+        },
+        {
+          "champ": "description",
+          "extrait": "heure de Paris)\n- ARD · tagesschau 20 Uhr · 17/10/2026 · 20h34 — « Michael Strempel, ARD Paris, über die gewalttätigen Proteste in Frankreich » "
+        },
+        {
+          "champ": "description",
+          "extrait": "hr · 17/10/2026 · 20h34 — « Michael Strempel, ARD Paris, über die gewalttätigen Proteste in Frankreich » — https://www.tagesschau.de/tagesschau_2"
+        },
+        {
+          "champ": "description",
+          "extrait": "42.77-0:44.29 (1.5 s)\n- ARD · tagesschau 20 Uhr · 17/10/2026 · 20h34 — « Michael Strempel, ARD Paris, über die gewalttätigen Proteste in Frankrei"
+        },
+        {
+          "champ": "description",
+          "extrait": "0:44.29 (1.5 s)\n- ARD · tagesschau 20 Uhr · 17/10/2026 · 20h34 — « Michael Strempel, ARD Paris, über die gewalttätigen Proteste in Frankreich » "
+        },
+        {
+          "champ": "description",
+          "extrait": "hr · 17/10/2026 · 20h34 — « Michael Strempel, ARD Paris, über die gewalttätigen Proteste in Frankreich » — https://www.tagesschau.de/tagesschau_2"
+        },
+        {
+          "champ": "description",
+          "extrait": "04.25 (6.1 s)\n- RTVE · Telediario Fin de Semana · 17/10/2026 · 21h58 — « 800.000 personas protestan en Francia por el alto coste de la vida » — h"
+        },
+        {
+          "champ": "description",
+          "extrait": "(6.1 s)\n- RTVE · Telediario Fin de Semana · 17/10/2026 · 21h58 — « 800.000 personas protestan en Francia por el alto coste de la vida » — https:"
+        },
+        {
+          "champ": "description",
+          "extrait": " :\n- 270 interpellations : ARD tagesschau 20 Uhr, 17/10/2026 20h34\n- 800 000 manifestants selon les organisateurs : RTVE Telediario, 17/10/2026 2"
+        },
+        {
+          "champ": "description",
+          "extrait": "70 interpellations : ARD tagesschau 20 Uhr, 17/10/2026 20h34\n- 800 000 manifestants selon les organisateurs : RTVE Telediario, 17/10/2026 21h58\n"
+        },
+        {
+          "champ": "description",
+          "extrait": "stants selon les organisateurs : RTVE Telediario, 17/10/2026 21h58\n\nCourte citation à titre d'information, droit de citation (art. L122-5 CPI). E"
+        },
+        {
+          "champ": "description",
+          "extrait": " selon les organisateurs : RTVE Telediario, 17/10/2026 21h58\n\nCourte citation à titre d'information, droit de citation (art. L122-5 CPI). Extrai"
+        }
+      ],
+      "signalements_automatiques": [],
+      "statut": "a_verifier",
+      "preuves_examinees": [],
+      "date_controle": null,
+      "responsable_controle": null,
+      "motif": "Indices extraits automatiquement; décision documentaire encore nécessaire.",
+      "images_authentifiees": false
+    },
+    {
+      "video_id": "LjJFZKshQI8",
+      "url": "https://www.youtube.com/watch?v=LjJFZKshQI8",
+      "titre": "Violent clashes and looting break out in Paris during protests in France",
+      "publication_utc": "2026-10-17T19:41:49Z",
+      "indices_documentaires": [
+        {
+          "champ": "title",
+          "extrait": "Violent clashes and looting break out in Paris during protests in France"
+        },
+        {
+          "champ": "title",
+          "extrait": "and looting break out in Paris during protests in France"
+        },
+        {
+          "champ": "description",
+          "extrait": "s in the Place de la République, northeast of the Paris city center.  Similar tensions erupted Saturday in other big cities on the fringes of nat"
+        }
+      ],
+      "signalements_automatiques": [],
+      "statut": "a_verifier",
+      "preuves_examinees": [],
+      "date_controle": null,
+      "responsable_controle": null,
+      "motif": "Indices extraits automatiquement; décision documentaire encore nécessaire.",
+      "images_authentifiees": false
+    },
+    {
+      "video_id": "UtcVv-_Dcuk",
+      "url": "https://www.youtube.com/watch?v=UtcVv-_Dcuk",
+      "titre": "17 octobre : le cheval de Troie de l'école Boulle défile à Paris",
+      "publication_utc": "2026-10-17T11:58:13Z",
+      "indices_documentaires": [
+        {
+          "champ": "title",
+          "extrait": "17 octobre : le cheval de Troie de l'école Boulle défile à Paris"
+        },
+        {
+          "champ": "title",
+          "extrait": "e : le cheval de Troie de l'école Boulle défile à Paris"
+        },
+        {
+          "champ": "description",
+          "extrait": "Les étudiants de l'école d'art Boulle à Paris défilent avec un cheval de Troie et des masques conçus par leurs soins, lors de la manife"
+        },
+        {
+          "champ": "description",
+          "extrait": "onçus par leurs soins, lors de la manifestation à Paris le 17 octobre. Toutes les infos en direct à suivre sur le site du Parisien.  #shorts"
+        },
+        {
+          "champ": "description",
+          "extrait": " leurs soins, lors de la manifestation à Paris le 17 octobre. Toutes les infos en direct à suivre sur le site du Parisien.  #shorts"
+        }
+      ],
+      "signalements_automatiques": [],
+      "statut": "a_verifier",
+      "preuves_examinees": [],
+      "date_controle": null,
+      "responsable_controle": null,
+      "motif": "Indices extraits automatiquement; décision documentaire encore nécessaire.",
+      "images_authentifiees": false
+    },
+    {
+      "video_id": "yiYE9YWrWvI",
+      "url": "https://www.youtube.com/watch?v=yiYE9YWrWvI",
+      "titre": "الذكريات 17 اكتوبر 1961 في باريس",
+      "publication_utc": "2026-10-17T14:25:58Z",
+      "indices_documentaires": [
+        {
+          "champ": "title",
+          "extrait": "الذكريات 17 اكتوبر 1961 في باريس"
+        }
+      ],
+      "signalements_automatiques": [
+        "reference_1961_a_distinguer",
+        "description_absente"
+      ],
+      "statut": "a_verifier",
+      "preuves_examinees": [],
+      "date_controle": null,
+      "responsable_controle": null,
+      "motif": "Indices extraits automatiquement; décision documentaire encore nécessaire.",
+      "images_authentifiees": false
+    },
+    {
+      "video_id": "zmQI1RK5HD8",
+      "url": "https://www.youtube.com/watch?v=zmQI1RK5HD8",
+      "titre": "🚨 JE SUIS SIDÉRÉE 😧 #lycee #blocus #manifestation #paris #17octobre",
+      "publication_utc": "2026-10-20T22:37:17Z",
+      "indices_documentaires": [
+        {
+          "champ": "title",
+          "extrait": " JE SUIS SIDÉRÉE 😧 #lycee #blocus #manifestation #paris #17octobre"
+        },
+        {
+          "champ": "title",
+          "extrait": "S SIDÉRÉE 😧 #lycee #blocus #manifestation #paris #17octobre"
+        }
+      ],
+      "signalements_automatiques": [
+        "description_absente"
+      ],
+      "statut": "a_verifier",
+      "preuves_examinees": [],
+      "date_controle": null,
+      "responsable_controle": null,
+      "motif": "Indices extraits automatiquement; décision documentaire encore nécessaire.",
+      "images_authentifiees": false
+    },
+    {
+      "video_id": "RBTgffFKkwg",
+      "url": "https://www.youtube.com/watch?v=RBTgffFKkwg",
+      "titre": "« Une CRS a perdu toute son aura » ? La sommation du 17 octobre, image par image",
+      "publication_utc": "2026-10-18T08:59:07Z",
+      "indices_documentaires": [
+        {
+          "champ": "title",
+          "extrait": "ne CRS a perdu toute son aura » ? La sommation du 17 octobre, image par image"
+        },
+        {
+          "champ": "description",
+          "extrait": "17 octobre : « une CRS a perdu toute son aura » ? 14 secondes, image par image.\n\nLa phrase moquée su"
+        },
+        {
+          "champ": "description",
+          "extrait": "l'extrait.\n\nImages : post X @riyadinhoo_ (17 oct. 2026, 12 h 08), lieu et auteur des images non précisés. Visages floutés par nos soins.\nSources"
+        },
+        {
+          "champ": "description",
+          "extrait": " sommations ; décret n° 2021-556 du 5 mai 2021.\n\n#17octobre #imageparimage #analyse #manifestation #thready\n\n▶ Soutenir la chaîne : https://fr.tipeee"
+        }
+      ],
+      "signalements_automatiques": [],
+      "statut": "a_verifier",
+      "preuves_examinees": [],
+      "date_controle": null,
+      "responsable_controle": null,
+      "motif": "Indices extraits automatiquement; décision documentaire encore nécessaire.",
+      "images_authentifiees": false
+    },
+    {
+      "video_id": "YDsCOd9IixA",
+      "url": "https://www.youtube.com/watch?v=YDsCOd9IixA",
+      "titre": "BASSEM MANIFESTATION 17OCTOBRE 2026 #bassembraiki #humour #lifeisbutadream #bassem #live #apprends",
+      "publication_utc": "2026-10-17T21:17:38Z",
+      "indices_documentaires": [
+        {
+          "champ": "title",
+          "extrait": "BASSEM MANIFESTATION 17OCTOBRE 2026 #bassembraiki #humour #lifeisbutadream #bassem #live #apprends"
+        },
+        {
+          "champ": "title",
+          "extrait": "BASSEM MANIFESTATION 17OCTOBRE 2026 #bassembraiki #humour #lifeisbutadream #bassem #live #apprends"
+        }
+      ],
+      "signalements_automatiques": [
+        "description_absente"
+      ],
+      "statut": "a_verifier",
+      "preuves_examinees": [],
+      "date_controle": null,
+      "responsable_controle": null,
+      "motif": "Indices extraits automatiquement; décision documentaire encore nécessaire.",
+      "images_authentifiees": false
+    },
+    {
+      "video_id": "h-D3ArQPwqc",
+      "url": "https://www.youtube.com/watch?v=h-D3ArQPwqc",
+      "titre": "Manifestations du 17 octobre : \" Mes collègues sont épuisés\".",
+      "publication_utc": "2026-10-18T18:41:43Z",
+      "indices_documentaires": [
+        {
+          "champ": "title",
+          "extrait": "Manifestations du 17 octobre : \" Mes collègues sont épuisés\"."
+        }
+      ],
+      "signalements_automatiques": [],
+      "statut": "a_verifier",
+      "preuves_examinees": [],
+      "date_controle": null,
+      "responsable_controle": null,
+      "motif": "Indices extraits automatiquement; décision documentaire encore nécessaire.",
+      "images_authentifiees": false
+    },
+    {
+      "video_id": "ajB3OzOYeuI",
+      "url": "https://www.youtube.com/watch?v=ajB3OzOYeuI",
+      "titre": "Paris Before vs. During the Protest 😳🇫🇷 | October 17",
+      "publication_utc": "2026-10-19T11:24:48Z",
+      "indices_documentaires": [
+        {
+          "champ": "title",
+          "extrait": "Paris Before vs. During the Protest 😳🇫🇷 | October 17"
+        },
+        {
+          "champ": "description",
+          "extrait": " October 17, I captured Place de la République in Paris before a demonstration… and later witnessed the square filled with protesters.\n\nFrom the "
+        },
+        {
+          "champ": "description",
+          "extrait": "nic monument to a crowd gathering in the heart of Paris, the transformation was striking.\n\nOne location. Two very different moments.\n\nHave you ev"
+        },
+        {
+          "champ": "description",
+          "extrait": "ou ever witnessed a protest while traveling? 👀👇\n\n#Paris #PlaceDeLaRepublique #ParisProtest #October17 #ParisFrance #ParisStreets #ParisVlog #Trav"
+        }
+      ],
+      "signalements_automatiques": [],
+      "statut": "a_verifier",
+      "preuves_examinees": [],
+      "date_controle": null,
+      "responsable_controle": null,
+      "motif": "Indices extraits automatiquement; décision documentaire encore nécessaire.",
+      "images_authentifiees": false
+    },
+    {
+      "video_id": "xtAv962QL-0",
+      "url": "https://www.youtube.com/watch?v=xtAv962QL-0",
+      "titre": "Quand les lycéens demandent 10 milliards d'euros, l'État rigole, s'esclaffe par T.Pech - C Ce Soir",
+      "publication_utc": "2026-10-20T21:00:03Z",
+      "indices_documentaires": [
+        {
+          "champ": "description",
+          "extrait": "________________________________________________\n\n17 Octobre : Une réponse politique à la hauteur ?\n\n72h après les évènements du 17 octobre, et alors "
+        },
+        {
+          "champ": "description",
+          "extrait": "tique à la hauteur ?\n\n72h après les évènements du 17 octobre, et alors que le gouvernement a, en partie, reconnu un échec sécuritaire, l’heure est aux"
+        },
+        {
+          "champ": "description",
+          "extrait": "es invités de Camille Diao de ce mardi 20 octobre 2026 :\n\n- Marie LAJUS, haute fonctionnaire, ancienne préfète et ancienne commissaire de police"
+        },
+        {
+          "champ": "description",
+          "extrait": " think tank Terra Nova, a co-écrit « Sans eux. La France sans les immigrés », avec Guillaume Hannezo et Hakim El Karoui (Les Petits Matins)\n\n- Tho"
+        },
+        {
+          "champ": "description",
+          "extrait": " nationale\n\n- Lou Fritel, journaliste politique à Paris Match - suivi des droites\n\n- Anne-Charlène BEZZINA, constitutionnaliste, maîtresse de con"
+        }
+      ],
+      "signalements_automatiques": [],
+      "statut": "a_verifier",
+      "preuves_examinees": [],
+      "date_controle": null,
+      "responsable_controle": null,
+      "motif": "Indices extraits automatiquement; décision documentaire encore nécessaire.",
+      "images_authentifiees": false
+    },
+    {
+      "video_id": "CQOZLID8iP4",
+      "url": "https://www.youtube.com/watch?v=CQOZLID8iP4",
+      "titre": "Après les émeutes : des réponses du gouvernement à la hauteur ? - C Ce Soir du 20 octobre 2026",
+      "publication_utc": "2026-10-21T15:54:53Z",
+      "indices_documentaires": [
+        {
+          "champ": "title",
+          "extrait": "ernement à la hauteur ? - C Ce Soir du 20 octobre 2026"
+        },
+        {
+          "champ": "description",
+          "extrait": "_____________________\n72h après les évènements du 17 octobre, et alors que le gouvernement a, en partie, reconnu un échec sécuritaire, l’heure est aux"
+        },
+        {
+          "champ": "description",
+          "extrait": "es invités de Camille Diao de ce mardi 20 octobre 2026 :\n\n- Marie LAJUS, haute fonctionnaire, ancienne préfète et ancienne commissaire de police"
+        },
+        {
+          "champ": "description",
+          "extrait": " think tank Terra Nova, a co-écrit « Sans eux. La France sans les immigrés », avec Guillaume Hannezo et Hakim El Karoui (Les Petits Matins)\n\n- Tho"
+        },
+        {
+          "champ": "description",
+          "extrait": " nationale\n\n- Lou Fritel, journaliste politique à Paris Match - suivi des droites\n\n- Anne-Charlène BEZZINA, constitutionnaliste, maîtresse de con"
+        }
+      ],
+      "signalements_automatiques": [],
+      "statut": "a_verifier",
+      "preuves_examinees": [],
+      "date_controle": null,
+      "responsable_controle": null,
+      "motif": "Indices extraits automatiquement; décision documentaire encore nécessaire.",
+      "images_authentifiees": false
+    },
+    {
+      "video_id": "zegInBONnoE",
+      "url": "https://www.youtube.com/watch?v=zegInBONnoE",
+      "titre": "🔴 La mairie de #Limoges incendiée.#17octobre #manif #manifestation",
+      "publication_utc": "2026-10-17T16:48:07Z",
+      "indices_documentaires": [
+        {
+          "champ": "title",
+          "extrait": "🔴 La mairie de #Limoges incendiée.#17octobre #manif #manifestation"
+        },
+        {
+          "champ": "title",
+          "extrait": "🔴 La mairie de #Limoges incendiée.#17octobre #manif #manifestation"
+        }
+      ],
+      "signalements_automatiques": [
+        "description_absente"
+      ],
+      "statut": "a_verifier",
+      "preuves_examinees": [],
+      "date_controle": null,
+      "responsable_controle": null,
+      "motif": "Indices extraits automatiquement; décision documentaire encore nécessaire.",
+      "images_authentifiees": false
+    },
+    {
+      "video_id": "TQRpopieF2Y",
+      "url": "https://www.youtube.com/watch?v=TQRpopieF2Y",
+      "titre": "\"Violences lors des manifestations du 17 octobre : \"Il y a cette dimension de pillage\".",
+      "publication_utc": "2026-10-18T12:55:01Z",
+      "indices_documentaires": [
+        {
+          "champ": "title",
+          "extrait": "\"Violences lors des manifestations du 17 octobre : \"Il y a cette dimension de pillage\"."
+        },
+        {
+          "champ": "description",
+          "extrait": "s dégradations annexes qu'il y a eu dans toute la France, Jean-François Amadieu, sociologue analyse les attitudes des casseurs. \n\nJean-François Am"
+        }
+      ],
+      "signalements_automatiques": [],
+      "statut": "a_verifier",
+      "preuves_examinees": [],
+      "date_controle": null,
+      "responsable_controle": null,
+      "motif": "Indices extraits automatiquement; décision documentaire encore nécessaire.",
+      "images_authentifiees": false
+    },
+    {
+      "video_id": "Qo5yyhng83M",
+      "url": "https://www.youtube.com/watch?v=Qo5yyhng83M",
+      "titre": "17 octobre : incendies et pillages en marge des manifestations",
+      "publication_utc": "2026-10-18T09:59:33Z",
+      "indices_documentaires": [
+        {
+          "champ": "title",
+          "extrait": "17 octobre : incendies et pillages en marge des manifestations"
+        },
+        {
+          "champ": "description",
+          "extrait": "pris pour cible samedi dans les grandes villes de France, éclipsant la mobilisation contre la vie chère. Quelque 1.800 personnes ont été interpell"
+        }
+      ],
+      "signalements_automatiques": [],
+      "statut": "a_verifier",
+      "preuves_examinees": [],
+      "date_controle": null,
+      "responsable_controle": null,
+      "motif": "Indices extraits automatiquement; décision documentaire encore nécessaire.",
+      "images_authentifiees": false
+    },
+    {
+      "video_id": "BToKBB1ISWg",
+      "url": "https://www.youtube.com/watch?v=BToKBB1ISWg",
+      "titre": "17 OCTOBRE : CE QUE LES CHAÎNES D’INFO PASSENT SOUS SILENCE",
+      "publication_utc": "2026-10-19T17:20:02Z",
+      "indices_documentaires": [
+        {
+          "champ": "title",
+          "extrait": "17 OCTOBRE : CE QUE LES CHAÎNES D’INFO PASSENT SOUS SILENCE"
+        },
+        {
+          "champ": "description",
+          "extrait": "pillages, affrontements avec la police… Depuis le 17 octobre, les images tournent en boucle. Mais que raconte-t-on vraiment de cette journée de mobili"
+        },
+        {
+          "champ": "description",
+          "extrait": "’on en parle, nous revenons sur les événements du 17 octobre pour regarder au-delà des images qui ont dominé l’actualité. La nasse policière place de "
+        },
+        {
+          "champ": "description",
+          "extrait": "0:00 Bienvenue dans « Faut qu’on en parle »\n02:28 17 octobre : ce que les grands médias ne racontent pas\n07:16 Laurent Nuñez : une démission refusée p"
+        },
+        {
+          "champ": "description",
+          "extrait": "outenir l’indépendance du Média\n12:46 Incendie de Limoges : Corbière répond aux accusations contre LFI\n18:10 17 octobre : la convergence des luttes"
+        },
+        {
+          "champ": "description",
+          "extrait": " Corbière répond aux accusations contre LFI\n18:10 17 octobre : la convergence des luttes a-t-elle eu lieu ?\n24:50 Qui sont les manifestants ? Les prem"
+        }
+      ],
+      "signalements_automatiques": [],
+      "statut": "a_verifier",
+      "preuves_examinees": [],
+      "date_controle": null,
+      "responsable_controle": null,
+      "motif": "Indices extraits automatiquement; décision documentaire encore nécessaire.",
+      "images_authentifiees": false
+    },
+    {
+      "video_id": "wTKt7MyqZHE",
+      "url": "https://www.youtube.com/watch?v=wTKt7MyqZHE",
+      "titre": "Manifestation étudiante autorisée à Paris ce 22 octobre après interdiction par la préfecture",
+      "publication_utc": "2026-10-22T14:46:59Z",
+      "indices_documentaires": [
+        {
+          "champ": "title",
+          "extrait": "Manifestation étudiante autorisée à Paris ce 22 octobre après interdiction par la préfecture"
+        },
+        {
+          "champ": "title",
+          "extrait": "Manifestation étudiante autorisée à Paris ce 22 octobre après interdiction par la préfecture"
+        },
+        {
+          "champ": "description",
+          "extrait": "ation des lycéens et étudiants organisée ce jeudi 22 octobre 2026 à Paris, interdite la veille par la préfecture de police puis autorisée par le tribu"
+        },
+        {
+          "champ": "description",
+          "extrait": "ycéens et étudiants organisée ce jeudi 22 octobre 2026 à Paris, interdite la veille par la préfecture de police puis autorisée par le tribunal a"
+        },
+        {
+          "champ": "description",
+          "extrait": "et étudiants organisée ce jeudi 22 octobre 2026 à Paris, interdite la veille par la préfecture de police puis autorisée par le tribunal administr"
+        },
+        {
+          "champ": "description",
+          "extrait": ".\n\nL'appel était porté par l'AG Interfac d'Île-de-France, la coordination lycéenne Paris x Banlieue, la Coordination nationale étudiante et la Coo"
+        },
+        {
+          "champ": "description",
+          "extrait": "nterfac d'Île-de-France, la coordination lycéenne Paris x Banlieue, la Coordination nationale étudiante et la Coordination nationale lycéenne, po"
+        },
+        {
+          "champ": "description",
+          "extrait": "r les exactions lors des rassemblements des 13 et 17 octobre. Le 17 octobre, la journée contre la vie chère avait donné lieu à des pillages, un mort p"
+        },
+        {
+          "champ": "description",
+          "extrait": " lors des rassemblements des 13 et 17 octobre. Le 17 octobre, la journée contre la vie chère avait donné lieu à des pillages, un mort par arrêt cardio"
+        },
+        {
+          "champ": "description",
+          "extrait": "arrêt cardiorespiratoire et 855 interpellations à Paris.\n\nSaisi en référé par l'Interfac, le juge des référés a suspendu l'interdiction peu après"
+        },
+        {
+          "champ": "description",
+          "extrait": " appellent à rejoindre la manifestation du samedi 24 octobre entre Bastille et Opéra, puis la journée de mobilisation lycéenne du 3 novembre et la grè"
+        },
+        {
+          "champ": "description",
+          "extrait": "ormer en point de départ d'une grève générale.\n\nÀ Paris, la manifestation étudiante et lycéenne du 22 octobre, autorisée par le tribunal administ"
+        },
+        {
+          "champ": "description",
+          "extrait": " Paris, la manifestation étudiante et lycéenne du 22 octobre, autorisée par le tribunal administratif puis restreinte par la préfecture de police, s'e"
+        },
+        {
+          "champ": "description",
+          "extrait": "el épisode du bras de fer entre l'Interfac Île-de-France et les autorités avant les mobilisations du 24 octobre et du 5 novembre.\n\nAbonnez-vous po"
+        },
+        {
+          "champ": "description",
+          "extrait": "rance et les autorités avant les mobilisations du 24 octobre et du 5 novembre.\n\nAbonnez-vous pour suivre toute l'actualité filmée sur le terrain sans "
+        },
+        {
+          "champ": "description",
+          "extrait": " https://youtube.com/clpress?sub_confirmation=1\n\n#Paris #étudiants #lycéens #colère #mouvementdescolères #manifestation #17octobre #giletsjaunes "
+        },
+        {
+          "champ": "description",
+          "extrait": "éens #colère #mouvementdescolères #manifestation #17octobre #giletsjaunes #convergencedescolères #colères #blocus #blocage \n#Actualités #Informations"
+        }
+      ],
+      "signalements_automatiques": [
+        "autre_date_ou_suite_a_examiner"
+      ],
+      "statut": "a_verifier",
+      "preuves_examinees": [],
+      "date_controle": null,
+      "responsable_controle": null,
+      "motif": "Indices extraits automatiquement; décision documentaire encore nécessaire.",
+      "images_authentifiees": false
+    },
+    {
+      "video_id": "bwqhZS799V4",
+      "url": "https://www.youtube.com/watch?v=bwqhZS799V4",
+      "titre": "🇫🇷17 OCTOBRE : PARIS EST TOTALEMENT HORS DE CONTRÔLE !",
+      "publication_utc": "2026-10-17T17:30:28Z",
+      "indices_documentaires": [
+        {
+          "champ": "title",
+          "extrait": "🇫🇷17 OCTOBRE : PARIS EST TOTALEMENT HORS DE CONTRÔLE !"
+        },
+        {
+          "champ": "title",
+          "extrait": "🇫🇷17 OCTOBRE : PARIS EST TOTALEMENT HORS DE CONTRÔLE !"
+        }
+      ],
+      "signalements_automatiques": [],
+      "statut": "a_verifier",
+      "preuves_examinees": [],
+      "date_controle": null,
+      "responsable_controle": null,
+      "motif": "Indices extraits automatiquement; décision documentaire encore nécessaire.",
+      "images_authentifiees": false
+    },
+    {
+      "video_id": "htfndCEFJBs",
+      "url": "https://www.youtube.com/watch?v=htfndCEFJBs",
+      "titre": "Paris the day after the October 17 protests.",
+      "publication_utc": "2026-10-18T16:45:52Z",
+      "indices_documentaires": [
+        {
+          "champ": "title",
+          "extrait": "Paris the day after the October 17 protests."
+        },
+        {
+          "champ": "description",
+          "extrait": "#paris"
+        }
+      ],
+      "signalements_automatiques": [],
+      "statut": "a_verifier",
+      "preuves_examinees": [],
+      "date_controle": null,
+      "responsable_controle": null,
+      "motif": "Indices extraits automatiquement; décision documentaire encore nécessaire.",
+      "images_authentifiees": false
+    },
+    {
+      "video_id": "TRLtPjjOArw",
+      "url": "https://www.youtube.com/watch?v=TRLtPjjOArw",
+      "titre": "Mobilisation du 7 octobre : L'hôtel de ville de Limoges ravagé par un incendie｜TF1 INFO",
+      "publication_utc": "2026-10-17T19:32:29Z",
+      "indices_documentaires": [
+        {
+          "champ": "title",
+          "extrait": "Mobilisation du 7 octobre : L'hôtel de ville de Limoges ravagé par un incendie｜TF1 INFO"
+        },
+        {
+          "champ": "description",
+          "extrait": "🔴 L’hôtel de ville de Limoges a été ravagé par un incendie ce samedi soir en marge de la mobilisation du 17 octobre. Pl"
+        },
+        {
+          "champ": "description",
+          "extrait": "die ce samedi soir en marge de la mobilisation du 17 octobre. Plusieurs milliers de personnes ont participé à la manifestation dans la ville avant que"
+        }
+      ],
+      "signalements_automatiques": [
+        "contradiction_7_17_octobre"
+      ],
+      "statut": "a_verifier",
+      "preuves_examinees": [],
+      "date_controle": null,
+      "responsable_controle": null,
+      "motif": "Indices extraits automatiquement; décision documentaire encore nécessaire.",
+      "images_authentifiees": false
+    },
+    {
+      "video_id": "vk5h5-tqZgs",
+      "url": "https://www.youtube.com/watch?v=vk5h5-tqZgs",
+      "titre": "Les faits insolites de la journée du 17 octobre... Des scènes improbables",
+      "publication_utc": "2026-10-18T19:18:25Z",
+      "indices_documentaires": [
+        {
+          "champ": "title",
+          "extrait": "Les faits insolites de la journée du 17 octobre... Des scènes improbables"
+        },
+        {
+          "champ": "description",
+          "extrait": "Les faits insolites de la journée du 17 octobre. Midas de Fortnite, un petit train détourné, un mariage acclamé par les manifestants, Bat"
+        }
+      ],
+      "signalements_automatiques": [],
+      "statut": "a_verifier",
+      "preuves_examinees": [],
+      "date_controle": null,
+      "responsable_controle": null,
+      "motif": "Indices extraits automatiquement; décision documentaire encore nécessaire.",
+      "images_authentifiees": false
+    },
+    {
+      "video_id": "UblA2O-gDUs",
+      "url": "https://www.youtube.com/watch?v=UblA2O-gDUs",
+      "titre": "De nombreux véhicules en feu dans le centre de Paris, vers République, la situation est très tendue",
+      "publication_utc": "2026-10-17T14:16:50Z",
+      "indices_documentaires": [
+        {
+          "champ": "title",
+          "extrait": "De nombreux véhicules en feu dans le centre de Paris, vers République, la situation est très tendue"
+        }
+      ],
+      "signalements_automatiques": [
+        "description_absente"
+      ],
+      "statut": "a_verifier",
+      "preuves_examinees": [],
+      "date_controle": null,
+      "responsable_controle": null,
+      "motif": "Indices extraits automatiquement; décision documentaire encore nécessaire.",
+      "images_authentifiees": false
+    },
+    {
+      "video_id": "13XpoNzL7To",
+      "url": "https://www.youtube.com/watch?v=13XpoNzL7To",
+      "titre": "17 octobre : Près de 500 rassemblements attendus aux quatre coins de la France",
+      "publication_utc": "2026-10-17T05:02:16Z",
+      "indices_documentaires": [
+        {
+          "champ": "title",
+          "extrait": "17 octobre : Près de 500 rassemblements attendus aux quatre coins de la France"
+        },
+        {
+          "champ": "title",
+          "extrait": "00 rassemblements attendus aux quatre coins de la France"
+        },
+        {
+          "champ": "description",
+          "extrait": "17 octobre : Près de 500 rassemblements attendus par le ministère de l'Intérieur. Le point complet s"
+        },
+        {
+          "champ": "description",
+          "extrait": ". Le point complet sur la mobilisation à venir.\n\n#17octobre #actualité #infos \n\n ABONNEZ-VOUS À franceinfo pour suivre l’actualité en direct et en co"
+        },
+        {
+          "champ": "description",
+          "extrait": " #emmanuelmacron, #news, #actu, #newsytb, #info, #france, #infofrance, #actufrance, #france2replay, #jtfrance2replay, #information, #actualite, #d"
+        }
+      ],
+      "signalements_automatiques": [],
+      "statut": "a_verifier",
+      "preuves_examinees": [],
+      "date_controle": null,
+      "responsable_controle": null,
+      "motif": "Indices extraits automatiquement; décision documentaire encore nécessaire.",
+      "images_authentifiees": false
+    },
+    {
+      "video_id": "SPjpt1oMWTs",
+      "url": "https://www.youtube.com/watch?v=SPjpt1oMWTs",
+      "titre": "Fires Burn and Fireworks Launch as Cost-of-Living Protests Turn Violent in Paris",
+      "publication_utc": "2026-10-18T00:30:01Z",
+      "indices_documentaires": [
+        {
+          "champ": "title",
+          "extrait": "Launch as Cost-of-Living Protests Turn Violent in Paris"
+        },
+        {
+          "champ": "description",
+          "extrait": "uring protests against the high cost of living in Paris on October 17th, as riot police intervened.\n\n#protest #paris #riotpolice #police \n\nThe Ne"
+        },
+        {
+          "champ": "description",
+          "extrait": "tober 17th, as riot police intervened.\n\n#protest #paris #riotpolice #police \n\nThe New York Post is your source for breaking news, news about New "
+        }
+      ],
+      "signalements_automatiques": [],
+      "statut": "a_verifier",
+      "preuves_examinees": [],
+      "date_controle": null,
+      "responsable_controle": null,
+      "motif": "Indices extraits automatiquement; décision documentaire encore nécessaire.",
+      "images_authentifiees": false
+    },
+    {
+      "video_id": "OaDTIYsMWOg",
+      "url": "https://www.youtube.com/watch?v=OaDTIYsMWOg",
+      "titre": "Paris protests: A look at the aftermath • FRANCE 24 English",
+      "publication_utc": "2026-10-18T11:51:32Z",
+      "indices_documentaires": [
+        {
+          "champ": "title",
+          "extrait": "Paris protests: A look at the aftermath • FRANCE 24 English"
+        },
+        {
+          "champ": "title",
+          "extrait": "Paris protests: A look at the aftermath • FRANCE 24 English"
+        },
+        {
+          "champ": "description",
+          "extrait": "Following yesterday's demonstrations in Paris, where violent clashes erupted between police and protesters, our reporter Antonia Kerrig"
+        },
+        {
+          "champ": "description",
+          "extrait": "onia Kerrigan returns to place de la République.\n#Paris #protest #demonstration\n\n🔔 Subscribe to France 24 now: https://f24.my/YTen\n🔴 LIVE - Watch"
+        },
+        {
+          "champ": "description",
+          "extrait": "e.\n#Paris #protest #demonstration\n\n🔔 Subscribe to France 24 now: https://f24.my/YTen\n🔴 LIVE - Watch FRANCE 24 English 24/7 here: https://f24.my/YT"
+        },
+        {
+          "champ": "description",
+          "extrait": "France 24 now: https://f24.my/YTen\n🔴 LIVE - Watch FRANCE 24 English 24/7 here: https://f24.my/YTliveEN\n\n🌍 Read the latest International News and T"
+        }
+      ],
+      "signalements_automatiques": [],
+      "statut": "a_verifier",
+      "preuves_examinees": [],
+      "date_controle": null,
+      "responsable_controle": null,
+      "motif": "Indices extraits automatiquement; décision documentaire encore nécessaire.",
+      "images_authentifiees": false
+    },
+    {
+      "video_id": "JzMgpCBOAx8",
+      "url": "https://www.youtube.com/watch?v=JzMgpCBOAx8",
+      "titre": "Gilets jaunes : Un nouvel appel à la mobilisation a été lancé pour le samedi 24 octobre",
+      "publication_utc": "2026-10-19T10:11:14Z",
+      "indices_documentaires": [
+        {
+          "champ": "title",
+          "extrait": "ppel à la mobilisation a été lancé pour le samedi 24 octobre"
+        },
+        {
+          "champ": "description",
+          "extrait": "ilets jaunes, qui avait appelé à se rassembler le 17 octobre dernier, a lancé un nouvel appel à la mobilisation pour ce samedi 24 octobre. Après les v"
+        },
+        {
+          "champ": "description",
+          "extrait": " un nouvel appel à la mobilisation pour ce samedi 24 octobre. Après les violences survenues lors du précédent rassemblement, comment les autorités von"
+        },
+        {
+          "champ": "description",
+          "extrait": "e interdiction du rassemblement reste possible.\n\n#france #mobilisation #17octobre \n\n▶️ ABONNEZ-VOUS À franceinfo pour suivre l’actualité en direct"
+        },
+        {
+          "champ": "description",
+          "extrait": "emblement reste possible.\n\n#france #mobilisation #17octobre \n\n▶️ ABONNEZ-VOUS À franceinfo pour suivre l’actualité en direct et en continu 👉 https://"
+        },
+        {
+          "champ": "description",
+          "extrait": " #emmanuelmacron, #news, #actu, #newsytb, #info, #france, #infofrance, #actufrance, #france2replay, #jtfrance2replay, #information, #actualite, #d"
+        }
+      ],
+      "signalements_automatiques": [
+        "autre_date_ou_suite_a_examiner"
+      ],
+      "statut": "a_verifier",
+      "preuves_examinees": [],
+      "date_controle": null,
+      "responsable_controle": null,
+      "motif": "Indices extraits automatiquement; décision documentaire encore nécessaire.",
+      "images_authentifiees": false
+    },
+    {
+      "video_id": "V2nrIdK2n1c",
+      "url": "https://www.youtube.com/watch?v=V2nrIdK2n1c",
+      "titre": "17 octobre : 855 interpellations à Paris, un chiffre record",
+      "publication_utc": "2026-10-18T11:15:00Z",
+      "indices_documentaires": [
+        {
+          "champ": "title",
+          "extrait": "17 octobre : 855 interpellations à Paris, un chiffre record"
+        },
+        {
+          "champ": "title",
+          "extrait": "17 octobre : 855 interpellations à Paris, un chiffre record"
+        },
+        {
+          "champ": "description",
+          "extrait": "s vives tensions de la journée de mobilisation du 17 octobre, la préfecture de police de Paris dresse un bilan d'une ampleur inédite. Avec 855 interpe"
+        },
+        {
+          "champ": "description",
+          "extrait": "isation du 17 octobre, la préfecture de police de Paris dresse un bilan d'une ampleur inédite. Avec 855 interpellations comptabilisées dans la ca"
+        },
+        {
+          "champ": "description",
+          "extrait": " record pour une seule journée de contestation.\n\n#17octobre #actualité #infos \n\n▶️ ABONNEZ-VOUS À franceinfo pour suivre l’actualité en direct et en "
+        },
+        {
+          "champ": "description",
+          "extrait": " #emmanuelmacron, #news, #actu, #newsytb, #info, #france, #infofrance, #actufrance, #france2replay, #jtfrance2replay, #information, #actualite, #d"
+        }
+      ],
+      "signalements_automatiques": [],
+      "statut": "a_verifier",
+      "preuves_examinees": [],
+      "date_controle": null,
+      "responsable_controle": null,
+      "motif": "Indices extraits automatiquement; décision documentaire encore nécessaire.",
+      "images_authentifiees": false
+    },
+    {
+      "video_id": "PdjhewLTV_0",
+      "url": "https://www.youtube.com/watch?v=PdjhewLTV_0",
+      "titre": "Manifestation du 17 octobre : des heurts entre manifestants et forces de l’ordre",
+      "publication_utc": "2026-10-17T15:30:46Z",
+      "indices_documentaires": [
+        {
+          "champ": "title",
+          "extrait": "Manifestation du 17 octobre : des heurts entre manifestants et forces de l’ordre"
+        },
+        {
+          "champ": "description",
+          "extrait": "À Marseille et Paris , des heurts ont éclaté entre manifestants et forces de l’ordre. Ces tensions se"
+        },
+        {
+          "champ": "description",
+          "extrait": "À Marseille et Paris , des heurts ont éclaté entre manifestants et forces de l’ordre. Ces tensions se sont pro"
+        },
+        {
+          "champ": "description",
+          "extrait": "t pénétré brièvement dans le hall de la mairie de Marseille, après avoir enfoncé la porte en criant \"c'est la Révolution, on prend la Bastille\""
+        }
+      ],
+      "signalements_automatiques": [],
+      "statut": "a_verifier",
+      "preuves_examinees": [],
+      "date_controle": null,
+      "responsable_controle": null,
+      "motif": "Indices extraits automatiquement; décision documentaire encore nécessaire.",
+      "images_authentifiees": false
+    },
+    {
+      "video_id": "Qh2Zoo25yiI",
+      "url": "https://www.youtube.com/watch?v=Qh2Zoo25yiI",
+      "titre": "Des tensions à Paris, un rassemblement au lendemain du 17/10. Grenades et lacrymogènes.",
+      "publication_utc": "2026-10-18T21:13:27Z",
+      "indices_documentaires": [
+        {
+          "champ": "title",
+          "extrait": "Des tensions à Paris, un rassemblement au lendemain du 17/10. Grenades et lacrymogènes."
+        },
+        {
+          "champ": "title",
+          "extrait": "ensions à Paris, un rassemblement au lendemain du 17/10. Grenades et lacrymogènes."
+        }
+      ],
+      "signalements_automatiques": [
+        "description_absente"
+      ],
+      "statut": "a_verifier",
+      "preuves_examinees": [],
+      "date_controle": null,
+      "responsable_controle": null,
+      "motif": "Indices extraits automatiquement; décision documentaire encore nécessaire.",
+      "images_authentifiees": false
+    },
+    {
+      "video_id": "J1GlXnJaNP4",
+      "url": "https://www.youtube.com/watch?v=J1GlXnJaNP4",
+      "titre": "Manifestations du 17 octobre : un jeune Calédonien @gressé par un CRS à Paris #ncla1ere",
+      "publication_utc": "2026-10-19T02:43:25Z",
+      "indices_documentaires": [
+        {
+          "champ": "title",
+          "extrait": "Manifestations du 17 octobre : un jeune Calédonien @gressé par un CRS à Paris #ncla1ere"
+        },
+        {
+          "champ": "title",
+          "extrait": "ctobre : un jeune Calédonien @gressé par un CRS à Paris #ncla1ere"
+        },
+        {
+          "champ": "description",
+          "extrait": "Un jeune Calédonien @gressé à Paris, samedi 17 octobre 2026, en marge des manifestations place de la République. Il a été fra"
+        },
+        {
+          "champ": "description",
+          "extrait": "Un jeune Calédonien @gressé à Paris, samedi 17 octobre 2026, en marge des manifestations place de la République. Il a été frappé à la tête par u"
+        },
+        {
+          "champ": "description",
+          "extrait": "une Calédonien @gressé à Paris, samedi 17 octobre 2026, en marge des manifestations place de la République. Il a été frappé à la tête par un CRS"
+        },
+        {
+          "champ": "description",
+          "extrait": "gardez 🎥\n\n#nouvellecaledonie #outremer #ncla1ere #17octobre #manifestation\n\n📺 Bienvenue sur la chaîne officielle de Nouvelle-Calédonie La 1ère !\nRetr"
+        }
+      ],
+      "signalements_automatiques": [],
+      "statut": "a_verifier",
+      "preuves_examinees": [],
+      "date_controle": null,
+      "responsable_controle": null,
+      "motif": "Indices extraits automatiquement; décision documentaire encore nécessaire.",
+      "images_authentifiees": false
+    },
+    {
+      "video_id": "2poXOix3q3s",
+      "url": "https://www.youtube.com/watch?v=2poXOix3q3s",
+      "titre": "Le Grand Dossier : Faut-il interdire toutes les manifestations samedi  24 octobre ?｜LCI",
+      "publication_utc": "2026-10-22T17:34:19Z",
+      "indices_documentaires": [
+        {
+          "champ": "title",
+          "extrait": "ut-il interdire toutes les manifestations samedi  24 octobre ?｜LCI"
+        },
+        {
+          "champ": "description",
+          "extrait": "erdites sur tout le territoire français ce samedi 24 octobre. Plusieurs villes ont d'ores et déjà pris la décision de ne pas en autoriser. Après des h"
+        },
+        {
+          "champ": "description",
+          "extrait": "Fallait-il l'interdire ? Quels sont les risques à Paris et ailleurs ?\n\n📺 Retrouvez LCI sur le canal 15. Le meilleur de l'info, de l'analyse, du d"
+        }
+      ],
+      "signalements_automatiques": [
+        "autre_date_ou_suite_a_examiner"
+      ],
+      "statut": "a_verifier",
+      "preuves_examinees": [],
+      "date_controle": null,
+      "responsable_controle": null,
+      "motif": "Indices extraits automatiquement; décision documentaire encore nécessaire.",
+      "images_authentifiees": false
+    },
+    {
+      "video_id": "NjgZZjrplwk",
+      "url": "https://www.youtube.com/watch?v=NjgZZjrplwk",
+      "titre": "Violents affrontements Place de la République en marge de la manifestation du 17 octobre à Paris",
+      "publication_utc": "2026-10-17T19:59:57Z",
+      "indices_documentaires": [
+        {
+          "champ": "title",
+          "extrait": " de la République en marge de la manifestation du 17 octobre à Paris"
+        },
+        {
+          "champ": "title",
+          "extrait": "ique en marge de la manifestation du 17 octobre à Paris"
+        },
+        {
+          "champ": "description",
+          "extrait": "17 OCTOBRE - De violents affrontements face aux forces de l'ordre ont éclaté en marge de la manifest"
+        },
+        {
+          "champ": "description",
+          "extrait": "'ordre ont éclaté en marge de la manifestation du 17 octobre place de la République à Paris.\n\nAu lendemain de la mobilisation du 17 octobre contre la "
+        },
+        {
+          "champ": "description",
+          "extrait": "ifestation du 17 octobre place de la République à Paris.\n\nAu lendemain de la mobilisation du 17 octobre contre la vie chère et pour les moyens de"
+        },
+        {
+          "champ": "description",
+          "extrait": "ique à Paris.\n\nAu lendemain de la mobilisation du 17 octobre contre la vie chère et pour les moyens de l'éducation, qui a réuni samedi 550 000 personn"
+        },
+        {
+          "champ": "description",
+          "extrait": "ducation, qui a réuni samedi 550 000 personnes en France selon le ministère de l'Intérieur, dont 110 000 à Paris, et 800 000 selon les organisateu"
+        },
+        {
+          "champ": "description",
+          "extrait": "selon le ministère de l'Intérieur, dont 110 000 à Paris, et 800 000 selon les organisateurs, le bilan fait état selon le ministère de l'Intérieur"
+        },
+        {
+          "champ": "description",
+          "extrait": "ait le mouvement lycéen né mi-septembre en Île-de-France, qui dénonce le manque d'enseignants, la vétusté des bâtiments et la sélection par Parcou"
+        },
+        {
+          "champ": "description",
+          "extrait": " CGT, Solidaires et la Confédération paysanne.\n\nÀ Paris, le cortège parti à 14h de la place de la République vers la place de Clichy a été encadr"
+        },
+        {
+          "champ": "description",
+          "extrait": "1 000 personnes.\n\nEn régions, l'hôtel de ville de Limoges, classé monument historique, a été en grande partie détruit par un incendie, son campanil"
+        },
+        {
+          "champ": "description",
+          "extrait": "die, son campanile s'effondrant dans la soirée. À Marseille, où le préfet évoque 7 000 à 8 000 pilleurs, l'hôtel de ville a été envahi, de nombreux c"
+        },
+        {
+          "champ": "description",
+          "extrait": " la mairie a été forcée et des locaux dévastés. À Toulouse, 94 personnes ont été interpellées et une vingtaine de magasins pillés. Grenoble a connu "
+        },
+        {
+          "champ": "description",
+          "extrait": "interpellées et une vingtaine de magasins pillés. Grenoble a connu 55 incendies criminels, Nice une quarantaine d'interpellations pour pillages. Des"
+        },
+        {
+          "champ": "description",
+          "extrait": "ué un point de non-retour et appelé, en visant La France insoumise, à choisir son camp entre la République et les casseurs. Emmanuel Macron a déno"
+        },
+        {
+          "champ": "description",
+          "extrait": "es à l'extrême gauche radicale, se rendra lundi à Marseille. Les maires de Paris, Marseille et Lyon, Emmanuel Grégoire, Benoît Payan et Grégory Douce"
+        },
+        {
+          "champ": "description",
+          "extrait": "icale, se rendra lundi à Marseille. Les maires de Paris, Marseille et Lyon, Emmanuel Grégoire, Benoît Payan et Grégory Doucet, demandent à être r"
+        },
+        {
+          "champ": "description",
+          "extrait": "se rendra lundi à Marseille. Les maires de Paris, Marseille et Lyon, Emmanuel Grégoire, Benoît Payan et Grégory Doucet, demandent à être reçus par le"
+        },
+        {
+          "champ": "description",
+          "extrait": "nts. Une marche des élus est prévue ce dimanche à Limoges, et une intersyndicale appelle à la grève et à manifester le 5 novembre.\n\nAbonnez-vous po"
+        },
+        {
+          "champ": "description",
+          "extrait": " https://youtube.com/clpress?sub_confirmation=1\n\n#17octobre #incendie #casseurs #tensions #giletsjaunes #syndicats #lycéens #étudiants #GiletsJaunes2"
+        },
+        {
+          "champ": "description",
+          "extrait": "dicats #lycéens #étudiants #GiletsJaunes2026 #GJ #paris #manifestation #viechere #haussedesprix #inflation #PouvoirDAchat #social #conflitsocial "
+        }
+      ],
+      "signalements_automatiques": [],
+      "statut": "a_verifier",
+      "preuves_examinees": [],
+      "date_controle": null,
+      "responsable_controle": null,
+      "motif": "Indices extraits automatiquement; décision documentaire encore nécessaire.",
+      "images_authentifiees": false
+    },
+    {
+      "video_id": "nutckpxgXuA",
+      "url": "https://www.youtube.com/watch?v=nutckpxgXuA",
+      "titre": "17 octobre : à Paris, des affrontements éclatent dans plusieurs endroits",
+      "publication_utc": "2026-10-17T14:46:19Z",
+      "indices_documentaires": [
+        {
+          "champ": "title",
+          "extrait": "17 octobre : à Paris, des affrontements éclatent dans plusieurs endroits"
+        },
+        {
+          "champ": "title",
+          "extrait": "17 octobre : à Paris, des affrontements éclatent dans plusieurs endroits"
+        },
+        {
+          "champ": "description",
+          "extrait": "À Paris, le défilé a démarré sous haute tension, avec des heurts dans plusieurs endroits de la ca"
+        }
+      ],
+      "signalements_automatiques": [],
+      "statut": "a_verifier",
+      "preuves_examinees": [],
+      "date_controle": null,
+      "responsable_controle": null,
+      "motif": "Indices extraits automatiquement; décision documentaire encore nécessaire.",
+      "images_authentifiees": false
+    },
+    {
+      "video_id": "tTOLXnBHvDE",
+      "url": "https://www.youtube.com/watch?v=tTOLXnBHvDE",
+      "titre": "17 Octobre - Voiture incendiée au milieu des manifestants place de la République - Gilets Jaunes",
+      "publication_utc": "2026-10-17T14:25:14Z",
+      "indices_documentaires": [
+        {
+          "champ": "title",
+          "extrait": "17 Octobre - Voiture incendiée au milieu des manifestants place de la République - Gilets Jaunes"
+        },
+        {
+          "champ": "description",
+          "extrait": "17 OCTOBRE - Une voiture incendiée Place de la République à Paris sous les slogans \"Macron Démission"
+        },
+        {
+          "champ": "description",
+          "extrait": " - Une voiture incendiée Place de la République à Paris sous les slogans \"Macron Démission\" en marge de la manifestation des Gilets Jaunes.\n\nAu l"
+        },
+        {
+          "champ": "description",
+          "extrait": "ilets Jaunes.\n\nAu lendemain de la mobilisation du 17 octobre contre la vie chère et pour les moyens de l'éducation, qui a réuni samedi 550 000 personn"
+        },
+        {
+          "champ": "description",
+          "extrait": "ducation, qui a réuni samedi 550 000 personnes en France selon le ministère de l'Intérieur, dont 110 000 à Paris, et 800 000 selon les organisateu"
+        },
+        {
+          "champ": "description",
+          "extrait": "selon le ministère de l'Intérieur, dont 110 000 à Paris, et 800 000 selon les organisateurs, le bilan fait état selon le ministère de l'Intérieur"
+        },
+        {
+          "champ": "description",
+          "extrait": "ait le mouvement lycéen né mi-septembre en Île-de-France, qui dénonce le manque d'enseignants, la vétusté des bâtiments et la sélection par Parcou"
+        },
+        {
+          "champ": "description",
+          "extrait": " CGT, Solidaires et la Confédération paysanne.\n\nÀ Paris, le cortège parti à 14h de la place de la République vers la place de Clichy a été encadr"
+        },
+        {
+          "champ": "description",
+          "extrait": "1 000 personnes.\n\nEn régions, l'hôtel de ville de Limoges, classé monument historique, a été en grande partie détruit par un incendie, son campanil"
+        },
+        {
+          "champ": "description",
+          "extrait": "die, son campanile s'effondrant dans la soirée. À Marseille, où le préfet évoque 7 000 à 8 000 pilleurs, l'hôtel de ville a été envahi, de nombreux c"
+        },
+        {
+          "champ": "description",
+          "extrait": " la mairie a été forcée et des locaux dévastés. À Toulouse, 94 personnes ont été interpellées et une vingtaine de magasins pillés. Grenoble a connu "
+        },
+        {
+          "champ": "description",
+          "extrait": "interpellées et une vingtaine de magasins pillés. Grenoble a connu 55 incendies criminels, Nice une quarantaine d'interpellations pour pillages. Des"
+        },
+        {
+          "champ": "description",
+          "extrait": "ué un point de non-retour et appelé, en visant La France insoumise, à choisir son camp entre la République et les casseurs. Emmanuel Macron a déno"
+        },
+        {
+          "champ": "description",
+          "extrait": "es à l'extrême gauche radicale, se rendra lundi à Marseille. Les maires de Paris, Marseille et Lyon, Emmanuel Grégoire, Benoît Payan et Grégory Douce"
+        },
+        {
+          "champ": "description",
+          "extrait": "icale, se rendra lundi à Marseille. Les maires de Paris, Marseille et Lyon, Emmanuel Grégoire, Benoît Payan et Grégory Doucet, demandent à être r"
+        },
+        {
+          "champ": "description",
+          "extrait": "se rendra lundi à Marseille. Les maires de Paris, Marseille et Lyon, Emmanuel Grégoire, Benoît Payan et Grégory Doucet, demandent à être reçus par le"
+        },
+        {
+          "champ": "description",
+          "extrait": "nts. Une marche des élus est prévue ce dimanche à Limoges, et une intersyndicale appelle à la grève et à manifester le 5 novembre.\n\nAbonnez-vous po"
+        },
+        {
+          "champ": "description",
+          "extrait": " https://youtube.com/clpress?sub_confirmation=1\n\n#17octobre #giletsjaunes #syndicats #lycéens #étudiants #GiletsJaunes2026 #GJ #paris #manifestation "
+        },
+        {
+          "champ": "description",
+          "extrait": "dicats #lycéens #étudiants #GiletsJaunes2026 #GJ #paris #manifestation #viechere #haussedesprix #inflation #PouvoirDAchat #social #conflitsocial "
+        }
+      ],
+      "signalements_automatiques": [],
+      "statut": "a_verifier",
+      "preuves_examinees": [],
+      "date_controle": null,
+      "responsable_controle": null,
+      "motif": "Indices extraits automatiquement; décision documentaire encore nécessaire.",
+      "images_authentifiees": false
+    },
+    {
+      "video_id": "S3cnVOG-IEM",
+      "url": "https://www.youtube.com/watch?v=S3cnVOG-IEM",
+      "titre": "À Toulouse, la colère sociale éclipsée par les violences",
+      "publication_utc": "2026-10-18T11:19:34Z",
+      "indices_documentaires": [
+        {
+          "champ": "title",
+          "extrait": "À Toulouse, la colère sociale éclipsée par les violences"
+        },
+        {
+          "champ": "description",
+          "extrait": "Au lendemain de la journée de mobilisation du 17 octobre, le constat est amer pour de nombreux cortèges syndicaux et militants à Toulouse. Alors q"
+        },
+        {
+          "champ": "description",
+          "extrait": "our de nombreux cortèges syndicaux et militants à Toulouse. Alors que les défilés avaient débuté dans le calme pour porter des revendications économ"
+        },
+        {
+          "champ": "description",
+          "extrait": "ciblées dans le centre-ville.\n\n#actualité #infos #17octobre \n\n▶️ ABONNEZ-VOUS À franceinfo pour suivre l’actualité en direct et en continu 👉 https://"
+        },
+        {
+          "champ": "description",
+          "extrait": " #emmanuelmacron, #news, #actu, #newsytb, #info, #france, #infofrance, #actufrance, #france2replay, #jtfrance2replay, #information, #actualite, #d"
+        }
+      ],
+      "signalements_automatiques": [],
+      "statut": "a_verifier",
+      "preuves_examinees": [],
+      "date_controle": null,
+      "responsable_controle": null,
+      "motif": "Indices extraits automatiquement; décision documentaire encore nécessaire.",
+      "images_authentifiees": false
+    },
+    {
+      "video_id": "JgYrYF9NGU0",
+      "url": "https://www.youtube.com/watch?v=JgYrYF9NGU0",
+      "titre": "Manifestation du 17 octobre : l’essentiel de la déclaration d’Emmanuel Macron",
+      "publication_utc": "2026-10-18T19:30:43Z",
+      "indices_documentaires": [
+        {
+          "champ": "title",
+          "extrait": "Manifestation du 17 octobre : l’essentiel de la déclaration d’Emmanuel Macron"
+        },
+        {
+          "champ": "description",
+          "extrait": "iolences survenues en marge des manifestations du 17 octobre."
+        }
+      ],
+      "signalements_automatiques": [],
+      "statut": "a_verifier",
+      "preuves_examinees": [],
+      "date_controle": null,
+      "responsable_controle": null,
+      "motif": "Indices extraits automatiquement; décision documentaire encore nécessaire.",
+      "images_authentifiees": false
+    },
+    {
+      "video_id": "yrp2OmjbBzM",
+      "url": "https://www.youtube.com/watch?v=yrp2OmjbBzM",
+      "titre": "Apocalypse à Grenoble, 17 octobre.#grenoble #manifestation #17october ",
+      "publication_utc": "2026-10-18T08:23:10Z",
+      "indices_documentaires": [
+        {
+          "champ": "title",
+          "extrait": "Apocalypse à Grenoble, 17 octobre.#grenoble #manifestation #17october "
+        },
+        {
+          "champ": "title",
+          "extrait": "Apocalypse à Grenoble, 17 octobre.#grenoble #manifestation #17october "
+        },
+        {
+          "champ": "title",
+          "extrait": "Apocalypse à Grenoble, 17 octobre.#grenoble #manifestation #17october "
+        },
+        {
+          "champ": "title",
+          "extrait": " à Grenoble, 17 octobre.#grenoble #manifestation #17october "
+        }
+      ],
+      "signalements_automatiques": [
+        "description_absente"
+      ],
+      "statut": "a_verifier",
+      "preuves_examinees": [],
+      "date_controle": null,
+      "responsable_controle": null,
+      "motif": "Indices extraits automatiquement; décision documentaire encore nécessaire.",
+      "images_authentifiees": false
+    },
+    {
+      "video_id": "StreN75aQRg",
+      "url": "https://www.youtube.com/watch?v=StreN75aQRg",
+      "titre": "Protesters looted shops in Lille and Paris on Saturday (October 17), smashing windows and carrying a",
+      "publication_utc": "2026-10-18T06:50:15Z",
+      "indices_documentaires": [
+        {
+          "champ": "title",
+          "extrait": "Protesters looted shops in Lille and Paris on Saturday (October 17), smashing windows and carrying a"
+        },
+        {
+          "champ": "description",
+          "extrait": "Protesters looted shops in Lille and Paris on Saturday (October 17), smashing windows and carrying away clothing, food and other goo"
+        },
+        {
+          "champ": "description",
+          "extrait": "ng, food and other goods as demonstrations across France descended into violence."
+        }
+      ],
+      "signalements_automatiques": [],
+      "statut": "a_verifier",
+      "preuves_examinees": [],
+      "date_controle": null,
+      "responsable_controle": null,
+      "motif": "Indices extraits automatiquement; décision documentaire encore nécessaire.",
+      "images_authentifiees": false
+    },
+    {
+      "video_id": "cwKSHmBub54",
+      "url": "https://www.youtube.com/watch?v=cwKSHmBub54",
+      "titre": "“L’Etat n’existait plus”... les réactions politiques après les manifestations du 17 octobre",
+      "publication_utc": "2026-10-19T17:24:18Z",
+      "indices_documentaires": [
+        {
+          "champ": "title",
+          "extrait": " réactions politiques après les manifestations du 17 octobre"
+        },
+        {
+          "champ": "description",
+          "extrait": "es manifestations” c’est comme ça que le maire de Paris, Emmanuel Grégoire, a résumé la situation après un week-end de manifestations mouvementé "
+        }
+      ],
+      "signalements_automatiques": [],
+      "statut": "a_verifier",
+      "preuves_examinees": [],
+      "date_controle": null,
+      "responsable_controle": null,
+      "motif": "Indices extraits automatiquement; décision documentaire encore nécessaire.",
+      "images_authentifiees": false
+    },
+    {
+      "video_id": "FQ7-YQ-1Um8",
+      "url": "https://www.youtube.com/watch?v=FQ7-YQ-1Um8",
+      "titre": "Mobilisation du 17 octobre : Une voiture prise pour cible à Paris｜TF1 INFO",
+      "publication_utc": "2026-10-17T14:25:39Z",
+      "indices_documentaires": [
+        {
+          "champ": "title",
+          "extrait": "Mobilisation du 17 octobre : Une voiture prise pour cible à Paris｜TF1 INFO"
+        },
+        {
+          "champ": "title",
+          "extrait": "on du 17 octobre : Une voiture prise pour cible à Paris｜TF1 INFO"
+        },
+        {
+          "champ": "description",
+          "extrait": " personnes ont manifesté dans plusieurs villes de France, ce samedi, à l’occasion de la mobilisation du 17 octobre, contre la vie chère notamment."
+        },
+        {
+          "champ": "description",
+          "extrait": "ce, ce samedi, à l’occasion de la mobilisation du 17 octobre, contre la vie chère notamment. À Paris, de nombreuses dégradations ont été constatées pl"
+        },
+        {
+          "champ": "description",
+          "extrait": "n du 17 octobre, contre la vie chère notamment. À Paris, de nombreuses dégradations ont été constatées place de la République.\n\n➡️ Toute l’actual"
+        }
+      ],
+      "signalements_automatiques": [],
+      "statut": "a_verifier",
+      "preuves_examinees": [],
+      "date_controle": null,
+      "responsable_controle": null,
+      "motif": "Indices extraits automatiquement; décision documentaire encore nécessaire.",
+      "images_authentifiees": false
+    },
+    {
+      "video_id": "HLgWC5mCvNc",
+      "url": "https://www.youtube.com/watch?v=HLgWC5mCvNc",
+      "titre": "SCENE: Protesters clash with police in Paris as France rocked by October 17 cost-of-living protests",
+      "publication_utc": "2026-10-18T02:47:25Z",
+      "indices_documentaires": [
+        {
+          "champ": "title",
+          "extrait": "SCENE: Protesters clash with police in Paris as France rocked by October 17 cost-of-living protests"
+        },
+        {
+          "champ": "title",
+          "extrait": "SCENE: Protesters clash with police in Paris as France rocked by October 17 cost-of-living protests"
+        },
+        {
+          "champ": "description",
+          "extrait": "ice, looted shops and multiple fires erupt across France on October 17, 2026, as nationwide demonstrations against soaring living costs, education"
+        },
+        {
+          "champ": "description",
+          "extrait": "multiple fires erupt across France on October 17, 2026, as nationwide demonstrations against soaring living costs, education budget, and differe"
+        },
+        {
+          "champ": "description",
+          "extrait": "ence breaks out across multiple cities, including Paris, Lyon, Marseille, Lille, Rennes and Nantes, boosting a protest movement that poses a majo"
+        },
+        {
+          "champ": "description",
+          "extrait": "ut across multiple cities, including Paris, Lyon, Marseille, Lille, Rennes and Nantes, boosting a protest movement that poses a major challenge to Pr"
+        }
+      ],
+      "signalements_automatiques": [],
+      "statut": "a_verifier",
+      "preuves_examinees": [],
+      "date_controle": null,
+      "responsable_controle": null,
+      "motif": "Indices extraits automatiquement; décision documentaire encore nécessaire.",
+      "images_authentifiees": false
+    },
+    {
+      "video_id": "SHni1klVJjg",
+      "url": "https://www.youtube.com/watch?v=SHni1klVJjg",
+      "titre": "J’ai mal au cœur 💔 #paris #manifestation #manifestations #france #17octobre #17october  #pillage",
+      "publication_utc": "2026-10-18T09:58:49Z",
+      "indices_documentaires": [
+        {
+          "champ": "title",
+          "extrait": "J’ai mal au cœur 💔 #paris #manifestation #manifestations #france #17octobre #17october  #pillage"
+        },
+        {
+          "champ": "title",
+          "extrait": " au cœur 💔 #paris #manifestation #manifestations #france #17octobre #17october  #pillage"
+        },
+        {
+          "champ": "title",
+          "extrait": " 💔 #paris #manifestation #manifestations #france #17octobre #17october  #pillage"
+        },
+        {
+          "champ": "title",
+          "extrait": "manifestation #manifestations #france #17octobre #17october  #pillage"
+        }
+      ],
+      "signalements_automatiques": [
+        "description_absente"
+      ],
+      "statut": "a_verifier",
+      "preuves_examinees": [],
+      "date_controle": null,
+      "responsable_controle": null,
+      "motif": "Indices extraits automatiquement; décision documentaire encore nécessaire.",
+      "images_authentifiees": false
+    },
+    {
+      "video_id": "q2GiX6VKgy0",
+      "url": "https://www.youtube.com/watch?v=q2GiX6VKgy0",
+      "titre": "Marseille. Manifestations, pillages et violences, une journée de colère qui laisse la ville meurtrie",
+      "publication_utc": "2026-10-17T19:25:48Z",
+      "indices_documentaires": [
+        {
+          "champ": "title",
+          "extrait": "Marseille. Manifestations, pillages et violences, une journée de colère qui laisse la ville meurtri"
+        },
+        {
+          "champ": "description",
+          "extrait": "ui se poursuivaient encore à 20 heures. Ce samedi 17 octobre, Marseille a vécu une journée de chaos. Des scènes de dévastation qui ont éclipsé la mobi"
+        },
+        {
+          "champ": "description",
+          "extrait": "ivaient encore à 20 heures. Ce samedi 17 octobre, Marseille a vécu une journée de chaos. Des scènes de dévastation qui ont éclipsé la mobilisation de"
+        }
+      ],
+      "signalements_automatiques": [],
+      "statut": "a_verifier",
+      "preuves_examinees": [],
+      "date_controle": null,
+      "responsable_controle": null,
+      "motif": "Indices extraits automatiquement; décision documentaire encore nécessaire.",
+      "images_authentifiees": false
+    },
+    {
+      "video_id": "QnfLcjk4x_s",
+      "url": "https://www.youtube.com/watch?v=QnfLcjk4x_s",
+      "titre": "Les Gilets jaunes ont obtenu 10 milliards d'euros en cassant par Lou Fritel - C Ce Soir",
+      "publication_utc": "2026-10-21T08:00:22Z",
+      "indices_documentaires": [
+        {
+          "champ": "description",
+          "extrait": "________________________________________________\n\n17 Octobre : Une réponse politique à la hauteur ?\n\n72h après les évènements du 17 octobre, et alors "
+        },
+        {
+          "champ": "description",
+          "extrait": "tique à la hauteur ?\n\n72h après les évènements du 17 octobre, et alors que le gouvernement a, en partie, reconnu un échec sécuritaire, l’heure est aux"
+        },
+        {
+          "champ": "description",
+          "extrait": "es invités de Camille Diao de ce mardi 20 octobre 2026 :\n\n- Marie LAJUS, haute fonctionnaire, ancienne préfète et ancienne commissaire de police"
+        },
+        {
+          "champ": "description",
+          "extrait": " think tank Terra Nova, a co-écrit « Sans eux. La France sans les immigrés », avec Guillaume Hannezo et Hakim El Karoui (Les Petits Matins)\n\n- Tho"
+        },
+        {
+          "champ": "description",
+          "extrait": " nationale\n\n- Lou Fritel, journaliste politique à Paris Match - suivi des droites\n\n- Anne-Charlène BEZZINA, constitutionnaliste, maîtresse de con"
+        }
+      ],
+      "signalements_automatiques": [],
+      "statut": "a_verifier",
+      "preuves_examinees": [],
+      "date_controle": null,
+      "responsable_controle": null,
+      "motif": "Indices extraits automatiquement; décision documentaire encore nécessaire.",
+      "images_authentifiees": false
+    }
+  ]
+}

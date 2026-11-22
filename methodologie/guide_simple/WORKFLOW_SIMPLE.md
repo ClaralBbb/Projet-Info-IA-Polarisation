@@ -148,13 +148,13 @@ Le JSON V1 est un formulaire informatique à cases définies. Le modèle doit re
 
 Les essais ont été faits sans contacter de modèle : le programme a préparé les entrées des 50 commentaires pendant les tests, et un exemple de 10 requêtes a été enregistré pour consultation. Les autres tests utilisent des réponses factices pour vérifier les erreurs, les refus et les reprises. Au total, 31 tests passent. Cela montre que le code se comporte comme prévu dans ces cas, pas que les futures interprétations seront justes.
 
-Le programme garde la version des consignes, le modèle choisi et les données utilisées. Lors d’un futur appel réel, il enregistrera aussi la réponse et la consommation API. Si un appel échoue ou donne une réponse invalide, il s’arrête : il ne recommence pas automatiquement en risquant de facturer deux fois.
+Le programme garde les consignes, le modèle, les données et désormais le registre de contrôle des vidéos. Il enregistrera les réponses et la consommation API. En cas d’échec ou de réponse invalide, il s’arrête sans recommencer automatiquement un appel facturé.
 
 À consulter : [Guide et exemple des 10 requêtes préparées](https://github.com/ClaralBbb/Projet-Info-IA-Polarisation/blob/main/classification_v1/README.md)
 
 ## 10. Ce qui reste à faire — PAS ENCORE EXÉCUTÉ
 
-1. Choisir un modèle compatible et estimer le prix d’un petit essai réel. Aucun modèle API n’est encore choisi pour cette nouvelle grille, et aucun appel payant n’a été lancé.
+1. Étayer le rattachement des vidéos candidates avec des preuves examinées ; voir la méthode ajoutée à l’étape 11. En parallèle, choisir un modèle compatible et chiffrer un petit essai. Aucun appel payant n’a été lancé.
 
 2. Après accord sur le coût, lancer ce petit essai et examiner les erreurs : mauvaise cible, position forcée, argument inventé ou contexte mal compris. Pour mesurer la qualité, prévoir un contrôle humain indépendant ; tes relectures précédentes ont surtout servi à construire la méthode.
 
@@ -163,3 +163,39 @@ Le programme garde la version des consignes, le modèle choisi et les données u
 4. Comparer les arguments sur une même proposition pour étudier convergences et divergences, puis définir comment mesurer la polarisation. Aucun indice n’est encore validé. Les autres sujets et leurs liens pourront être étudiés ensuite.
 
 Tu peux modifier ce Word et ajouter tes commentaires. Il n’y a pas de nouveau fichier de 50 annotations à remplir maintenant.
+
+---
+
+## 11. Contrôler les vidéos avant de compter les opinions
+
+Ajout du 22 novembre 2026. Nous cherchons à savoir si une vidéo traite de la mobilisation du 17 octobre 2026 en France. Ce n’est pas la même chose que prouver que chaque image a été filmée ce jour-là ou que toutes les accusations sont vraies.
+
+## Ce qui a été fait, et comment
+
+Le premier tri a été fait par moi, l’assistant, en lisant les titres, descriptions, commentaires et parents. Il a distingué les liens plausibles, les suites, les autres événements et les cas incertains. Il n’y a eu ni visionnage ni vérification indépendante des faits.
+
+Un nouveau code a maintenant parcouru les titres et descriptions archivés des 50 vidéos. Il repère des indications de date, d’année et de lieu, conserve les extraits et signale notamment 1961, les dates suivantes ou la contradiction « 7 »/« 17 octobre ». La publication est conservée séparément : publier le 17 ne prouve pas que les scènes datent du 17. Ces règles peuvent manquer des formulations ; elles ne décident pas seules de la pertinence.
+
+Résultat : 50 fiches de précontrôle créées, une par vidéo. Elles restent toutes « à vérifier ». Aucun rattachement n’a été déclaré étayé automatiquement. Aucun reportage, aucune transcription et aucune source concordante n’ont été examinés dans cette nouvelle étape.
+
+À consulter : [Code du précontrôle et des contrôles de preuves : controle.py](https://github.com/ClaralBbb/Projet-Info-IA-Polarisation/blob/main/verification_evenement/controle.py)
+
+À consulter : [Les 50 fiches produites](https://github.com/ClaralBbb/Projet-Info-IA-Polarisation/blob/main/verification_evenement/precontrole_50.json)
+
+## Comment compléter la vérification
+
+Pour chaque vidéo candidate, examiner le reportage, une transcription disponible ou une source concordante. Enregistrer le lien, le passage utile, le motif, la date du contrôle et qui l’a fait. La preuve doit étayer la date de l’événement et son lieu en France. Sinon garder « lien plausible » ou « à vérifier » ; une autre date peut être classée comme suite ou autre événement.
+
+Le programme vérifie que ces informations sont renseignées, mais il ne peut pas garantir que la personne a bien examiné la source ou que celle-ci dit vrai. Le statut « rattachement étayé » reste une décision documentaire, pas une certification de toutes les images.
+
+## Ce que cela change pour la classification
+
+Le contrôle est joint par identifiant de vidéo avant l’envoi au modèle. Pour être candidate aux statistiques principales, une position doit désormais réunir un rattachement vidéo étayé, un commentaire admissible et une opinion suffisamment claire. Sans cela, elle reste exploratoire ou séparée. Le dashboard et les anciennes annotations n’ont pas changé ; aucun appel LLM payant n’a été lancé.
+
+À consulter : [Code qui associe le contrôle à la classification : pipeline.py](https://github.com/ClaralBbb/Projet-Info-IA-Polarisation/blob/main/classification_v1/pipeline.py)
+
+## Ce que tu peux faire pour avancer
+
+Tu peux commencer par regarder quelques vidéos candidates et les cas signalés, puis me transmettre les liens ou passages qui permettent de préciser la date et le lieu. Pas besoin de réannoter tous les commentaires. Nous pourrons documenter les décisions, puis choisir le modèle et le budget du petit essai, contrôler ses erreurs et seulement ensuite élargir l’analyse.
+
+À consulter : [Méthode et prochaines étapes](https://github.com/ClaralBbb/Projet-Info-IA-Polarisation/blob/main/verification_evenement/README.md)

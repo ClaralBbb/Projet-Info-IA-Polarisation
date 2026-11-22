@@ -51,3 +51,7 @@ Le même dossier ne peut pas recevoir un modèle, des données, des consignes, u
 ## Validation avant extension
 
 Les contrôles techniques ne prouvent pas une interprétation correcte. Le prochain essai réel doit vérifier les erreurs de cible, de position, les arguments inventés ou manqués et les effets du parent. Les exemples des passes précédentes ont développé la grille ; un contrôle humain indépendant reste nécessaire avant les statistiques ou le passage à des milliers de commentaires.
+
+## Mise à jour : contrôle documentaire par vidéo
+
+Voir [la méthode de vérification](../verification_evenement/README.md). Le script accepte maintenant `--verification REGISTRE.json`. Le précontrôle des 50 vidéos est chargé pour le pilote ; pour une autre source sans registre, le contrôle reste à faire. Un rattachement vidéo documenté et étayé est désormais requis pour marquer des positions candidates aux statistiques principales. Les simulations archivées dans ce dossier précèdent cette évolution : relancer dans un nouveau dossier pour intégrer le contrôle. Aucun rattachement n’a été confirmé automatiquement.

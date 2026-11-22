@@ -35,6 +35,8 @@ class PipelineV1Tests(unittest.TestCase):
                 self.assertEqual(data['commentaire']['texte_parent'],row['texte_parent'])
                 self.assertNotIn('positions',data['commentaire'])
                 self.assertNotIn('annotation',data)
+                self.assertIn('verification_video',data['contexte_documentaire'])
+                self.assertFalse(data['contexte_documentaire']['documentaire_candidat'])
                 self.assertEqual(body['text']['format']['name'],'positions_v1')
                 self.assertTrue(body['text']['format']['strict'])
                 self.assertEqual(body['text']['format']['schema'],self.schema)
